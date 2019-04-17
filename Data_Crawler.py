@@ -3,8 +3,7 @@
 
 # To run the script
 # In Python IDE or Notebook:
-# After running the function. Type Data_Crawler(Full location of the TSAUD File
-#                                                 , Full Name of the Directory )
+# After running the function. Type Data_Crawler(Full location of the TSAUD File, Full Name of the Directory )
 # If run in notebook:
 # Change TSAUD_file to <full_name_of_TSAUD_file.xlsx> instead
 
