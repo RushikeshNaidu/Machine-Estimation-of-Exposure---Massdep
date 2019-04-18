@@ -57,6 +57,10 @@ An approach to the construction of classifiers from imbalanced datasets is descr
 
 1. Logistic Regression
 2. Naive Bayes Classifier
+3. Random Forest
+4. XG Boost
+
+Documentign only logistic regression and naive bayes as the two algorithms gave the best results along with time efficiency.
 
 ## 7. Results
 
