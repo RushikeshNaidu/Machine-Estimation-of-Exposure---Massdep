@@ -1,0 +1,8764 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Mr
+
+
+ AECOM 978.589.3000  tel 
+ 2 Technology Park Drive  978.589.3100  fax 
+ Westford, MA  01886-3140  
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+June 7, 2010 
+
+ 
+
+Massachusetts Department of Environmental Protection 
+Bureau of Waste Site Cleanup 
+Central Regional Office 
+627 Main Street  
+Worcester, MA 01608 
+ 
+ 
+Subject:  Immediate Response Action Completion Report 
+ Cumberland Farms, Inc. Facility #2141 / Station# V0984 
+ 1289 Main Street (Route 13) 
+ Leominster, Massachusetts  01453-1757 
+ DEP RTN 2-17414 
+
+AECOM File: 60136873 
+
+To Whom It May Concern: 
+
+AECOM Environment (AECOM) has prepared this Immediate Response Action Completion (IRAC) 
+Report for the above-referenced disposal site on behalf of Cumberland Farms, Inc. (CFI).  The 
+following report is being submitted to address Release Tracking Number (RTN) 2-17414 issued by 
+the Massachusetts Department of Environmental Protection (DEP) on February 10, 2009.  The RTN 
+was issued due to the presence of gasoline fuel identified within a submersible turbine pump (STP) 
+sump further discussed below.  Based on the amount of gasoline within the STP sump being 
+greater than 10 gallons, the spill was reported to the DEP within the 2 hour reporting timeline.  This 
+document details the activities of the Immediate Response Action (IRA) activities completed from 
+February 10, 2009 through May 10, 2010.  This IRAC Report is being submitted as an Attachment 
+to the IRA Completion Statement Transmittal Form (BWSC-105).  Information required for an IRA 
+Completion Statement, as specified in 310 CMR 40.0427, is contained in this document as a whole.   
+
+Implementation of this IRA acted as an accelerated response action to prevent, eliminate, and/or 
+minimize damage to health, safety, public welfare or the environment which may result from the 
+contamination identified at the site.  All opinions and recommendations made in this report are 
+based on the work performed by AECOM and are subject to the service constraints included as 
+Attachment A. 
+
+Potentially Responsible Party: Cumberland Farms, Inc. (CFI) 
+ Attn:  Christopher Johnson 
+ Business Support Center  
+ 100 Crossing Boulevard 
+ Framingham, MA  01702 
+ (508) 270-4495 
+ Owner/Operator 
+
+
+
+2 
+AECOM 
+ 
+
+J:\Northboro\PST\CFI 2140\Massachusetts 2140\Leominster-393 
+NEW\Reports\IRAC\IRAC 5-10 CM final.docx 
+ 
+
+1.0 Background Information 
+
+1.1 Description of the Release 
+• On February 10, 2009, at approximately 10:49 am, approximately 25 gallons of gasoline 
+
+were released from an STP pump to the STP sump associated with the regular grade 
+underground storage tank (UST).  The release was discovered following an alarm 
+associated with the STP sump.  It is AECOM’s understanding that the release was 
+contained within the STP sump.  The spill was reported to the DEP as a release/spill 
+greater than 10 gallons on February 10, 2009 at 12:13 pm.  The DEP granted verbal IRA 
+approval to perform cleanup activities, investigation and evaluation, including removal of 
+product from the sump, assessment of impact to the environment/indoor air and repair of 
+the leak.  Following notification, Mr. Bob Dunn from the DEP issued RTN 2-17414.    
+
+1.2 Site Conditions 
+• The site is a CFI retail gasoline station and convenience store located at 1289 Main Street 
+
+within a mixed commercial and residential zoned area in the City of Leominster, Worcester 
+County, Massachusetts.  Properties abutting the site include a residential property to the 
+east, a former CVS to the south, Main Street to the west, beyond which a restaurant and 
+North Street to the north, beyond which is a video store.  
+
+• According to the Leominster Tax Assessors’, the site has been owned by VSH Realty, Inc. 
+since July 29, 1982.  Prior to this the site was owned by Mobile Foundation, Inc since 
+November 24, 1981 and Mobil Oil Corporation since March 5, 1959.  Therefore, it is 
+assumed that the facility has been used as a retail gasoline station since at least 1959.   
+
+• The site currently consists of a convenience store building, three 8,000-gallon single-walled 
+fiberglass USTs that were installed in August 1982, and two gasoline dispenser islands. 
+
+• Figure 1 identifies the regional location of the facility.  Figure 2 and Figure 3 depicts the site 
+and Figure 4 is a copy of the January 29, 2010 NRS Map.   
+
+1.3 Potential Receptors 
+• On February 9, 2010, AECOM submitted a Phase I Initial Site Investigation (Phase I) to the 
+
+DEP.  Based on information presented within the Phase I, the MADEP Site Scoring Map 
+indicated no public water supplies or associated Zone II are located within 500 feet of the 
+site.   In addition, according to the MADEP Site Scoring Map, an Interim Wellhead 
+Protection Area is located approximately 3,500 feet east of the site and the site is not 
+located within a Potentially Productive Aquifer.  It should be noted that a medium yield 
+Potentially Productive Aquifer is located approximately 4,200 feet southwest of the site.   
+According to the Environmental Data Resources, Inc. (EDR) presented within the Phase I, 
+there are no private wells within 500 feet of the site.  It should be noted that according to a 
+representative of the city of Leominster Water Department and the City of Leominster Board 
+of Health contacted on January 28, 2010, there are no private wells within 500 feet of the 
+site.  A detailed map was pieced together during the preparation of the Phase I with 
+information provided by the town and no drinking water wells were identified within 500’ 
+from the site.  In addition, AECOM contacted the Leominster Board of Health on June 1, 
+2010 and spoke to Christopher Knouth.  Mr. Knouth indicated that the site was NOT within 
+an Aquifer Protection District or Watershed area. 
+
+
+
+3 
+AECOM 
+ 
+
+J:\Northboro\PST\CFI 2140\Massachusetts 2140\Leominster-393 
+NEW\Reports\IRAC\IRAC 5-10 CM final.docx 
+ 
+
+• Lake Whalom is located approximately 3,000 feet north-northeast of the site and an 
+unnamed river is located approximately 1,300 feet east of the site. In addition, wetland 
+habitat is located approximately 1,500 feet southeast of the site.  
+
+• The facility is located in a mixed commercial/residential area of Leominster, Massachusetts:   
+
+o North – North Street, beyond which is a video store 
+
+o South – Former CVS Pharmacy, beyond which are residential properties 
+
+o West – Main Street, beyond which is the Weathervane Restaurant 
+
+o East – Residential properties 
+
+1.4 Groundwater and Soil Classification 
+
+• Categories of groundwater and soil have been established in the Massachusetts 
+Contingency Plan (MCP) for use in Risk Characterization.  These categories are used to 
+determine the applicability of the Method 1 Standards, as well as any other applicable or 
+suitably analogous standards.  Only one soil category is applicable to particular soils 
+(although different categories may be appropriate for soils in different parts of a site), while 
+each of the groundwater categories may apply to groundwater at the site. 
+
+• Based on current site use and activities, soil at the disposal site is classified as S-3 
+because the soil is potentially accessible (greater than 3 feet deep), children are present at 
+low frequency, and on-site activities are low intensity.  In order to be conservative and 
+provide for unlimited future use of the disposal site, soil concentrations were also compared 
+to the most stringent S-1 standards. 
+
+• Based on the review of the NRS map and information provided to AECOM, groundwater 
+beneath the disposal site is classified as GW-2 within 30 feet of the existing occupied 
+building because the average annual depth to groundwater in that area was observed to be 
+less than 15 feet.  GW-1 does not apply to the site since there are no current and/or 
+potential drinking water source areas located near the facility.  As defined in 310 CMR 
+40.0932, all groundwater at disposal sites shall be considered a potential source of 
+discharge to surface water and therefore, GW-3 standards also apply to the site. 
+
+2.0 Immediate Response Action 
+
+Per the requirements of the MCP 310 CMR 40.0311(2) (b), 2-hour reporting conditions require the 
+implementation of an IRA.  The purpose of the IRA was to remove the source(s) of gasoline 
+contamination and to implement response actions designed to evaluate if a potential Imminent 
+Hazard (IH) Critical Exposure Pathway (CEP) or Substantial Release Migration (SRM) condition 
+exists at the site as a result of the release.  The following information describes the response 
+actions implemented at the site.   
+
+2.1 Description of IRA Actions Completed to Date 
+The following information has been discussed in previous submittals: 
+
+• As discussed in the IRA Plan submitted to DEP on April 17, 2009, on February 10, 2009, 
+following the identification of gasoline in the STP sump, CFI personnel shut down the 
+
+
+
+4 
+AECOM 
+ 
+
+J:\Northboro\PST\CFI 2140\Massachusetts 2140\Leominster-393 
+NEW\Reports\IRAC\IRAC 5-10 CM final.docx 
+ 
+
+facility.  CYN Environmental of Stoughton, MA (CYN) responded to the release and 
+pumped approximately 70 gallons of a gasoline/water mixture from the three UST sumps.  It 
+is our understanding that approximately 25 gallons of gasoline was removed from the STP 
+sump of the regular grade UST and that the remaining 45 gallons of liquid was pumped out 
+of the other two UST sumps.  The material was shipped off-site under a non-hazardous 
+waste manifest to an authorized facility, EPS of Vermont located in Glenmont, NY.   
+
+• Tyree Organization of Westborough, MA (Tyree) responded to the release to repair a faulty 
+o-ring associated with the functional element on the STP.  AECOM personnel arrived on-
+site at 14:00 to assess potential impacts to the environment.  Following completion of the 
+repair made by Tyree, the pump was turned back on and Tyree personnel completed an 
+inspection; there was no indication of a continued leak.  It should be noted that there were 
+approximately 10 gallons of frozen water at the bottom of the STP sump at the time of the 
+release.       
+
+• At the time of AECOM’s inspection, there was no olfactory evidence of vapor impacts to the 
+convenience store building.  In addition, a requirement specified in the Notice of 
+Responsibility (NOR) was to screen any subsurface structures in the immediate area with 
+an explosive gas meter to determine if any Imminent Hazard (IH) conditions exist and 
+whether any of those structures have been impacted with gasoline.  This was not 
+completed due to the lack of subsurface structures in the immediate area of the release.   
+
+• On March 5, 2009, Tanknology, Inc. of Austin, Texas (Tanknology) was on-site to conduct 
+confirmation tightness testing of the fuel line associated with the regular grade UST, which 
+includes the STP pump that was repaired.  Based on the test results, the fuel line tested 
+tight. 
+
+• On April 16, 2009, Tanknology was on-site to conduct a hydrostatic test of the STP sump 
+for the regular grade UST.  The hydrostatic test was conducted to evaluate the competency 
+of the sump.  Based on the test results, the STP sump failed the tightness test.  This was 
+verbally communicated to AECOM on April 16, 2009.   
+
+• On April 17, 2009, Tanknology returned to the site and made the necessary repairs to the 
+STP sump based on the April 16th STP hydrostatic failing results.  Following the repairs, 
+Tanknology conducted an additional hydrostatic test on the STP sump to verify that the 
+repairs worked and that the sump was tight.  Based on the results of the second hydrostatic 
+test, the STP sump tested tight. 
+
+• On June 12, 2009, AECOM oversaw the advancement of three monitoring wells (MW-1 
+through MW-3) by Technical Drilling Services (TDS) of Sterling, Massachusetts.  Refer to 
+Figures 2 and 3 for locations of monitoring wells. The purpose of the monitoring well 
+installation was to assess potential impacts to soil and groundwater as a result of the failed 
+STP sump discussed above.  Three 2-inch monitoring wells were installed utilizing a hollow 
+stem auger rig to a total depth of 18-feet below surface grade (BSG).  Soil samples were 
+collected continuously with depth at each boring utilizing split spoons.  Soil samples 
+collected from each boring were field screened with a photoionization detector (PID) meter 
+for the presence of volatile organic compounds (VOCs).  PID readings ranged from 17.9 
+parts-per-million (ppm) to 1,780 ppm within the boring for monitoring well MW-1 (B1).  Field 
+screening of soil samples from the borings for monitoring well MW-2 (B2)  monitoring well 
+MW-3 (B3) ranged from BDL to >2,000 ppm.  Groundwater was encountered between 12 
+and 14 feet BSG in monitoring well MW-1, at approximately 10-11 feet BSG in monitoring 
+well MW-2 and between 8-10 feet within monitoring well MW-3.  Soil samples were 
+
+
+
+5 
+AECOM 
+ 
+
+J:\Northboro\PST\CFI 2140\Massachusetts 2140\Leominster-393 
+NEW\Reports\IRAC\IRAC 5-10 CM final.docx 
+ 
+
+collected from the 2-4 foot and 8-16 foot range for monitoring well MW-1, MW-2 and from 
+the 2-4 foot and 4-14 foot range for monitoring well MW-3.  Soil samples were submitted to 
+GeoLabs (GEO) of Braintree Massachusetts for laboratory analysis of Volatile Petroleum 
+Hydrocarbons (VPH).   
+
+• Based on the soil analytical results for the June 12, 2009 drilling event, C5-C8 aliphatic 
+hydrocarbons were detected above Method 1 S-1/GW-2 and S-1/GW-3 standards in soil 
+borings MW-1 (8-16’), MW-2 (8-16’) and MW-3 (4-14’).  C9-C10 aromatic hydrocarbons 
+were also noted above the Method 1 S-1 standards within the soil boring for monitoring well 
+MW-3 (4-14’).  Soil analytical results are presented in Table 1. 
+
+• On July 10, 2009, AECOM personnel surveyed three monitoring wells (MW-1 through MW-
+3) to an arbitrary datum (southwest corner of the CFI facility) to 100’ above mean sea level. 
+
+• On July 10, 2009, prior to collecting groundwater samples, AECOM developed monitoring 
+wells MW-1, MW-2 and MW-3 which were installed on June 12, 2009.   
+
+• On July 10, 2009, AECOM gauged and sampled groundwater from monitoring wells MW-1 
+through MW-3.  AECOM did not identify any Light non aqueous phase liquid (LNAPL) within 
+the three newly installed monitoring wells (MW1 through MW-3).  Samples were submitted 
+to GEO for analysis of VPH and analytical results indicated concentrations above the 
+applicable standards within monitoring wells MW-2 and MW-3.  Please refer to the historical 
+groundwater sampling table (Table 2).  
+
+• In an effort to further delineate soil and groundwater impacts, on September 23, 2009, 
+AECOM oversaw the advancement of three monitoring wells (MW-4 through MW-6) by 
+TDS.  Refer to Figures 2 and 3 for locations of wells MW-4 through MW-6.  Three 2-inch 
+monitoring wells were installed to a total depth of 15-feet BSG utilizing a hollow stem auger 
+rig.  Soil samples were collected continuously at each boring location utilizing split spoons.  
+Soil samples collected from each boring were field screened with a PID meter for the 
+presence of VOCs.  PID readings ranged from BDL to >2,000 ppm within monitoring well 
+MW-4 (B4), BDL to 1,631 ppm and from BDL to 1,347 ppm in the boring for monitoring 
+wells MW-4, MW-5 and MW-6 respectively.  Groundwater was encountered between 7 and 
+9 feet BSG in monitoring wells MW-4, MW-5 and MW-6.  Soil samples were collected from 
+the 8-12 foot range from the boring for monitoring well MW-4, the 9-14 foot and 14.5-15 foot 
+range from the boring for monitoring well MW-5 and from the 7-13 foot range from the 
+boring for monitoring well MW-6.  Soil samples were submitted to GEO for laboratory 
+analysis of VPH.   
+
+• Based on the soil analytical results for the September 23, 2009 drilling event, C5-C8 
+aliphatic hydrocarbons were detected above Method 1 S-1/GW-2 and S-1/GW-3 standards 
+in soil borings MW-4 (8-12’), MW-5 (9-14’)(14.5-15’) and MW-6 (7-13’).  The C9-C10 
+aromatic hydrocarbons were analyzed for the borings associated with monitoring wells MW-
+5 (9-14’) and MW-6 (7-13’) were above the Method 1 S-1 standards.  In addition, xylenes 
+were detected in the soil sample associated with monitoring well MW-4 (8-12’) above the 
+Method 1 S-1/GW-2 and S-1/GW-3 standards.  Soil analytical results are presented in 
+Table 1. 
+
+• On September 23, 2009 during the installation of monitoring wells MW-4 through MW-6, 
+monitoring well MW-3 was gauged and AECOM personnel identified 0.25 inches LNAPL 
+within monitoring well MW-3 utilizing a polyethylene bailer.  Following the detection of 
+LNAPL within monitoring well MW-3, AECOM conducted periodic gauging events using an 
+
+
+
+6 
+AECOM 
+ 
+
+J:\Northboro\PST\CFI 2140\Massachusetts 2140\Leominster-393 
+NEW\Reports\IRAC\IRAC 5-10 CM final.docx 
+ 
+
+oil water interface probe on September 25, September 30 and October 8, 2009. Based on 
+the three gauging events, LNAPL levels slowly decreased from .09’, .09’ to .04’ 
+respectively. It should be noted that following each gauging event, the LNAPL thickness in 
+well MW-3 was also checked using a 2” disposable bailer.  Based on the measured LNAPL 
+thickness within the bailer, LNAPL levels were measured at less than 1/2 inch on each of 
+those three occasions.  LNAPL has not been detected within any of the other wells 
+associated with RTN 2-17414.  Please refer to Table 3 for historical gauging results.  
+
+• On September 30, 2009, AECOM personnel surveyed three monitoring wells (MW-4 
+through MW-6) and tied them into the existing well elevations. 
+
+• On September 30, 2009, AECOM personnel performed a soil gas survey adjacent to the 
+southern wall of the facility building in order to evaluate the potential for impacts to indoor 
+air.  Using the approach documented in the October 2002 implementation of the DEP 
+VPH/Extractable Petroleum Hydrocarbon (EPH) Approach, AECOM installed two soil gas 
+probes (SG-1 and SG-2) along the southern wall of the facility.  The probes were 
+constructed of copper and were advanced by hand to a depth of approximately 3.5 to 4-feet 
+BSG in order to facilitate the collection of a sample from just below the lowest (building 
+footing) elevation within the facility structure.  Using a PID (calibrated to isobutylene) the 
+soil gas probes were purged for approximately ten minutes and screened every minute for 
+volatile vapors during the purging process.  PID screening results for both locations were 
+recorded as below the instrument detection limits.  Please refer to Figure 2 for the location 
+of the soil gas points. 
+
+• On October 8, 2009, AECOM gauged the six site wells and collected groundwater samples 
+from monitoring wells MW-1, MW-2, MW-4 through MW-6.  It should be noted that 
+groundwater sample was not collected from monitoring well MW-3 based on the presence 
+of LNAPL.  Samples were submitted to GEO for analysis of VPH and analytical results 
+indicated groundwater samples collected from monitoring wells MW-1, MW-2, MW-4 and 
+MW-6 exceeded the applicable standards for one or more VPH constituents and well MW-5 
+was below the applicable standard.  Please refer to Table 2 for a summary of the 
+groundwater analytical results.    
+
+The following information has not been discussed in previous submittals: 
+
+• On January 8, 2010, AECOM gauged the six site wells and collected groundwater samples 
+from monitoring wells MW-1, MW-2 and MW-4 through MW-6.  It should be noted that 
+groundwater sample was not collected from monitoring well MW-3 based on the presence 
+of a skim of LNAPL.  Please refer to Table 3 for historical LNAPL and groundwater gauging 
+results. Samples were submitted to GEO for analysis of VPH and analytical results 
+indicated groundwater samples collected from monitoring wells MW-1, MW-2, MW-4 and 
+MW-6 exceeded the applicable standards for one or more VPH constituents.  Please refer 
+to Table 2 for a summary of the groundwater analytical results and Attachment B for a copy 
+of the laboratory analytical report.    
+
+• On April 2, 2010, AECOM personnel installed a permanent soil gas point (SG-1A) and 
+performed a soil gas survey adjacent to the southern wall of the facility building in order to 
+evaluate the potential for impacts to indoor air.  This vapor point was installed as a 
+permanent point so future vapor screening activities could be conducted.  Using the 
+approach documented in the October 2002 implementation of the DEP VPH/EPH 
+Approach, AECOM installed one soil gas probe, SG-1A, along the southern wall of the 
+facility.  The probe was constructed of copper and was advanced by hand to a depth of 
+
+
+
+7 
+AECOM 
+ 
+
+J:\Northboro\PST\CFI 2140\Massachusetts 2140\Leominster-393 
+NEW\Reports\IRAC\IRAC 5-10 CM final.docx 
+ 
+
+approximately 3.5 to 4-feet BSG in order to facilitate the collection of a sample from just 
+below the lowest (building footing) elevation within the facility structure.  Using a PID 
+(calibrated to isobutylene) the soil gas probe was purged for approximately ten minutes and 
+screened every minute for volatile vapors.  PID screening results for the location was 
+recorded as below the instrument detection limits.  Please refer to Figure 2 for the location 
+of the soil gas points. 
+
+• On April 7, 2010, AECOM gauged the six site monitoring wells and collected groundwater 
+samples from monitoring wells MW-1 through MW-6.  It should be noted that LNAPL was 
+not detected within well MW-3 during this gauging event; therefore a groundwater sample 
+was collected from well MW-3.  Samples were submitted to GEO for analysis of VPH and 
+analytical results indicated groundwater samples collected from monitoring wells MW-3 and 
+MW-4 exceeded the applicable standards for one or more VPH constituents.  Please refer 
+to Table 2 for a summary of the groundwater analytical results and Attachment B for a copy 
+of the laboratory analytical report.    
+
+• In an effort to further delineate soil and groundwater impacts and evaluate a potential 
+condition of Substantial Release Migration (SRM), on April 8, 2010, AECOM oversaw the 
+advancement of four monitoring wells (MW-7 through MW-10) by TDS.  Refer to Figures 2 
+and 3 for locations of wells MW-7 through MW-10.  Four 2-inch monitoring wells were 
+installed to a total depth of 12-feet BSG utilizing a Geoprobe unit.  Soil samples were 
+collected continuously at each boring location utilizing acetate Geoprobe liners.  Soil 
+samples collected from each boring were field screened with a portable PID for the 
+presence of VOCs.  PID readings ranged from BDL to 261 ppm, BDL to 2.5 ppm, BDL to 
+2.5 ppm in the borings for monitoring wells MW-7, MW-8 and MW-9 respectively, and soil 
+samples screened from the boring associated with well MW-10 were all BDL.  Groundwater 
+was encountered between 8 and 9 feet BSG in monitoring wells MW-7 and MW-8, between 
+7 and 8 feet BSG in monitoring well MW-9 and between 6 and 7 feet within well MW-10.  
+Soil samples were collected from the 0 to 3 foot and 8 to 15 foot range from the boring for 
+well MW-7 and 3 to 5 foot range from the boring for well MW-10. In addition, it should be 
+noted that a duplicate sample from well MW-7 (8 to 15 foot range) was collected.  Soil 
+samples were submitted to GEO for laboratory analysis of VPH.  Please refer to Attachment 
+C for a copy of the boring logs and well completion reports for wells MW-7 through MW-10. 
+
+• Based on the soil analytical results for the April 8, 2010 drilling event, soil concentrations 
+were below the laboratory detection limit and/or below the applicable standard.  Soil 
+analytical results are presented in Table 1 and copies of the laboratory analytical reports 
+are included in Attachment B. 
+
+• On April 15, 2010, prior to collecting groundwater samples, AECOM developed monitoring 
+wells MW-7, MW-8, MW-9 and MW-10 which were installed on April 8, 2010.  In addition to 
+well development and groundwater sampling, AECOM personnel surveyed the four new 
+monitoring wells using monitoring well MW-6 as a known elevation to tie into the survey 
+previously conducted at the site. 
+
+• On April 15, 2010, AECOM gauged and sampled groundwater from monitoring wells MW-7 
+through MW-10.  AECOM did not identify any LNAPL within the four newly installed 
+monitoring wells (MW-7 through MW-10).  Samples were submitted to GEO for analysis of 
+VPH and analytical results indicated xylene concentrations exceeded the applicable GW-3 
+standards within monitoring well MW-7.  Please refer to the historical groundwater 
+analytical results (Table 2).  
+
+
+
+8 
+AECOM 
+ 
+
+J:\Northboro\PST\CFI 2140\Massachusetts 2140\Leominster-393 
+NEW\Reports\IRAC\IRAC 5-10 CM final.docx 
+ 
+
+• On April 30, 2010, AECOM returned to the site to complete a comprehensive gauging 
+event.  AECOM gauged monitoring wells MW-1 through MW-10.  Based on the gauging 
+data collected on April 30, 2010 it was determined that groundwater flow was to the north, 
+northeast direction, which is consistent with historical groundwater flow data.  The April 30, 
+2010 groundwater elevation and flow direction is depicted in Figure 3, Groundwater 
+Topography Map. 
+
+3.0 Substantial Hazard Evaluation 
+
+Based on the recent soil gas air screening events (three in total) indicating that a direct 
+exposure pathway currently does not exist from the soil gas points to the inside ambient air, no 
+complete exposure pathways or risks to human health, safety, public welfare and the 
+environment currently exist with respect to the site. 
+
+4.0 Remediation Waste Disposition 
+
+Cyn was on-site May 4, 2010 and removed 700 pounds of drill cuttings associated with the April 
+8, 2010 drilling event and 55-gallons of well development water associated with well 
+development activities conducted on April 15, 2010.   Please refer to the IRA Plan submitted to 
+DEP on April 17, 2009, IRA Status # 1 submitted to DEP on June 16, 2009 and IRA Status #2 
+submitted to DEP on December 9, 2009 for historical waste information.  Please refer to 
+Attachment D for a copy of the non hazardous waste manifest. 
+
+5.0 Findings of the IRA 
+
+• On February 10, 2009, approximately 25 gallons of gasoline was released from a STP 
+sump associated with the regular grade UST.  The spill was reported to the DEP as a 
+release/spill greater than 10 gallons on February 10, 2009.  The DEP granted verbal IRA 
+approval to perform cleanup activities, investigation and evaluation, including removal of 
+product from the sump, assessment of impact to the environment/indoor air and repair of 
+the leak.  Following notification, Mr. Bob Dunn from the DEP issued RTN 2-17414.  Per 310 
+CMR 40.0412(1), a 2-hour reporting condition required the implementation of an IRA.  The 
+purpose of the IRA was to remove the source(s) of gasoline contamination and to 
+implement response actions designed to evaluate potential IH, CEP and SRM conditions.   
+
+• In an effort to evaluate the potential for indoor air impacts, AECOM performed a soil gas 
+survey adjacent to the southern wall of the facility building in order to evaluate the potential 
+for indoor air impacts.  Using a PID, (calibrated to isobutylene) the soil gas probes were 
+purged for approximately 10 minutes and screened every minute for volatile vapors.  PID 
+screening for both (SG-1 and SG-2) were recorded as below the instrument detection limits.  
+In addition, an additional permanent soil gas point (SG-1A) was installed.  AECOM purged 
+the point for approximately 10 minutes and then screened it every minute for volatile 
+vapors.  PID screening for (SG-1A) was recorded as below the instrument detection limits.  
+
+• Based on the results of this survey, it is AECOM’s opinion that there are no potential 
+imminent hazards for vapor migration into the facility building.   
+
+• As indicated in the February 9, 2010 Phase I Report and based on the recent groundwater 
+and soil analytical results collected, soil and groundwater impacts at the site are currently 
+above the applicable Method 1 / GW-2 & GW-3 Standards.  Based on several air screening 
+
+
+
+9 
+AECOM 
+ 
+
+J:\Northboro\PST\CFI 2140\Massachusetts 2140\Leominster-393 
+NEW\Reports\IRAC\IRAC 5-10 CM final.docx 
+ 
+
+events discussed above, these screening events ultimately dismiss vapor intrusion (GW-2 
+standards within 30 feet from an occupied building) based on the lack of vapors detected 
+during the air screening events.  In addition, based on the proximity of the nearest surface 
+water body (Lake Whalom located approximately 3,000 feet north-northeast of the site) and 
+that the furthest downgradient wells (MW-9 and MW-10) are below applicable groundwater 
+standards, it is AECOMs opinion that groundwater can be ruled out as a potential discharge 
+to surface water (GW-3).  Based on information collected and a review of laboratory 
+analytical data, site conditions currently do not represent significant risk of harm to health, 
+safety, public welfare or the environment.   
+
+• Based on the results of the two soil gas screening events completed at the site, a pathway 
+between the subsurface and the building does not currently exist.  AECOM will periodically 
+screen vapor point SG-1A during future groundwater sampling events to ensure that a 
+vapor pathway does not exist between the subsurface and the facility.  
+
+• All remediation waste generated as part of this IRA has been properly removed from the 
+site.  In AECOM’s opinion, the objectives of the IRA have been met:   
+
+• The faulty o-ring associated with the functional element on the STP was repaired; 
+• The leak in the STP sump was repaired; 
+• Based on the investigation conducted, there are no IH, CEP or SRM conditions at 
+
+the site. 
+ 
+However, additional response actions are required to determine if a condition of significant 
+risk to human health, safety, public welfare and the environment exists at the site.  This will 
+be conducted under on-going Phase II response actions. 
+ 
+
+Per the public notification requirements of the Massachusetts Contingency Plan (MCP), 310 CMR 
+40.0000, public notification letters were submitted to the Leominster Department of Public Works for 
+soil samples collected on April 8, 2010 and groundwater samples collected on April 15, 2010 on city 
+property.  Copies of these letters are provided in Attachment E. 
+
+If you have any questions regarding the information presented in this report please do not hesitate 
+to contact the undersigned. 
+
+Yours sincerely, 
+
+ 
+
+Mark F. Newell Melissa J. Cannon 
+Project Manager CFI Program Manager 
+ 
+
+ 
+Christopher G. Mariano, P.G., LSP 
+Senior Hydrogeologist 
+ 
+
+Tables 
+Figures 
+Attachments 
+ 
+cc: Christopher Johnson – CFI 
+
+
+
+Figures 
+
+
+
+ 
+
+ 
+   
+
+J:\Northboro\PST\CFI 2140\Massachusetts 
+2140\Leominster-393 NEW\Reports\IRAC\Figure 1 Site  
+Locus.doc 
+
+ 
+
+Cumberland Farms, Inc. 
+100 Crossing Boulevard 
+
+Framingham, Massachusetts 
+ 
+
+Site Location Map 
+ 
+
+CFI Facility # 2141 
+1289 Main Street (Route 13) 
+Leominster, Massachusetts 
+
+File # 60136873                         Figure 1
+
+Site
+
+ 
+
+
+
+
+
+
+
+
+
+ 
+ 
+ 
+
+Tables 
+
+
+
+Sample ID B-1 (2-4') B-1 (8-16') B-2 (2-4') B-2 (8-16') B-2 (16-18') B-3 (2-4') B-3 (4-14') B4 (8-12') B-5 (9-14') B-5 (14.5-15') B-6 (7-13') MW-7 (0-3') MW-7 (8-15') DUP MW-10 (3-5')
+MW-1 MW-1 MW-2 MW-2 MW-2 MW-3 MW-3 MW-4 MW-5 MW-5 MW-6 MW-7 MW-7 MW-7 MW-10
+
+Depth 2-4' 8-16' 2-4' 8-16' 16-18' 2-4' 4-14' 8-12' 9-14' 14.5-15' 7-13' 0-3' 8-15' 8-15' 3-5'
+PID 204.0 ppm 635-1780 ppm 20.6 ppm 1478-2470 ppm 56.7 ppm 136.0 ppm 492-3406 ppm 1,931-2,732 ppm 1,017-1,631 ppm 42.8 ppm 130-1,347 ppm 9.6 ppm 11.1 to 261 ppm 11.1 to 261 ppm BDL
+
+Collection date 6/12/2009 6/12/2009 6/12/2009 6/12/2009 6/12/2009 6/12/2009 6/12/2009 9/23/2009 9/23/2009 9/23/2009 9/23/2009 4/8/2010 4/8/2010 4/5/2010 4/8/2010
+VPH
+Aliphatics/Aromatics (mg/Kg)
+
+C5-C8 Aliphatics <27.2 110 <28.7 427 <28.1 43.6 176 378 357 263 296 <27.5 <27.5 <27.5 <18.9 100 100
+C9-C12 Aliphatics <27.2 <29.4 <28.7 <27.8 <28.1 <26.0 <28.7 817 <28.1 <28.1 <28.4 <27.5 <27.5 <27.5 <18.9 1,000 1,000
+C9-C10 Aromatics <27.2 70.4 <28.7 35.4 <28.1 <26.0 141 <27.2 883 59 179 <27.5 <27.5 <27.5 <18.9 100 100
+
+Targeted Analytes (mg/Kg)
+Benzene <0.543 <0.588 <0.575 <0.556 <0.562 <0.521 1.52 <0.543 <0.562 <0.562 <0.568 <0.549 <0.549 <0.549 <0.379 30 30
+Toluene <0.543 4.04 <0.575 2.67 <0.562 <0.521 18.5 227 <0.562 <0.562 10.0 <0.549 1.05 4.81 <0.379 500 500
+
+Ethylbenzene <0.543 4.82 <0.575 2.44 <0.562 <0.521 9.20 127 12.9 <0.562 11.80 <0.549 <0.549 2.85 <0.379 500 500
+Xylenes (mixed isomers) <1.086 24.24 <1.15 13.27 <1.124 <1.042 44 676 24.4 <1.124 55.4 <1.098 2.376 13.94 <0.758 300 500
+
+Methyl-tert-butyl ether <0.0543 <0.0588 <0.0575 <0.0556 <0.0562 <0.0521 <0.0575 33.5 <0.0562 <0.0562 <0.0568 <0.0549 2.03 <0.0549 <0.0379 100 100
+Naphthalene <1.09 1.75 <1.15 1.19 <1.12 <1.04 1.90 27.40 <1.12 <1.12 <1.14 <1.10 <1.10 1.31 <0.758 40 500
+
+MCP Method 1 Standards = Standards promulgated in the February 14, 2008 revisions to the Massachusetts Contingency Plan (MCP), 310 CMR 40.0000.
+PPM = Parts-per-million
+BDL = Below instrument detection limits
+Shaded value = Exceeds applicable standard
+
+S-1/GW-3
+
+TABLE 1
+
+Soil Analytical Results
+Cumberland Farms, Inc. Facility # 852410
+
+Leominster, Massachusetts
+RTN 2-17414
+
+6/12/2009-4/8/2010
+
+S-1/GW-2
+
+Shaded value  Exceeds applicable standard
+VPH = Volatile petroleum hydrocarbons.
+mg/Kg = milligrams per Kilogram (parts-per-million)
+
+
+
+Well/ C5-C8 C9-C12 C9-C10 Benzene Toluene Ethyl Total MTBE Naphthalene
+Sampling Aliphatics Aliphatics Aromatics benzene Xylenes
+
+Date (μg/L) (μg/L) (μg/L) (μg/L) (μg/L) (μg/L) (μg/L) (μg/L) (μg/L)
+
+MW-1
+(GW 2/3)
+7/10/2009 696 1,570 1,050 174 527 373 1,167 223 65
+10/8/2009 5,330 130 2,770 7,110 16,800 2,630 8,570 760 403
+1/8/2010 24,900 4,870 5,060 3,260 4,340 2,090 5,780 285 227
+4/7/2010 1,600 <100 648 359 278 408 759 <5 54
+
+MW-2
+(GW 2/3)
+7/10/2009 772 9,712 10,000 483 1,830 1,020 4,470 505 282
+10/8/2009 2,780 <75 8,200 720 707 2,490 4,812 279 718
+1/8/2010 12,400 5,590 9,760 1,110 1,480 3,030 6,320 329 979
+4/7/2010 1,950 <100 3,590 155 996 1,380 4,396 <5 359
+
+MW-3
+(GW/3)
+
+7/10/2009 <75 14,400 10,900 11,600 48,400 3,470 15,880 <5 358
+10/8/2009
+1/8/2010
+4/7/2010 7,400 <100 10,600 6,400 48,500 6,090 28,710 <5 486
+
+MW-4
+(GW/3)
+
+7/10/2009 --- --- --- --- --- --- --- --- ---
+10/8/2009 <75 <75 14,700 4,710 34,700 6,550 33,800 98,600 <4,000
+1/8/2010 122,000 19,400 14,300 3,520 24,000 5,330 27,630 42,200 676
+4/7/2010 <75 <100 8,220 3,290 18,500 4,720 25,750 11,100 914
+
+MW-5
+(GW/3  )
+
+7/10/2009 --- --- --- --- --- --- --- --- ---
+10/8/2009 2,520 <75 11,700 <5 276 1,760 706 318 <5
+1/8/2010 4,770 2,840 7,050 <5 213 942 3,168 615 184
+4/7/2010 543 <100 484 <5 <5 63.1 233.8 <5 <20
+
+MW-6
+(GW 2/3 )
+7/10/2009 --- --- --- --- --- --- --- --- ---
+10/8/2009 2,800 <75 12,100 498 12,700 5,230 25,400 <5 1,230
+1/8/2010 16,500 6,220 7,140 <5 2,820 2,020 8,920 <5 360
+4/7/2010 1,590 <100 1,470 <5 933 493 2,178 <5 106
+
+MW-7
+(GW 3)
+
+4/15/2010 <75 <100 4,230 1,830 11,100 2,970 11,780 17,700 982
+
+MW-8
+(GW 3)
+
+4/15/2010 <75 <100 <75 <5 49.3 18.6 94.7 <5 <20
+
+MW-9
+(GW 3)
+
+4/15/2010 <75 <100 <75 21.3 34.4 10.6 50.1 <5 <20
+
+MW-10
+(GW 3)
+
+4/15/2010 <75 <100 <75 <5 <5 <5 <10 <5 <20
+
+GW-1 300 700 200 5 1,000 700 10,000 70 140
+GW-2 3,000 5,000 7,000 2,000 50,000 20,000 9,000 50,000 1,000
+GW-3 50,000 50,000 50,000 10,000 40,000 5,000 5,000 50,000 20,000
+
+μg/L - micrograms per liter
+MTBE - Methyl Tertiary-butyl Ether
+Shading indicates concentration is present above applicable Standards
+GW-1 = Massachusetts Category GW-1 Standards
+GW-2 = Massachusetts Category GW-2 Standards
+GW-3 = Massachusetts Category GW-3 Standards
+
+LNAPL = Light non aqueous phase liquid
+MCP Groundwater Standards Changed 2/08
+
+RTN 2-17414
+
+Historical Groundwater Analytical Results
+Cumberland Farms, Inc. Facility #2141
+
+Leominster, Massachusetts
+
+TABLE 2
+
+1289 Main Street
+
+Not Sampled Based On Skim LNAPL
+Not Sampled Based On Skim LNAPL
+
+
+
+TABLE 3
+
+Historical Groundwater Elevation Measurements
+
+Leominster, Massachusetts
+RTN 2-17414
+
+WELL DATE WELL DEPTH TO DEPTH TO PRODUCT CORRECTE WATER TABLE
+ID ELEVATION WATER PRODUCT THICKNESS DEPTH ELEVATION
+
+MW-1
+7/10/2009 91.65 5.58 ND ND NA 86.07
+9/23/2009 91.65 7.45 ND ND NA 84.20
+9/25/2009 91.65 7.54 ND ND NA 84.11
+9/30/2009 91.65 7.65 ND ND NA 84.00
+10/8/2009 91.65 7.87 ND ND NA 83.78
+1/8/2010 91.65 6.91 ND ND NA 84.74
+4/7/2010 91.65 4.36 ND ND NA 87.29
+
+4/15/2010 91.65 NM NM NM NM NM
+4/30/2010 91.65 5.36 ND ND NA 86.29
+
+MW-2
+7/10/2009 91.79 6.00 ND ND NA 85.79
+9/23/2009 91.79 7.69 ND ND NA 84.10
+9/25/2009 91.79 7.78 ND ND NA 84.01
+9/30/2009 91.79 7.87 ND ND NA 83.92
+10/8/2009 91.79 8.03 ND ND NA 83.76
+1/8/2010 91.79 7.41 ND ND NA 84.38
+4/7/2010 91.79 4.88 ND ND NA 86.91
+
+4/15/2010 91.79 NM NM NM NM NM
+4/30/2010 91.79 5.74 ND ND NA 86.05
+
+*MW-3
+7/10/2009 91.79 5.73 ND ND NA 86.06
+9/23/2009 91.79 7.50 1/4" in bailer 1/4" in bailer NA NC
+*9/25/2009 91.79 7.55 7.46 0.09 7.47 84.32
+*9/30/2009 91.79 7.61 7.52 0.09 7.53 84.18
+*10/8/2009 91.79 7.80 7.76 0.04 7.77 83.99
+*1/8/2010 91.79 7.17 7.17 Skim NA 84.62
+4/7/2010 91.79 4.65 ND ND NA 84.62
+
+4/15/2010 91.79 NM NM NM NM NM
+4/30/2010 91.79 5.49 ND ND NA 86.30
+
+MW-4
+9/25/2009 90.82 7.48 ND ND NA 83.34
+9/30/2009 90.82 7.48 ND ND NA 83.34
+10/8/2009 90.82 7.49 ND ND NA 83.33
+1/8/2010 90.82 6.63 ND ND NA 84.19
+4/7/2010 90.82 4.81 ND ND NA 86.01
+
+4/15/2010 90.82 NM NM NM NM NM
+4/30/2010 90.82 5.75 ND ND NA 85.07
+
+MW-5
+
+Cumberland Farms, Inc. Facility # 2141
+
+9/25/2009 91.82 7.32 ND ND NA 84.50
+9/30/2009 91.82 7.42 ND ND NA 84.40
+10/8/2009 91.82 7.53 ND ND NA 84.29
+1/8/2010 91.82 6.92 ND ND NA 84.90
+4/7/2010 90.82 4.66 ND ND NA 86.16
+
+4/15/2010 90.82 NM NM NM NM NM
+4/30/2010 90.82 5.34 ND ND NA 85.48
+
+MW-6
+9/25/2009 90.02 8.10 ND ND NA 81.92
+9/30/2009 90.02 8.22 ND ND NA 81.80
+10/8/2009 90.02 8.31 ND ND NA 81.71
+1/8/2010 90.02 6.79 ND ND NA 83.23
+4/7/2010 90.02 4.70 ND ND NA 85.32
+
+4/15/2010 90.02 NM NM NM NM NM
+4/30/2010 90.02 5.82 ND ND NA 84.20
+
+MW-7
+4/15/2010 89.08 5.50 ND ND NA 83.58
+4/30/2010 89.08 5.89 ND ND NA 83.19
+
+MW-8
+4/15/2010 87.90 5.35 ND ND NA 82.55
+4/30/2010 87.90 5.92 ND ND NA 81.98
+
+MW-9
+4/15/2010 88.00 6.39 ND ND NA 81.61
+4/30/2010 88.00 7.14 ND ND NA 80.86
+
+MW-10
+4/15/2010 85.37 5.39 ND ND NA 79.98
+4/30/2010 85.37 6.04 ND ND NA 79.33
+
+All measurements are in feet.
+NA= Not Applicable
+ND = Not detected
+NM = Not measured
+Well head elevations were surveyed to an arbitrary datum of 100 feet on September 30, 2009 and April 15, 2010 by AECOM
+* = LNAPL thickness verified with a 2-inch disposable bailer: 9/25/09 = 0.25 inches; 9/30/09 = 0.25 inches; 10/8/09 = 0.35 inches.
+NC = Not Calculated
+
+Page 1 of 1
+
+
+
+ 
+ 
+ 
+
+Attachment A 
+ 
+Service Constraints 
+
+
+
+ AECOM 978.589.3000  tel 
+ 2 Technology Park Drive  978.589.3100  fax 
+ Westford, MA  01886-3140  
+
+ 
+To enhance and sustain the world’s built, natural and social environments 
+
+C:\Documents and Settings\cavalleranoj\Local 
+Settings\Temporary Internet 
+Files\Content.Outlook\WKX5HVWK\Appendix A Service 
+Constraints AECOM new logo.doc 
+
+Service Constraints 
+
+1. Preliminary Findings 
+The following limitation is applicable if the report is stamped “DRAFT” or otherwise identified as 
+preliminary: AECOM Inc. dba AECOM Environment (AECOM) has prepared this Preliminary Report 
+at the specific request of the client.  Due to Client imposed time, information, and financial 
+restrictions, AECOM has not performed the services necessary for it to render any opinions or 
+reach any conclusions.  Accordingly, the studies, data, information, and findings contained in this 
+Preliminary Report are not the final conclusions of AECOM, but merely basic information requested 
+by the client upon which the Client may draw its own conclusions.  Client agrees that AECOM shall 
+not be liable for any claims, loss, damage, or expenses incurred by the Client or others arising out 
+of the use of, or reliance on, any information contained in this Preliminary Report. 
+
+2. General 
+• This Report was prepared for the exclusive use of the Client.  No other party is entitled to 
+
+rely on the conclusions, observations, specifications, or data contained therein without 
+the express written consent of AECOM. 
+
+• This Report was prepared pursuant to an Agreement between the Client and AECOM.  
+All uses of and reliance upon this Report are subject to, and deemed acceptance of, the 
+conditions and restrictions contained therein. 
+
+3. Purpose of Report 
+It is AECOM’s understanding that this Report is to be used for the purpose described in the 
+introduction of the Report.  This stated purpose has been a significant factor in determining the 
+scope and level of services provided for in the Agreement.  Should the purpose for which the 
+Report is to be used, or the proposed use of the site(s) change, this Report is no longer valid, and 
+use of this Report by Client or others without AECOM’s review and written authorization shall be at 
+the user’s sole risk.  Should AECOM be required to review the Report after its date of submission, 
+AECOM shall be entitled to additional compensation at then existing rates or such other terms as 
+agreed between AECOM and the Client. 
+
+4. Scope of Services 
+The observations and conclusions described in this Report are based solely on the Scope of 
+Services provided pursuant to the Agreement between Client and AECOM and summarized in the 
+introduction of this Report.  AECOM has not performed any additional observations, investigations, 
+studies, or testing not specifically stated therein.  AECOM shall not be liable for the existence of 
+any condition, the discovery of which required the performance of services not authorized under the 
+Agreement.  Unless otherwise specified in the introduction of this Report, AECOM did not evaluate 
+the presence of asbestos, electromagnetic fields, lead paint, lead or copper in water, radon gas or 
+other radioactive or infectious materials. 
+
+
+
+AECOM 
+
+ 
+To enhance and sustain the world’s built, natural and social environments 
+
+C:\Documents and Settings\cavalleranoj\Local 
+Settings\Temporary Internet 
+Files\Content.Outlook\WKX5HVWK\Appendix A Service 
+Constraints AECOM new logo.doc 
+
+2 
+
+ 
+
+5. Time 
+The passage of time may result in changes in technology, economic conditions, site variations, or 
+regulatory provisions which would render the Report inaccurate.  Accordingly, neither the Client, 
+nor any other party, shall rely on the information or conclusions contained in this Report after three 
+(3) months from its date of submission without the express written consent of AECOM.  Reliance on 
+the Report after such period of time shall be at the user’s sole risk.  Should AECOM be required to 
+review the Report after three (3) months from its date of submission, AECOM shall be entitled to 
+additional compensation at then existing rates or such other terms as may be agreed upon between 
+AECOM and the Client. 
+
+6. Conclusions 
+The conclusions stated in this Report are based upon: observations of existing physical and/or 
+economic conditions; our interpretation of site history and site usage information; information 
+provided by the Client; and information and/or analyses provided by independent testing and 
+information services or laboratories upon which AECOM is entitled to reasonably rely.  AECOM 
+was not authorized and did not attempt to independently verify the accuracy or completeness of 
+information or materials received from third parties during the performance of its services.  AECOM 
+shall not be liable for any conditions, information, or conclusion, the discovery of which required 
+information not available or independent investigation of information provided to AECOM unless 
+otherwise indicated.  Any site drawing(s) provided within this Report is not meant to be an accurate 
+base plan, but is used to present the general, relative locations of features on, and surrounding, the 
+site. 
+
+
+
+ 
+ 
+ 
+
+Attachment B 
+ 
+Laboratory Analytical Reports 
+ 
+
+
+
+Page 1 of 19
+
+
+
+Page 2 of 19
+
+
+
+Page 3 of 19
+
+
+
+Page 4 of 19
+
+
+
+Page 5 of 19
+
+
+
+Page 6 of 19
+
+
+
+Page 7 of 19
+
+
+
+Page 8 of 19
+
+
+
+Page 9 of 19
+
+
+
+Page 10 of 19
+
+
+
+Page 11 of 19
+
+
+
+Page 12 of 19
+
+
+
+Page 13 of 19
+
+
+
+Page 14 of 19
+
+
+
+Page 15 of 19
+
+
+
+Page 16 of 19
+
+
+
+Page 17 of 19
+
+
+
+Page 18 of 19
+
+
+
+Page 19 of 19
+
+
+
+Page 1 of 16
+
+
+
+Page 2 of 16
+
+
+
+Page 3 of 16
+
+
+
+Page 4 of 16
+
+
+
+Page 5 of 16
+
+
+
+Page 6 of 16
+
+
+
+Page 7 of 16
+
+
+
+Page 8 of 16
+
+
+
+Page 9 of 16
+
+
+
+Page 10 of 16
+
+
+
+Page 11 of 16
+
+
+
+Page 12 of 16
+
+
+
+Page 13 of 16
+
+
+
+Page 14 of 16
+
+
+
+Page 15 of 16
+
+
+
+Page 16 of 16
+
+
+
+Page 1 of 32
+
+
+
+Page 2 of 32
+
+
+
+Page 3 of 32
+
+
+
+Page 4 of 32
+
+
+
+Page 5 of 32
+
+
+
+Page 6 of 32
+
+
+
+Page 7 of 32
+
+
+
+Page 8 of 32
+
+
+
+Page 9 of 32
+
+
+
+Page 10 of 32
+
+
+
+Page 11 of 32
+
+
+
+Page 12 of 32
+
+
+
+Page 13 of 32
+
+
+
+Page 14 of 32
+
+
+
+Page 15 of 32
+
+
+
+Page 16 of 32
+
+
+
+Page 17 of 32
+
+
+
+Page 18 of 32
+
+
+
+Page 19 of 32
+
+
+
+Page 20 of 32
+
+
+
+Page 21 of 32
+
+
+
+Page 22 of 32
+
+
+
+Page 23 of 32
+
+
+
+Page 24 of 32
+
+
+
+Page 25 of 32
+
+
+
+Page 26 of 32
+
+
+
+Page 27 of 32
+
+
+
+Page 28 of 32
+
+
+
+Page 29 of 32
+
+
+
+Page 30 of 32
+
+
+
+Page 31 of 32
+
+
+
+Page 32 of 32
+
+
+
+Page 1 of 18
+
+
+
+Page 2 of 18
+
+
+
+Page 3 of 18
+
+
+
+Page 4 of 18
+
+
+
+Page 5 of 18
+
+
+
+Page 6 of 18
+
+
+
+Page 7 of 18
+
+
+
+Page 8 of 18
+
+
+
+Page 9 of 18
+
+
+
+Page 10 of 18
+
+
+
+Page 11 of 18
+
+
+
+Page 12 of 18
+
+
+
+Page 13 of 18
+
+
+
+Page 14 of 18
+
+
+
+Page 15 of 18
+
+
+
+Page 16 of 18
+
+
+
+Page 17 of 18
+
+
+
+Page 18 of 18
+
+
+
+ 
+ 
+ 
+
+Attachment C 
+ 
+April 2010 Boring Logs 
+
+
+
+Project Number:
+Client:
+
+Use: Soil Investigation
+Boring Number: 1
+
+Site Location: Sheet: 1 of 1
+ Well Depth:   15'
+Equipment: Geoprobe 6610DT Screen Depth:   5-15'
+
+Project Manager: M. Newell Field Technician: J. Chambert Date Started: Inside Diameter: 4.25 Screen length:   10'
+Drilling Contractor: TDS Driller: Matt Outside Diameter: Water Depth:    ~8'
+
+Description
+0-6 6-12 12-18 18-24
+
+6 in-Road Box
+
+Clean Native Fill
+0-3' NA NA NA NA NA NA SP Dry 9.6
+
+Bentonite Seal
+
+2" PVC Riser
+
+3-5' NA NA NA NA NA NA SP Dry 17.6
+
+5-10' NA NA NA NA NA 50" Approximate Groundwater Level
+on Day of Drilling
+
+2" PVC Slotted Screen
+
+Sand Pack
+
+10-15' NA NA NA NA NA NA 0"
+
+Bottom of Well at ~15 feet
+
+113MoistSM
+
+SM
+
+SM Moist 82.4
+
+SM Moist 61.8
+
+SM Moist 79.3
+
+SM Moist 261
+
+Dry
+
+DrySM
+
+SM Dry
+
+53.1MoistSM
+
+CFI #2141
+
+02140-393
+Cumberland Farms, Inc.
+100 Crossing Boulevard
+Framingham, Massachusetts
+
+End of Boring at 15' BSG.
+
+Duplicate sample (DUP) collected from 8-15'.
+
+No Refusal Encountered.
+
+61.9Moist15 15
+
+Soil Sample collected from 0-3 and 8-15' BSG: MW-7(0-3), MW-7(8-15) for VPH.
+
+14 14
+
+12 12
+
+13 Gray, TILL on tip 13
+Could not retrieve liner from sampling spoon.
+
+10
+
+11 11
+
+10
+
+4
+Same as above
+
+7
+
+5
+
+6Same as above
+
+8
+
+9
+
+8
+
+9
+
+11.1
+
+6
+
+5
+
+7
+
+3
+
+4
+
+3.9
+
+4.0SP
+
+3
+
+2 Brown, medium SAND (Fill) 2
+
+Tu
+be
+
+Fi
+ll 
+
+M
+at
+
+.
+
+1 Air Vac to 7 feet below grade - cleared
+Asphalt
+
+1
+
+D
+ep
+
+thDepth Sample Depth P
+ID
+
+ 
+(p
+
+pm
+)Sample 
+
+Number Blow Counts (24")
+
+P
+en
+
+ (i
+n.
+
+)
+
+R
+ec
+
+ (i
+n.
+
+)
+
+S
+or
+
+tin
+g
+
+M
+oi
+
+st
+ur
+
+e
+
+Field Identification
+
+Fi
+ll 
+
+M
+at
+
+.
+
+Grey, TILL
+
+1289 Main Street
+Leominster, Massachusetts
+
+4/8/2010
+Date Completed: 4/8/2010
+
+SP = Poorly - Graded sands, Gravelly sands, Little or no fines
+SM = Silty - Sands, Sand - Silt mixtures
+VPH = Volitile Petrolium Hydrocarbons
+
+2 Technology Park Drive
+Westford, Massachusetts
+
+(978) 589-3000
+
+Boring Log
+
+MW-7 
+
+NM = Not Measured
+BSG = Below Surface Grade
+
+PID = Photoionazation detector
+PPM = Parts-Per-Million
+
+NA = Not Applicable
+
+2 Technology Park Drive
+Westford, Massachusetts
+
+(978) 589-3000
+
+Boring Log
+
+MW-7 
+
+
+
+Project Number:
+Client:
+
+Use: Soil Investigation
+Boring Number: 1
+
+Site Location: Sheet: 1 of 1
+ Well Depth:   12'
+Equipment: Geoprobe 6610DT Screen Depth:   2-12'
+
+Project Manager: M. Newell Field Technician: J. Chambert Date Started: Inside Diameter: 4.25 Screen length:   10'
+Drilling Contractor: TDS Driller: Matt Outside Diameter: Water Depth:    ~8'
+
+Description
+0-6 6-12 12-18 18-24
+
+6 in-Road Box
+Clean Native Fill
+Bentonite Seal
+
+0-3' NA NA NA NA NA NA SP Dry 1.8
+
+2" PVC Riser
+
+3-5' NA NA NA NA NA NA SP Dry 1.7
+
+5-10' NA NA NA NA NA 24" Approximate Groundwater Level
+on Day of Drilling
+
+2" PVC Slotted Screen
+
+Sand Pack
+
+Bottom of Well at ~12 feet
+10-15' NA NA NA NA NA NA 60"
+
+Bottom of Boring at ~15 feet
+
+PID = Photoionazation detector
+
+End of Boring at 15' BSG.
+No Refusal Encountered.
+
+No soil sample was collected at this location.
+SP = Poorly - Graded sands, Gravelly sands, Little or no fines
+
+SM = Silty - Sands, Sand - Silt mixtures
+BDL = Below Detectable Limits 
+
+15 SM Moist BDL 15
+
+14 SM Moist BDL 14
+
+13 SM Moist BDL Same as above. 13
+
+12 SM Moist BDL 12
+
+11 SM Moist BDL 11
+
+10 SM Moist 2.5 10
+
+9 SM Moist BDL 9
+Grey, TILL.
+
+8 SP Dry BDL 8
+
+7 SP Dry BDL Same as above. 7
+
+6 SP Dry BDL 6
+
+4 4
+Same as above.
+
+5 5
+
+2 Brown, medium SAND (Fill) 2
+
+3 3
+
+Asphalt
+
+1 Air Vac to 6 feet below grade - cleared 1
+
+S
+or
+
+tin
+g
+
+M
+oi
+
+st
+ur
+
+e
+
+P
+ID
+
+ 
+(p
+
+pm
+)
+
+Leominster, Massachusetts
+
+4/8/2010
+Date Completed: 4/8/2010
+
+Fi
+ll 
+
+M
+at
+
+.
+
+D
+ep
+
+thBlow Counts (24")
+
+P
+en
+
+ (i
+n.
+
+)
+
+R
+ec
+
+ (i
+n.
+
+)
+
+Field Identification
+
+Fi
+ll 
+
+M
+at
+
+.
+
+Tu
+be
+
+02140-393
+Cumberland Farms, Inc.
+100 Crossing Boulevard
+Framingham, Massachusetts
+CFI #2141
+1289 Main Street
+
+Depth Sample Depth
+Sample 
+Number
+
+2 Technology Park Drive
+Westford, Massachusetts
+
+(978) 589-3000
+
+Boring Log
+
+MW-8
+
+PPM = Parts-Per-Million
+BSG = Below Surface Grade
+
+2 Technology Park Drive
+Westford, Massachusetts
+
+(978) 589-3000
+
+Boring Log
+
+MW-8
+
+
+
+Project Number:
+Client:
+
+Use: Soil Investigation
+Boring Number: 1
+
+Site Location: Sheet: 1 of 1
+ Well Depth:   12'
+Equipment: Geoprobe 6610DT Screen Depth:   2-12'
+
+Project Manager: M. Newell Field Technician: J. Chambert Date Started: Inside Diameter: 4.25 Screen length:   10'
+Drilling Contractor: TDS Driller: Matt Outside Diameter: Water Depth:    ~7'
+
+Description
+0-6 6-12 12-18 18-24
+
+6 in-Road Box
+Clean Native Fill
+Bentonite Seal
+
+0-3' NA NA NA NA NA NA SP Dry 2.5
+
+2" PVC Riser
+
+3-5' NA NA NA NA NA NA SP Dry 1.5
+
+Approximate Groundwater Level
+5-10' NA NA NA NA NA 48" on Day of Drilling
+
+2" PVC Slotted Screen
+
+Sand Pack
+
+Bottom of Well at ~12 feet
+10-15' NA NA NA NA NA NA 60"
+
+Bottom of Boring at ~15 feet
+
+PPM = Parts-Per-Million
+
+End of Boring at 15' BSG.
+No Refusal Encountered.
+
+No soil sample was collected at this location.
+SP = Poorly - Graded sands, Gravelly sands, Little or no fines
+
+SM = Silty - Sands, Sand - Silt mixtures
+PID = Photoionazation detector
+
+15 SM Moist BDL 15
+
+14 SM Moist BDL 14
+
+13 SM Moist BDL Same as above. 13
+
+12 SM Moist BDL 12
+
+11 SM Moist BDL 11
+
+10 SM Moist BDL 10
+
+9 SM Moist BDL Grey, TILL. 9
+
+8 SM Moist BDL 8
+
+7 SP Dry BDL
+
+Same as above.
+
+7
+
+6 SP Dry 1.1 6
+
+4 4
+Same as above.
+
+5 5
+
+2 Brown, medium SAND (Fill) 2
+
+3 3
+
+Asphalt
+
+1 Air Vac to 6 feet below grade - cleared 1
+
+S
+or
+
+tin
+g
+
+M
+oi
+
+st
+ur
+
+e
+
+P
+ID
+
+ 
+(p
+
+pm
+)
+
+Leominster, Massachusetts
+
+4/8/2010
+Date Completed: 4/8/2010
+
+Fi
+ll 
+
+M
+at
+
+.
+
+D
+ep
+
+thBlow Counts (24")
+
+P
+en
+
+ (i
+n.
+
+)
+
+R
+ec
+
+ (i
+n.
+
+)
+
+Field Identification
+
+Fi
+ll 
+
+M
+at
+
+.
+
+Tu
+be
+
+02140-393
+Cumberland Farms, Inc.
+100 Crossing Boulevard
+Framingham, Massachusetts
+CFI #2141
+1289 Main Street
+
+Depth Sample Depth
+Sample 
+Number
+
+2 Technology Park Drive
+Westford, Massachusetts
+
+(978) 589-3000
+
+Boring Log
+
+MW-9
+
+BSG = Below Surface Grade
+BDL = Below Detectable Limits 
+
+2 Technology Park Drive
+Westford, Massachusetts
+
+(978) 589-3000
+
+Boring Log
+
+MW-9
+
+
+
+Project Number:
+Client:
+
+Use: Soil Investigation
+Boring Number: 1
+
+Site Location: Sheet: 1 of 1
+ Well Depth:   12'
+Equipment: Geoprobe 6610DT Screen Depth:   2-12'
+
+Project Manager: M. Newell Field Technician: J. Chambert Date Started: Inside Diameter: 4.25 Screen length:   10'
+Drilling Contractor: TDS Driller: Matt Outside Diameter: Water Depth:    ~6'
+
+Description
+0-6 6-12 12-18 18-24
+
+6 in-Road Box
+Clean Native Fill
+Bentonite Seal
+
+0-3' NA NA NA NA NA NA SP Dry BDL
+
+2" PVC Riser
+
+3-5' NA NA NA NA NA NA SP Dry BDL
+
+Approximate Groundwater Level
+on Day of Drilling
+
+5-10' NA NA NA NA NA 48"
+
+2" PVC Slotted Screen
+
+Sand Pack
+
+Bottom of Well at ~12 feet
+10-15' NA NA NA NA NA NA 60"
+
+Bottom of Boring at ~15 feet
+
+PID = Photoionazation detector
+
+End of Boring at 15' BSG.
+No Refusal Encountered.
+
+One soil sample was collected from 3 to 5 feet BGS. MW-10 (3-5) for VPH.
+SP = Poorly - Graded sands, Gravelly sands, Little or no fines
+
+SM = Silty - Sands, Sand - Silt mixtures
+VPH = Volitile Petrolium Hydrocarbons
+
+15 SM Moist BDL 15
+
+14 SM Moist BDL 14
+
+13 SM Moist BDL Same as above. 13
+
+12 SM Moist BDL 12
+
+11 SM Moist BDL 11
+
+10 SM Moist BDL 10
+
+9 SM Moist BDL 9
+Grey, TILL.
+
+8 SP Moist BDL 8
+
+7 SP Moist BDL Same as above. 7
+
+6 SP Dry BDL 6
+
+4 4
+Same as above.
+
+5 5
+
+2 Brown, medium SAND (Fill) 2
+
+3 3
+
+Asphalt
+
+1 Air Vac to 6 feet below grade - cleared 1
+
+S
+or
+
+tin
+g
+
+M
+oi
+
+st
+ur
+
+e
+
+P
+ID
+
+ 
+(p
+
+pm
+)
+
+Leominster, Massachusetts
+
+4/8/2010
+Date Completed: 4/8/2010
+
+Fi
+ll 
+
+M
+at
+
+.
+
+D
+ep
+
+thBlow Counts (24")
+
+P
+en
+
+ (i
+n.
+
+)
+
+R
+ec
+
+ (i
+n.
+
+)
+
+Field Identification
+
+Fi
+ll 
+
+M
+at
+
+.
+
+Tu
+be
+
+02140-393
+Cumberland Farms, Inc.
+100 Crossing Boulevard
+Framingham, Massachusetts
+CFI #2141
+1289 Main Street
+
+Depth Sample Depth
+Sample 
+Number
+
+2 Technology Park Drive
+Westford, Massachusetts
+
+(978) 589-3000
+
+Boring Log
+
+MW-10
+
+PPM = Parts-Per-Million
+BSG = Below Surface Grade
+
+2 Technology Park Drive
+Westford, Massachusetts
+
+(978) 589-3000
+
+Boring Log
+
+MW-10
+
+
+
+ 
+ 
+ 
+
+Attachment D 
+ 
+Waste Manifest  
+
+
+
+
+
+ 
+ 
+ 
+
+Attachment E 
+ 
+Public Notification Letters  
+ 
+
+
+
+NOTICE OF ENVIRONMENTAL SAMPLING
+As required by 310 CMR 40.1403(10) of the Massachusetts Contingency Plan
+
+BWSC 123
+
+This Notice is Related to
+Release Tracking Number
+
+~ 117414
+
+A. The address of the disposal site related to this Notice and Release Tracking Number (provided above):
+
+1. Street Address: 1289 Main Street (Route 13)
+
+CityfTown: .:L:.:e.::o:.:.m:::in.:.:s:.::te:::r Zip Code: .:0.:..14.:..5:.:3=---__
+
+B. This notice is being provided to the following party:
+
+1. Name: Leominster Department of Public Works
+
+2. Street Address: _1_0_9_G_r_a_ha_m_S_t_re_e_t _
+
+CityfTown: .:L.:eo.:.m.:..::.in.:s.:.te:.:.r Zip Code: ..:0.:..14.:..5:.;3=--__
+
+C. This notice is being given to inform its recipient (the party listed In Section B):
+
+[Z] 1. That environmental sampling will be/has been conducted at property owned by the recipient of this notice.
+
+[Z] 2. Of the results of environmental sampling conducted at property owned by the recipient of this notice.
+
+[Z] 3. Check to indicate if the anaiytical results are attached. (If item 2. above is checked, the anaiytical results from
+the environmental sam lin must be attached to this notice.
+
+D. Location of the property where the environmental sampling will be/has been conducted:
+
+1. Street Address: North Street Right-Of-Way
+
+CityfTown: _L_eo_m_in_s_te_r Zip Code: _0_14_5_3 _
+
+2. MCP phase of work during which the sampling will be/has been conducted:
+
+o Immediate Response Actiono Release Abatement Measureo Utility-reiated Abatement Measure .o Phase I Initial Site Investigationo Phase II Comprehensive Site Assessment
+
+o Phase III Feasibility Evaluationo Phase IV Remedy Implementation Plano Phase V/Remedy Operation Statuso Post-Class C Operation, Maintenance and Monitoring
+D Other
+
+(specify)
+3. Description of property where sampling will be/has been conducted:
+
+o residential Dcommerical o industrial Dschool/playground 00ther Right-Of-Way
+(specify)
+
+4. Description of the sampling locations and types (e.g., soil, groundwater) to the extent known at the time of this notice.
+
+Soli samples collected during IhelnslallaUon of wells MW_7 and MW-l0 and groundwater samples collected from wells MW-7 through MW-l0, located In Ihe right-of-way along North Sireet adjacenllo 1289 MaIn Skeal
+
+E. Contact information related to the party providing this notice:
+Contact Name: Christopher Johnson
+
+Street Address: 100 Crossing Boulevard
+
+CityfTown: Framingham
+
+Telephone: (508) 270-4495
+
+Zip Code: ..:0..:.17:...:0:=2'---__
+
+Email: cjohnson@cumberlandgulf.com
+
+
+
+NOTICE OF ENVIRONMENTAL SAMPLING
+As required by 310 CMR 40.1403(10) of the Massachusetts Contingency Plan
+
+MASSACHUSETTS REGULATIONS THAT REQUIRE THIS NOTICE
+This notice is being provided pursuant to the Massachusetts Contingency Plan and the notification
+requirement at 310 CMR 40.1403(10). The Massachusetts Contingency Plan is a state regulation
+that specifies requirements for parties who are taking actions to address releases of chemicals (oil or
+hazardous material) to the environment.
+
+THE PERSONiSl PROVIDING THIS NOTICE
+This notice has been sent to you by the party who is addressing a release of oil or hazardous material
+to the environment at the location listed in Section A on the reverse side of this form. (The
+regulations refer to the area where the oil or hazardous material is present as the "disposal site".)
+
+PURPOSE OF THIS NOTICE
+When environmental samples are taken as part of an investigation under the Massachusetts
+Contingency Plan at a property on behalf of someone other than the owner of the property, the
+regulations require that the property owner (listed in Section B on the reverse side of this form) be
+given notice of the environmental sampling. The regulations also require that the property owner
+subsequently receive the analytical results following the analysis of the environmental samples.
+
+Section C on the reverse side of this form indicates the circumstance under which you are receiving
+this notice at this time. If you are receiving this notice to inform you of the analytical results following
+the analysis of the environmental samples, you should also have received, as an attachment, a copy
+of analytical results. These results should indicate the number and type(s) of samples (e.g., soil,
+groundwater) analyzed, any chemicals identified, and the measured concentrations of those
+chemicals.
+
+Section D on the reverse side of this form identifies the property where the environmental sampling
+will be/has been conducted, provides a description of the sampling locations within the property, and
+indicates the phase of work under the Massachusetts Contingency Plan regulatory process during
+which the samples will be/were collected.
+
+FOR MORE INFORMATION
+Information about the general process for addressing releases of oil or hazardous material under the
+Massachusetts Contingency Plan and related public involvement opportunities may be found at
+http://www.mass.gov/dep/c1eanup/oview.htm. For more information regarding this notice, you may
+contact the party listed in Section E on the reverse side of this form. Information about the disposal
+site identified in Section A is also available in files at the Massachusetts Department of Environmental
+Protection. See http://mass.gov/dep/aboutlregion/schedule.htmif you would like to make an
+appointment to see these files. Please reference the Release Tracking Number listed in the upper
+right hand corner on the reverse side of this form when making file review appointments.
+
+
+
+A:COM
+
+May 6,2010
+
+AECOM
+2 Technology Park Drive
+Westford, MA 01886-3140
+
+978.589.3000
+978.689.3100
+
+tel
+fax
+
+Leominster Department of Public Works
+109 Graham Street
+Leominster, Massachusetts 01453-4234
+
+RE: Laboratory Analytical Results
+Cumberland Farms, Inc. Facility # 2141/V0984
+1289 Main Street (Route 13)
+Leominster, Massachusetts
+Release Tracking Number 2-17414
+
+AECOM File: 60136873
+
+To Whom It May Concern,
+
+This letter and attached standardized form are intended to satisfy the public involvement
+requirements outlined in the Massachusetts Contingency Plan (MCP) 310 CMR 40.1400. As you
+are aware, AECOM Environment (AECOM), is providing environmental consulting services to our
+client, Cumberland Farms, Inc. (CFI) at the above-referenced facility with respect to Release
+Tracking Number (RTN) 2-17414 assigned by the Massachusetts Department of Environmental
+Protection (DEP). AECOM, on behalf of CFI, installed four groundwater monitoring wells (MW-7,
+MW-8, MW-9, and MW-10) in the right-of-way along North Street. On April 8, 2010, during the
+installation of these monitoring wells soil samples were submitted for laboratory analysis from the
+borings associated with monitoring wells MW-7 and MW-10. In addition, AECOM collected
+groundwater samples from monitoring wells MW-7, MW-8, MW-9, and MW-10 on April 15, 2010 for
+laboratory analysis. Pursuant to the MCP 310 CMR 40.1403 (10) (b), please find the laboratory
+analytical report attached.
+
+In addition, AECOM has included a soil table (Table 1) and a groundwater analytical table (Table 2)
+summarizing the soil and groundwater analytical results for the samples collected from the North
+Street right-of-way. In addition, copies of the laboratory analytical data are enclosed. Please refer
+to the attached figure for the location of the wells and other pertinent site features.
+
+AECOM, on behalf of CFI, is continuing our environmental investigation by conducting quarterly
+groundwater sampling of the monitoring wells. The next sampling event is tentatively scheduled for
+July 2010.
+
+J:\Northboro\PSnCFI2140\Massachusetts 2140\Leominster-
+393 NEW\Corr\Public Notification LeUers\2010\April2010· Soil
+Results and GW\April2010.docx
+
+
+
+AECOM 2
+
+In addition, pursuant to the MCP 310 CMR 40.1403(10) (b), this letter is intended to inform you that
+public involvement opportunities are available under the MCP 310 CMR 40.1403 (9) and 310 CMR
+40.1404. If you have any questions, please contact Christopher Johnson of CFI at (508) 270-4495
+or the undersigned at (978) 589-3000.
+
+Sincerely yours,
+
+Geologist
+
+J:\Northboro\PSnCFI 2140\Massachusetts 2140\Leominster~
+393 NEW\Corr\Public Notification Letters\2010\Apri12010 - Soil
+Results and GWApril2010,docx
+
+Mark Newell
+Project Manager
+
+
+
+TABLE 1
+
+Soil Boring Results
+Cumberland Farms, Inc. Facility # 852410
+
+Leominster, Massachusetts
+RTN 2-17414
+
+6/12/2009418/10 .
+
+Sample 10 MW-7 (0-3') MW-7 (8-15') DUP MW-10 (3-5')
+MW-7 MW·7 MW-7 MW-10
+
+Depth 0-3' 8-15' 8-15' 3-5' S-lIGW-2 S-lIGW-3
+PID 9.6 ppm 11.1 to 261 ppm 11.1 to 261 ppm SOL
+
+Collection date 4/8/2010 4/8/2010 4/8/2010 4/8/2010
+VPH
+Aliphatics/Aromatics (mglKg)
+
+C5-C8 Aliphatics <27.5 <27.5 <27.5 <18.9 100 100
+C9-C12 Aliphatics <27.5 <27.5 <27.5 <18.9 1,000 1,000
+C9-C10 Aromatics <27.5 <27.5 <27.5 <18.9 100 100
+
+Targeted Analytes (mg/Kg)
+Benzene <0.549 <0.549 <0.549 <0.379 30 30 -
+Toluene <0.549 1.05 4.81 <0.379 500 500
+
+Ethylbenzene <0.549 <0.549 2.85 <0.379 500 500
+Xylenes (mixed isomers) <1.098 2.376 5.15 <1.137 300 500
+
+Methyl-tert-butyl ether <0.0549 2.03 10.1 <0.0379 100 100
+Naphthalene <1.10 <1.10 1.31 <0.758 40 500
+
+MCP Method 1 Standards = Standards promulgated in the February 14, 2008 revisions to the Massachusetts
+PPM = Parts-per-million
+BDL = Below instrument detection limits
+Shaded value = Exceeds applicable standard
+Contingency Plan (MCP), 310 CMR 40.0000.
+VPH = Volatile petroleum hydrocarbons.
+mg/Kg = milligrams per Kilogram (parts-per-million)
+
+
+
+TABLE 2
+
+Hlstortcal Groundwalar Analytical
+Cumbarland Farms, Inc Facility 11'2141
+
+Laominster CFt
+RTN2_17414
+
+Historical GrGundwalar Sampling Rasulls
+
+W.I~ cs.cs C8-<:12 C9-<:tO se",.". Tol""". Ethyl Tolal Mm, N.pltha1e....
+sompli"ll
+
+A1~~:~'S
+Aliphall.s Atomali.s
+
+~~'::'" ~~~sDale '" '" ,. , '"' , '.' , ,~"
+".,
+
+lOW3)
+t1100~11112010 ." ·'00 .ro ,~ tlloo 2910 It 100 ~...
+
+(OW3)
+4111120tO ." ·'00 4. .. 49.3 t8.8 ~, .. .~...,
+
+(OW3)
+4111lJ20tO ." .'00 ." 2\.3 M.' to.8 ro, .. .~
+
+MW·l0
+(OW,)
+
+41t1lJ2010 4. ·'00 4. .. ~ ~ .<0 .. .~
+OW.1 '00 '00 '00 • 1,COO '00 10,000 " ,..OW·2 MOO 6.000 1,000 2,000 60,000 20,000 MOO 60,0* 1,000
+'W4 60000 60000 60000 10000 40000 0000 6COO 60000 20000
+
+NOTES'
+!'9'L. mlaogl.r"" pel II..
+NA _Nol Analfzed
+NS_NoIsornplOd
+MTBE • ME'lh)1 Teotiary.1M)1 Ellwlr
+Sho<Iirlg "',*"lee con~ral'mIs p<eoent ebov. eppkoble SI.n~r'"
+OW·t * MaSsachusetlsCoIOSlO/Y GW·l St.ndards
+GW·2 * Massachusetls CoIOSlO/Y GW·2 SI.nda,ds
+GW·3 _ MaS_seils CoIOSlO/Y GW.a St.Ild.rds
+MCP G""""",.l.,. St.ndard. Charlged 2100
+SPIl-Se "'''Pho... rk"""'btffl
+
+
+
+!.l.EW:!Q;
+YKlea Store
+
+Appro.irno\ely 55'
+FrQm MW-9
+
+April 2010
+
+A=coM
+
+1· =0 30'
+
+""
+"'"
+
+........
+M. Newell
+
+Stte Plan
+
+Property Boundary
+O.emead Electric Line
+Undergl'Q~nd Woter Line
+
+Undergt'Ql,ll1d Gas lin!:
+Undertlround $ew<!:r Une
+Undergro""d Storm s.."",
+Line
+Catch SOlS",
+Utlity Polo
+Dumpster
+Temporary Soil Go. Poinl
+Installed SepL :30, 2009
+
+~""'"f'ermirll:!'It S0l1 Gas Point
+InstoUed 4/2/10 by AECOIIl
+Monton-ng Well Instglled
+June 1:2, :2009 by AECOM
+Monitoring Well Installed
+Sept. :23, 2009 by AECOM
+Monitoring Well Instolled
+4/a/10 by AECOM
+
+Figure 2
+
+Illl
+SG-1 )I(
+
+'"
+
+--m<-
+--w--
+--G--
+--5--
+---5S--
+
+SG-1"'-+-
+loIW-l.
+
+"'-.+
+t./W-7181
+
+"""'-"
+O. ~Pl'
+
+AECOM Environment
+2 Tednc:tlgy P2k Drive
+
+Westford, MA 0IBB8
+(978) 580-3000
+
+Phase I Assessment
+CUrilerIa1d FlmlS Facity #2141
+
+1289 Main Street
+Leotr*'rster, Massachusetts
+
+....."
+K.Borry
+
+""""""
+
+"""'"
+
+.......
+601:36873
+
+...
+.<;:,
+
+CumbeiiImd Farms
+
+-""""''''''''''100 C!<lsq _ ...
+~_0f702
+
+,-
+
+ResiclerICc
+Aj)pro.imolely 56'
+
+From MW-l0
+
+30
+
+,
+Scole jn Feet
+
+-~MW-l0
+
+B
+
+Perking Are<J
+To Video Store
+
+~
+
+~
+
+~,,-,
+
+M
+
+r
+i
+
+.... 1,
+
+~
+(3) 8,000 Go~on
+Urlderground Fibergloss
+Cosoline Storoge Tonks
+(lrtStoiled August 12. ,ga2)
+
+,,
+L---'"
+
+Je~lry
+
+•Stereo.,.
+",\
+
+\ I I
+\ I\ { M-E\ I I -G------TG----
+
+\ if! I
+\ I '" I\ I ,
+
+Ii<. ;' NORTH STREET :
+
+-'--------S---------1A7;.----S:------------S---- I~ ..... f.......... ..®
+I ~ ~_ J:. ",S'" '"
+
+I '!< ~ MW-7 ~,:;~~~~~/"::~t=------
+/ 1\ '1lHE lSI -- OWE- /-/- --:lr! ... 7' ... / I
+
+I d .- '" I
+I 't ,/ ~ I
+I I / Asphalt !
+
+f Pavement:$.:
+
+~4 t.rN14 t.IW-6 /
+...... 1'..... I Ccncrete Gas era I
+
+...9"''':' I! I Island wi Dispenser At~ /
+............... 41 I f II /p..... ~II I I Canopy "
+
+It I I I fi1 !...-Ccncrete ..... ..- ...-
+..... I I I L'El /' POd --
+
+~ J 1/ /
+J I I~
+
+~ I I: lil : ~
+~ I I I
+~ i I~Mt3 000
+
+: '\ \~'-2
+I MW-S+,,
+
+Weothervone
+Restouront
+
+I
+t
+
+~
+I
+1
+I
+I,
+1
+f
+
+I,
+!
+
+i,
+
+
+
+ANALYTICAL REPORT
+
+Thursday, April 22, 2010
+
+Mark Newell
+AECOM
+2 Technology Park Or
+Westford, MA
+
+TEL: (978) 589-3000
+
+FAX:
+
+GeoLabs, Inc.
+45 Johnson Lane
+Braintree MA 02184
+Tele: 781 8487844
+Fax: 781 8487811
+
+Project:
+Location:
+
+Dear Mark Newell:
+
+CFI2063
+1289 Main St Leominster, MA Order No.: 1004299
+
+GeoLabs, Inc. received 6 sample(s) on 4/16/2010 for the analyses presented in the following
+report.
+
+All data for associated QC met method or laboratory specifications, except where noted in the
+Case Narrative.
+
+Analytical methods and results meet reqUirements of 310CMR 40.1056(J) as per MADEP
+Compendium of Analytical Methods (CAM).
+
+If you have any questions regarding these tests results, please feel free to call.
+
+sin/11'y,.
+
+~~
+Charles Morrow
+Laboratory Director
+
+For current certifications, please visit our website at www.geolabs.com
+
+Certifications:
+
+CT (PH-014B) - MA (M-MA016) - ME (MA0015)· NH (250B) - NJ (MA009) - NY (1179B) - PA (6B-03417)· RI (LA000262)
+
+Accredited in Accordence with NELAC
+
+Page 1 of 18
+
+
+
+Work Order Sample Summary
+••••_._ ••_._ ••_.,. ." 'C"""""_~ "_V'" ••_ ••• __..._. __• • _
+
+.---.-----._---. -----------~------~~------_.-
+
+CLIENT; AECOM Project: CFI2063
+
+Lab Ord6r. 1004299 Location: 1289 Main St Leominster, MA
+
+Lab SamplolO Cllont Sample 10 Matrix Tests Requested Collection Date Date Received
+
+1004299.()01A MW-7 Groundwater VPH - MAOEP VPH 4/15/2010 4/16/2010
+
+1004299-002A MW-8 Groundwater VPH - MADEP VPH 4/15/2010 4/16/2010
+
+1004299-003A MW-9 Groundwater VPH - MAOEP VPH 4/15/2010 4/16/2010
+
+1004299-004A MW-10 Groundwater VPH - MAOEP VPH 4/15/2010 4/16/2010
+
+1004299-005A OUP Groundwater VPH - MADEP VPH 4/15/2010 4/16/2010
+
+1004299-006A Trip Blank Olnor VPH - MAOEP VPH 4115/2010 4/16/2010
+
+~~~~~- ..~-~-------_ .. --
+GeoLabs, Inc.
+
+45 Johnson Lane - Braintree MA 02164 -7818487844 -7818487811
+
+Page 2 of 18
+
+
+
+Date: 22-Apr-IO
+, .. " ... -- .. ,..,-_ .._."._._- .._-_.~_ ..
+
+-.-._-~.- ------
+
+CLIENT:
+
+Project:
+
+Lab Order:
+
+AECOM
+
+eFI2063
+1004299
+
+CASE NARRATIVE
+
+Project # CFI# 2063
+MADEPRTN#:
+
+MADEP MCP Response Action Analytical Report Certification FOlID
+
+Laboratory Name: GeoLabs, Inc.
+Project Location: 1289 Main Street
+
+Leominster, MA
+This form provides certification for the following data set: 1004299(001-006)
+
+Sample Matrix: Groundwater
+
+MCP Methods Used: VPH
+
+An atIirmative answer to questions A, B, C and D are required for "Presumptive Certainty" status
+
+A. Were all samples received by the laboratory in a condition consistent with that described on the
+Chain of custody documentation for the data set? YES
+
+B. Were all QA/QC procedures required for the specified methodes) included in this report followed,
+including the requirement to note and discuss in a narrative QC data that did not meet appropriate
+standards or guidelines? YES
+
+C. Does the analytical data included in this report meet all the requirements for "Presumptive
+Certainty" as described in Section 2.0 of the MADEP documents CAM VII A "Quality Assurance and
+Quality Control Guidelines for the Acquisition and Reporting of Analytical Data"? YES
+
+D. VPH and EPH Methods only: Was the VPH or EPH Method conducted without significant
+modifications (see Section 11.3 of respective Methods) YES
+
+A response to questions E and F are required for "Presumptive Certainty" status
+
+E. Were all QC performance standards and recommendations for the specified methods achieved? NO
+F. Were results for all ana1yte-list compounds/elements for the specified methodes) reported?
+YES
+
+All NO answers need to be addressed in an attached Environmental Laboratory case narrative.
+
+GeoLabs, IllC.
+
+45 JOhllSOIl Lalle - Braintree MA 02184 -7818487844 -781848 7811
+
+Page 3 of 18
+
+
+
+CLIENT:
+
+Project:
+
+Lab Order:
+
+AECOM
+
+CPI2063
+
+1004299
+CASE NARRATIVE
+
+CASE NARRATIVE
+
+Physical Condition of Samples
+
+The project was received by the laboratory in satisfactory condition, The sample(s) were received
+wldamaged, in appropriate containers with the correct preservation,
+
+Project Documentation
+
+The project was accompanied by satisfactory Chain of Custody documentation,
+
+Analysis of Sample(s)
+
+The following analytical anomalies or non-conformances were noted by the laboratory during the
+processing of these samples:
+
+VPH Roo 35925 RPD for 2-Methylpentane is outside the limit, however the percent recoveries for !ill
+compounds are within the, recovery limits,
+
+I, the undersigned, attest under the pains and penalties of perjury that, based upon my personal inquiry
+of those responsible for obtaining the information, the material contained in this analytical report is, to
+the bestof my'J~e an~ belief, accurate and complete,
+
+Signature: ~tf-.I!}:;k-h Position: Lab Director
+Printed Name: Charles Morrow Date: April 22, 2010
+
+GeoLabs, Inc,
+
+45 Johnson Lane - Braintree MA 02184 -781 8487844 -781 8487811
+
+Page 4 of 18
+
+
+
+- ------------ _.- --_ ----_.- ""_..~ _- ,~ .._-_._-_. __ _---------_.--.. - ,''"'''-'''-'-'''-''' ..~..._.._..._----'~._ ..---' - ..---.-.--, '.- .-.__..----.--_..... __..-_..._.•......
+CLIENT'
+Project:
+Lab Order:
+
+VPHMethods
+
+AECOM
+CFt 2063
+
+1004299
+CASE NARRATIVE
+
+Method for Ranges: MADEP VPH 04-1.1
+Method for Target Analytes; MADEP VPH 04-1.1
+
+Carbon Range data exclude concentrations of any surrogate(s) and/or internal standards eluting in that
+range.
+
+C.5-C8 Aiiphatic Hydrocarbons exclude the concentration of Target Analytes eluting in that range.
+(MTBE, Benzene, Toluene)
+
+C9-C12 Aliphatic Hydrocarbons exclude concentration of Target Analytes eluting in that range
+(Ethylbenzene, m&p-Xylenes, o-Xylene) AND concentration of C9-CIO Aromatic Hydrocarbons.
+
+CERTIFICAnON
+Were all QA/QC procedures REQUIRED by the VPH Method followed? YES
+Were all QA/QC performance/acceptance standards achieved? NO (See Case NalTative for details)
+Were any significant modifications made to the VPH method, as specified in Sec. 11.3? NO
+
+I attest under the pains and penalties of peljury that, based upon my inquiry of those individuals
+immediately responsible for obtaining the information, the material contained in this report is, to the
+best of my knowledge, accurate and complete.
+
+SIGNATURE:~~OSITlON: LABDIRECTOR
+
+PRINTED NAME: Charles Morrow
+
+DATE: April 22, 2010
+
+GeoLabs, Inc.
+
+45 Johnson Lane - Braintree MA 02184 -781 848 7844 -781 8487811
+
+Page 5 of 18
+
+
+
+ANALYTICAL REPORT
+-----------_ ...." ._~_._----- -- -- ------ -----~--,.._--_..._. __._._-
+
+--.._-------.-.- - -- -- .".'--_ ..._..._--
+Reported Dale: 22-Apr-1O
+
+CLIENT:
+
+Lab Order:
+
+Project:
+
+Lab 10:
+
+AECOM
+
+1004299
+CFI2063
+
+1004299-001
+
+Client Sample!D: MW-7
+
+Collection Dale: 4/15/20103:30:00 PM
+
+Date Received: 4/16/2010
+
+Matrix: GROUNDWATER
+
+Analyses Result Oct. Limit Qual Units
+
+VPH - MADEP VPH
+C9~C10 Aromatic Hydrocarbons 4230 3750 ~g/L
+Unadjusted C5-C8 Aliphatic 26600 3750 ~g/L
+Hydrocarbons
+Unadjusted C9-C12 Aliphatic 9990 5000 ~g/L
+Hydrocarbons
+Methyl Tert-Butyl Ether 17700 250 ~g/L
+Benzene 1830 250 ~g/L
+Toluene 11100 250 ~g/L
+Ethylbenzene 2970 250 ~g/L
+m,p-Xylene 8350 2~q_: ~9/L
+o~Xylene 3430 260 ~g/L
+Naphthalene 982 750 ~g/L
+Adjusted C5-C8 Aliphatic . ND 75.0 ~g/L
+Hydrocarbons
+Adjusted C9-C12 Aliphatic ND 100 ~g/L
+Hydrocarbons
+
+Surr: 2.5-Dibromotoluene FID 96.9 70-130 %REC
+Sun: 2,5-0ibromotoluene FID 124 70·130 %REC
+Surr: 2,5-Dlbromotoluene PID 88.9 70-130 %REC
+Surr: 2,5-Dlbromotoluene PID 125 70-130 %REC
+
+OF Date Analyzed
+
+Analyst: ZYZ
+50 4120/2010
+
+50 4/2012010
+
+50 4/20/2010
+
+50 4/2012010
+50 4120/2010
+50 412012010
+
+50 4/20/2010
+50 4120/2010
+50 4/20/2010
+50 4120/2010
+1 4/1712010
+
+4/17/2010
+
+50 4/20/2010
+1 4/17/2010
+50 4/20/2010
+1 411712010
+
+Q~~~;fi~~~:-'--~---B--Analyte det~~t-~d in the associated Method"Bi~~k------------~BRi-13~lowRcp·o~ti,~g-"i:j-,~it·_~··--~_.. -- .-..-------...
+E Value above quanUtation range H Holding times for preparation or analysis exceeded
+J Analyte detected below quantitation limits ND Not Detected tit the Reporting Limit
+S Spike Recovery outside recovery limits
+
+GeoLabs t Inc.
+45 Johnson Lane ~ Brniotree MA 02184 -781848 7844..., 781848"7811
+
+Page 6 of 18
+
+
+
+ANALYTICAL REPORT
+Reported Date: 22-Apr-j 0
+
+CLIENT:
+
+Lab Order:
+
+Projeet:
+Lab ID:
+
+AECOM
+
+1004299
+
+CFI2063
+j004299-002
+
+Client Sample!D: MW-8
+
+Collection Date: 4/1512010 3:00:00 PM
+
+Date Reeeived: 4/16/2010
+Matrix: GROUNDWATER
+
+Analyses Result Det. Limit Qual Units
+
+VPH - MADEP VPH
+C9-C10 Aromatic Hydrocarbons NO 75.0 ~g/L
+Unadjusted C5-C8 Aliphatic NO 75.0 ~g/L
+Hydrocarbons
+Unadjusted C9-C12 Aliphatic 104 100 ~g/L
+Hydrocarbons
+Methyl Tert-Butyl Ether NO 5.00 ~g/L
+Benzene NO 5.00 ~gJL
+Toluene 49.3 5.00 ~g/L
+Ethylbenzane 18.6 . 5.00 ~g/L
+m,p-Xylene 69.4 5.00 ~g/L
+o-Xylene 25.3 5.00 ~g/L
+Naphthalene ND 20.0 ~9/L
+Adjusted C5·C8 Aliphatic NO 75.0 ~g/L
+Hydrocarbons
+Adjusted C9·C12 Aliphatic NO 100 ~g/L
+Hydrocarbons
+
+Surr: 2,5w Dibromotoluene FlO 99.1 70·130 %REC
+Surr: 2,5-DibromotoJuene PIO 97.6 70-130 %REC
+
+DF Date Analyzed
+
+Analyst: ZYZ
+4/20/2010
+4/20/2010
+
+4/20/2010
+
+1 4/20/2010
+1 4/20/2010
+1 4/20/2010
+1 4/20/2010
+1 4/20/2010
+1 4120/2010
+1 4/20/2010
+1 4/20/2010
+
+4/20/2010
+
+A/20/2010
+4/20/2010
+
+QualUiers: B Anatyte detected in the associated Method Blank
+E Value ahove quantitation range
+J Allalyte detected below quantitation limits
+
+S Spike Recovery outside recovery limits
+
+BRt Below Reporting Limit
+H Holding times for preparation or analysis exceeded
+
+ND Not Detected at the Reporting Limit
+
+GeoLabs, Inc.
+45 Johnson Lane ~ Bl'aintl'ce MA 02184 ~ 781 848 7844 ,... 781 8487811
+
+Page 7 of 18
+
+
+
+ANALYTICAL REPORT
+Reported Date: 22-Apr-10
+
+CLIENT:
+
+Lab Order:
+
+Project:
+
+Lab ID:
+
+AECOM
+
+1004299
+
+CFI2063
+
+1004299-003
+
+Client Sample ID: MW-9
+
+Collection Date: 4115/2010 2:30:00 PM
+
+Date Received: 4116/2010
+Matrix: GROUNDWATER
+
+Analyses
+
+VPH • MADEP VPH
+C9-C10 Aromatic Hydrocarbons
+Unadjusted C5·C8 Aliphatic
+Hydrocarbons
+Unadjusted C9·C12 Aliphatic
+Hydrocarbons
+Methyl Ten-Butyl Ether
+Benzene
+
+Toluene
+
+Ethylbenzene
+m,p~Xylene
+
+a-Xylene
+Naphthalene
+
+Adjusted C5-C8 Aliphatic
+Hydrocarbons
+Adjusted C9-C12 Aliphetlc
+Hydrocarbons
+
+Surr: 2.5-Dlbromotoluene FID
+Surr: 2,5·Dibromotoluene PIO
+
+Result Det. Limit Qnal Units DF Date Analyzed
+
+Analyst: ZYZ
+ND 75.0 ~glL 412012010
+ND 75.0 ~glL 412012010
+
+ND 100 ~glL 412012010
+
+ND 5.00 ~glL 412012010
+21.3 5.00 ~glL 4120i2010
+34.4 5.00 ~glL 412012010
+10.6 5.00 ~glL 412012010
+35.7 5.00 ~glL 412012010
+14.4 5.00 ~glL 412012010
+
+ND 20.0 ~glL 412012010
+ND 75.0 ~glL 412012010
+
+ND 100 ~glL 4120/2010
+
+91.0 70·130 %REC 412012010
+88.0 70·130 %REC 412012010
+
+BRL Below Reporting Limit
+
+H Holding times for preparation or analysis exceeded
+
+ND Not Detected at the Reporting Limit
+
+Qualifiers:
+
+._..._.. ~. . ._._..._ ...__,.·A_._.. ~_'.._.._,.._._. ...__,... __ ....
+
+B Analyte detected in 'the associated Method Blank
+E Value above quantitation range
+
+J Analyte detected below quantilation limits
+
+S Spike Recovery outside recovery limits
+
+GeoLabs, Inc.
+45 Johnson Lane"" Braintree MA 02184 ~ 781 8487844"" 781 8487811
+
+Page 8 of 18
+
+
+
+ANALYTICAL REPORT Reported Date: 22-Apr-IO
+
+CLIENT:
+
+Lab Order:
+
+Project:
+Lab ID:
+
+AECOM
+
+1004299
+
+CFl2063
+J004299-004
+
+Client Sample lD: MW-IO
+
+Collection Date: 4/15/20102:00:00 PM
+
+Date Received: 4/16/20 I0
+Matl'ix: GROUNDWATER
+
+Analyses
+
+VPH - MADEP VPH
+C9~C1 0 Aromatic Hydrocarbons
+Unadjusted C5-C8 Aliphatic
+Hydrocarbons
+Unadjusted C9-C12 Aliphatic
+Hydrocarbons
+Methyl Tert-Butyl Ether
+Benzene
+Toluene
+Ethylbenzene
+m,pHXylene
+o~Xylene
+
+Naphthalene
+
+Adjusted C5-C8 Aliphatic
+Hydrocarbons
+Adjusted C9-C12 Aliphatic
+Hydrocarbons
+
+Surr: 2.5-0Ibromotoiuene FID
+Surr: 2,5-Dlbromotoluene.PID
+
+Result
+
+NO
+NO
+
+ND
+
+NO
+NO
+NO
+NO
+NO
+ND
+NO
+NO
+
+NO
+
+85.3
+74.5
+
+,.•..-._-_.•..._-_.,._~---
+------_.-._~ ..... -_..._._------_._--- ----- -- --.-_."-
+
+Oct. Limit Qual Units DF Date Analyzed
+
+Analyst: ZYZ
+75.0 ~g/L 4/1712010
+75.0 ~g/L 4/1712010
+
+100 ~glL 4/17/2010
+
+5.00 ~g/L 1 4/17/2010
+5.00 ~g/L 1 4/17/2010
+5.00 ~g/L 1 4/17/2010
+5.00 ~g/L 1 4/17/2010
+5.00 ~g/L 1 4/17/2010
+5.0Q. ~g/L 1 4117/2010
+20.0 ~glL 1 4/17/2010
+75.0 ~glL 1 4/1712010
+
+100 ~g/L 4/17/2010
+
+70-130 %REC 4/17/2010
+70:130 %REC 4/1712010
+
+Qualifiers: B Analyte detected in the associated Method Blank
+B Vahle above quantttation range
+J Analyte detected below quantitation limits
+S Spike Recovery outside recovery limits
+
+BRL Below Reporting Limit
+H HoldIng times for preparation or analysis exceeded
+
+ND Not Detected at the Reporting Limit
+
+GeoLabs, hiC.
+45 Johnson Lane - Braintree MA 02184 ~ 781 8487844"" 781 8487811
+
+Page 9 of 18
+
+
+
+ANALYTICAL REPORT Reported Date: 22-Apr-l0
+
+('~LlENT:
+
+Lab Order:
+
+Project:
+Lab ID:
+
+AECOM
+
+1004299
+
+CFl2063
+1004299-005
+
+Client Sample ID: DUP
+
+Collection Date: 4115/2010
+
+Date Received: 4116/2010
+Matrix: GROUNDWATER
+
+Analyses
+
+VPH - MADEP VPH
+C9-C10 Aromatic Hydrocarbons
+Unadjusted CS.C8 Aliphatic
+Hydrocarbons
+Unadjusted C9-CI2 Aliphatic
+Hydrocarbons
+Methyl Tert·Butyl Ether
+
+Benzene
+Toluene
+Ethylbenzene
+m.p~Xylene
+
+o-Xylene
+Naphthalene
+Adjusted C5·C8 Aliphatic
+Hydrocarbons
+Adjusted Cg·C 12 Aliphatic
+Hydrocarbons
+
+Surf: 2,6-Dibromotoluene FlO
+Surr: 2,S·Oibromotoluene FlO
+Surr: 2,5 w Dibromotoluene PID
+Surr: 2,5·Dibromotoluene PIO
+
+Resnlt
+
+4090
+26300
+
+9560
+
+18700
+
+1900
+
+10900
+2730
+
+8230
+3430
+
+788
+ND
+
+ND
+
+88,3
+127
+
+84,3
+
+116
+
+Del. Limit Qual Units
+
+3750 ~glL
+3750 ~glL
+
+5000 ~glL
+
+250 ~glL
+250 ~g/L
+250 ~g/L
+250 '-';1. ~9/L
+250 ~91L
+250 ~9/L
+750 ~9/L
+
+75,0 ~g/L
+
+100 ~91L
+
+70-130 %REC
+70·130 %REC
+70·130 %REC
+70·130 %REC
+
+OF
+
+50
+50
+
+50
+
+50
+50
+50
+50
+50
+50
+50
+1
+
+50
+1
+50
+1
+
+Date Analyzed
+
+Analyst: ZYZ
+4/2012010
+
+412012010
+
+4/2012010
+
+4/20/2010
+
+4/2012010
+
+4/20/2010
+
+4/20/2010
+4/20/2010
+
+4120/2010
+4/2012010
+
+411712010
+
+·4/17/2010
+
+.4/2012010
+
+4/1712010
+412012010
+4/1712010
+
+Qualifiers: B Analyte detected in the associated Method Blank
+E Value abOve quantitation range
+J Analyte deteded below qllantila.tion limits
+S Spike Recovery outside recovery limits
+
+BRL Below Reporting Limit
+
+H Holding times for preparation or analysis exceeded
+ND Not Detected at the Reporting Limit
+
+GeoLnbs, Inc.
+45 Johnson Lane", Braintree MA 02184 -78t 84H 7844 ~ 7818487811
+
+Page 10 of 18
+
+
+
+ANALYTICAL REPORT
+Reported Date: 22.Apr·10
+
+-------_ ...---------- -----~....._-_...._---_..- .•.....-...._....•_-_..__.,._.._--- --_. - ._- ._- ----_.~-_._-- -- -------~----..._-------------_._-.~.__. ----------,._--~ ---._----_._.,-. ,,-"_ __.._--_ .._--~ _- - - -- - -- - ----- .,._--------_ _-
+CLIENT:
+
+Lab Order:
+Project:
+Lab 10:
+
+AECOM
+
+1004299
+
+CFI2063
+1004299..006
+
+Client Sample 10: Trip Blank
+
+Collection Date: 4/15/2010 II :00:00 AM
+
+Date Received: 4/16/2010
+Matrix: OTHER
+
+Analyses
+
+VPH .. MADEP VPH
+C9·C10 Aromatic Hydrocarbons
+Unadjusted CS-C8 Aliphatic
+Hydrocarbons
+Unadjusted C9-C12·Aliphatic
+Hydrocarbons
+Methyl Tert-Butyl Ether
+Benzene
+Toluene
+Ethylbenzene
+m,p-Xylene
+o~Xylene
+
+Naphthalene
+Adjusted C5·C8 Aliphatic
+Hydrocarbons
+Adjusted C9-C12 Aliphatic
+
+, Hydrocarbons
+.SU((: 2,5~Dibromotoluene FlO
+Surr: 2,5·Dibromoto!uene PIO
+
+________..____.._.. _.__.._._'."_._..____,_.. __.__.._..._·_~._._v~
+Result Det. Limit Qual Units
+
+ND 75.0 ~glL
+ND 75.0 ~glL
+
+ND 100 ~glL
+
+ND 5.00 ~glL
+ND 5.00 ~glL
+ND 5.00 ~glL
+ND 5.00 ~glL
+ND 5.00 ~glL
+ND 5.00 ~glL
+ND 20.0 ~glL
+ND 75.0 ~glL
+
+ND 100 ~glL
+
+121 70·130 %REC
+113 70·130 %REC
+
+DF
+
+1
+
+1
+
+1
+
+1
+
+1
+1
+
+1
+1
+
+Date Analyzed
+
+Analyst: ZYZ
+411712010
+411712010
+
+411712010
+
+411712010
+411712010
+
+411712010
+
+4/1712010
+4/1712010
+
+4/1712010
+4/1712010
+
+4117/2010
+
+4/1712010
+
+411712010
+4/17/2010
+
+Qualifiers: B Analyte detected in the associated Method Blank
+E Value above quantitation range
+
+J Analyte detected below quantitation limits
+S Spike Recovery outside recovery limits
+
+BRL Below Reporting Limit
+H Holding times jQf preparation Of analysis exceeded
+
+NO Not Detected at Hte Reporting Limit
+
+GeoLabs, Inc.
+45 JofmsQn Lane'" Bnlilltree !VIA 02184...., 1818487844 -781 8487811
+
+Page 11 of 18
+
+
+
+ANALYTICAL QC SUMMARY REPORT
+- .._ . -".=C.=...=======
+
+Date: 22-Apr-JO
+
+CLIENT:
+Work Order:
+Project:
+
+AECOM
+1004299
+
+CFI2063 TestCode: VPH_W2
+
+Sample ID: MBLl<
+
+ClieotlD: =
+SampType: MBLK
+
+Batch ID: R35922
+
+TestCode: VPH_W2
+
+TeslNo: VPH
+
+Units:pglL Prep Date:
+
+AnalySis Dale: 411712010
+
+RunNo: 35922
+
+SeqNo: 403894
+
+Analyle Result PQL SPK value SPK ReI Val %REC lowUmit HighLimit RPD Ref Val %RPD RPOUmrt Qual
+
+1,2,4~Trimethylbenzene
+
+2,2,4-Trimethylpentane
+
+2-Melhylpenlane
+
+n-Butylcyelohexane
+
+n·Oecane
+n-Nonane
+n-Pentane
+C9-C10 Aromatic Hydrocarbons
+
+Unadjusted C5-C8 Aliphatic Hydrocaro
+
+Unadjusted C9-C12 Aliphatic Hydrocar
+
+Methyl Tert-Butyl Ether
+
+Benzene
+
+Toluene
+
+Ethylbenzene
+
+m,p-Xylene
+
+o·Xylene
+
+Naphthalene
+
+Adjusted C5-C8 Aliphatic Hydrocaroons
+
+Adjusted C9-C12 Aliphatic Hydrocarbo
+
+Surr: 2,5-Dibromotoluene FlO
+
+Surr: 2,5-DibromotO!uene PID
+
+SPK value SPK RefVal
+
+TestCode: VPH_W2
+
+TestNo: VPH
+
+SampieID:MBLK
+
+Client ID: ZZZZZ
+
+Analyte
+
+ND
+
+ND
+
+ND
+
+ND
+ND
+
+ND
+
+ND
+
+ND
+
+ND
+
+ND
+
+NO
+
+ND
+
+ND
+
+NO
+
+ND
+
+ND
+
+ND
+
+NO
+
+NO
+
+83.50
+
+72.38
+
+SampType: MBLK
+
+Balch ID: R35925
+
+Result
+
+5.00
+
+5.00
+
+5.00
+
+5.00
+5.00
+
+5.00
+
+5.00
+
+75.0
+
+75.0
+
+100
+
+5.00
+
+5.00
+5.00
+5.00
+
+5.00
+
+5.00
+20.0
+
+75.0
+
+100
+
+o
+o
+
+POL
+
+100
+100
+
+o
+o
+
+Units: pgIL
+
+83.5 70 130
+
+72.4 70 130
+
+Prep Date: RunNo: 35925
+
+Analysis Date: 4120/2010 $eqNo: 403938
+
+%REC LowUmit HighLimit RPD RelVal %RPD RPDUmit Qual
+
+"1J
+~
+
+'""~
+'"8.
+
+Qualifiers: BRL Below Reponing LImit
+J Analyte detected below quantitation limits
+
+S Spike Recovery outside recoverylimjts
+
+E Value above quantitation range
+
+ND Not Detected at the Reporting Limit
+
+H Holding tImes for preparation or analy'$is exceeded
+
+R RPD outside recover)' limits
+
+'" GeoLabs, Inc.
+45 Johnson Lane - Braintree MA 02184 -781 848 7844 - 781 848 7811
+
+
+
+CLIENT:
+Work Order:
+Project:
+
+AECOM
+
+1004299
+
+CFI2063
+
+. "._--_.,,-,,"'--- ..•,,".- _."',.__...._.__.~
+
+TestCode: VPH_W2
+
+Sample ID: MBLK
+
+Client ID: =.
+SampType: MBlK
+
+Batch ID: R35925
+
+TestCode: VPH_W2
+
+TestNo: VPH
+
+Units: pgIl Prep Date:
+
+AnalysiS Date: 4120/2010
+
+RunNo: 35925
+
+SaqNo: 403938
+
+Analyle Resutt POL SPK value SPK Ref Val %REC lowlimit HighLim~ RPD Ref Val %RPD RPDlim~ Qual
+
+SampType: LCS
+
+Batch ID: R35922
+
+SPK value SPK Ref Val
+
+Tes;Code: VPH_W2
+
+TestNo: VPH
+
+1,2,4-Trimethylbenzene
+2,2,4-Trimethylpentane
+2-Methylpentane
+
+n~Butylcyclohexane
+
+n-Decane
+n-Nonane
+
+n-Pentane
+C9..c10 Aromatic Hydrocarbons
+Unadjusted CUS Aliphatic Hydrocarb
+
+Unadjusted C9-C12 Aliphatic Hydrocar
+
+Methyl Tert-Butyl Ether
+
+Benzene
+Toluene
+
+Ethylbenzene
+
+m,p-Xylene
+o-Xylene
+Naphthalene
+Adjusted C5-C8 Aliphatic Hydrocarbons
+
+Adjusted C9-G12 Anphatic Hydrocarbo
+
+Surr: 2,5-Dibromotoluene FID
+Surr: 2.5·Dibromotoluene PfD
+
+SampielD: lCS
+
+Client ID: zzzz.z
+
+Analyte
+
+ND
+
+ND
+
+ND
+
+NO
+NO
+NO
+NO
+ND
+NO
+ND
+
+ND
+
+ND
+
+ND
+
+ND
+
+NO
+ND
+
+ND
+
+ND
+
+ND
+
+120.8
+
+120.4
+
+Result
+
+5.00
+
+5.00
+
+5.00
+
+5.00
+
+5.00
+
+5.00
+5.00
+
+75.0
+75.0
+
+100
+
+5.00
+
+5.00
+
+5.00
+
+5.00
+5.00
+
+5.00
+20.0
+
+75.0
+
+100
+
+o
+o
+
+PQl
+
+100
+100
+
+o
+o
+
+Units: !J9IL
+
+121 70 130
+120 70 130
+
+Prep Date: RunNo: 35922
+
+Analy~is Date: 411712010 SeqNo: 403892
+
+%REC lolNlimit HighLimit RPDRefVal %RPD RPDLimit Qual
+
+1,2,4-Trimeth~benzene 98.43 5.00 100 o 98.4 70 130
+
+."
+w
+
+'"ro
+'"g,
+
+Qualifiers: BRL Below Reporting Limit
+
+J Anal)1e detectoo below quantitation Hmi'ts
+
+S Spike Recovery outside recovery limits
+
+E Value above quantitation range
+ND Not Detected at the Reporting Limit
+
+H Holding times for preparation or analysis exceeded
+R RPD outside recovery limits
+
+'" GeoLabs, Inc.
+45 Jobnson Lane - Braintree MA 02184 -781 848 7844 ~ 781 848 7811
+
+
+
+2,2,4-Trimethylpentane
+
+2·Methylpentane
+n~ButyJcyclohexane
+
+n·Decane
+
+n-Nonane
+n-Pentane
+C9-e10 Aromatic Hydrocarbons
+Unadjusted C5-C8 Aliphatic Hydrocarb
+Unadjusted C9-C12 Aliphatic Hydrocar
+
+Methyl Tert-Butyl Ether
+
+Benzene
+
+Totuene
+Ethylbenzene
+
+m,p-Xylene
+
+o-Xylene
+
+Naphthalene
+$urr. 2,5-Dibromotoluene FlO
+
+Surr: 2,5-Dibromotofuene P1D
+
+POL SPK value SPK Ref Val
+
+POL SPK value SPK Ref Val
+
+TestCode: VPH_W2
+
+TestNo: VPH
+
+TestCode: VPH_W2
+
+Prep Date: RunNo: 35922
+
+Analysis Date: '411712010 SaqNo: 403892
+
+%REC LowLimit Highlimit RPO Ref Val %RPD RPDLimrt Qual
+
+108 70 130
+
+88.5 70 130
+
+77.1 70 130
+
+83.3 70 130
+
+60.3 30 130
+97.9 70 130
+
+79.3 70 130
+
+105 70 130
+
+88.9 70 130
+
+102 70 130
+
+123 70 130
+
+117 70 130
+
+105 70 130
+
+106 70 130
+
+105 70 130
+
+80.1 70 130
+
+126 70 130
+
+116 70 130
+
+Prep Date: RunNo: 35925
+
+Analysis Date: 4120/2010 SeqNo: 403936
+
+%REC lowUmit HighUmit RPO Ref Val %RPD RPDLimit Qual
+
+o
+o
+o
+o
+o
+o
+o
+o
+o
+o
+o
+o
+o
+o
+o
+o
+o
+o
+
+Units: pgIL
+
+Units: ~glL
+
+100
+100
+100
+100
+
+100
+
+100
+100
+300
+300
+100
+
+100
+
+100
+100
+
+200
+
+100
+
+100
+
+100
+
+100
+
+5.00
+
+5.00
+
+5.00
+
+5.00
+
+5.00
+
+5.00
+75.0
+
+75.0
+
+100
+
+5.00
+
+5.00
+
+5.00
+
+5.00
+
+5.00
+
+5.00
+
+20.0
+
+o
+o
+
+TestCode: VPH_W2
+
+TestNo: VPH
+
+108.3
+
+88.50
+
+77.11
+
+83.26
+
+60.28
+
+97.89
+
+79.32
+
+314.9
+
+266.7
+
+102.4
+
+123.1
+
+117.0
+
+104.7
+
+212.2
+
+104.9
+
+80.11
+
+125.8
+
+116.3
+
+Result
+
+Result
+
+SampType: LCS
+
+Batch 10: R35922
+
+SampType: LCS
+
+Batch 10: R35925
+
+AECOM
+
+1004299
+CFI2063
+
+Analyte
+
+Sample 10: LCS
+
+ClienllO: =
+
+Sample ID: LeS
+
+ClienllD: =
+Analyte
+
+CLIENT:
+
+Work Order:
+
+Project:
+
+1,2,4-Trimethylbenzene
+2,2,4~Trimethylpentane
+
+2-Methylpenlane
+
+n-Butylcydohexane
+
+117.2
+
+110.5
+
+76.20
+
+90.92
+
+5.00
+
+5.00
+
+5.00
+
+5.00
+
+100
+100
+100
+
+100
+
+o
+o
+o
+o
+
+117
+
+110
+
+76.2
+
+90.9
+
+70
+
+70
+
+70
+
+70
+
+130
+
+130
+
+130
+
+130
+
+"1J
+w
+
+<Q
+
+"...
+Sl,
+
+Qualifiers: BRL
+
+J
+
+S
+
+Below Reporting Limit
+Analyte detected below qupntitation limits
+Spike Recovery outside recovery limits
+
+E Value above quantitation range
+ND Not Detected at the Reporting Limit
+
+- --_._ .._._ ..._--_.~".-
+H Holding times for preparation or analysis exceeded
+R RPD outside reCovery limits
+
+'" GeoLabs, Inc,
+45 Johnson Lane - Braintree MA 02184 -781 848 7844-78J 848 78JJ
+
+
+
+
+
+====_.._ ... ."..::.::',7::::::-_-_-_.::::: __.__..__-.-::;::-~': __....._.•. "_".
+CLIENT:
+Work Order:
+
+Project:
+
+ABCOM
+1004299
+
+CFI2063 TestCode: VPH_W2
+
+Sample ID: lese
+
+Client 10: =.
+SampType: LCSD
+
+Batch 10: R35922
+
+TestCode: VPH_W2
+
+TestNo: VPH
+
+Units: IJ9IL Prep Date:
+
+Analysis Date: 4117/2010
+
+RunNo: 35922
+
+seqNo: 403893
+
+Analyte Result PQl SPK value SPK Ref Val %REC lowLimit HighUmit RPD Ref Val %RPD RPOLimit Qual
+
+QuaJifiers: BRL Below Reporting Limit
+J Analyte detected below quantitation limits
+S Spike RecoveJ)' outside rC¢Overy limits
+
+Result
+
+SampType: lCSD
+
+Batch 10: R35925
+
+GeoLabs, Inc.
+
+45 Johnson Lao. - Braintree MA 02184 -781 848 7844 -781 848 7811
+
+R
+
+25
+
+25
+
+25
+
+25
+
+25
+
+25
+
+25
+
+25
+
+25
+
+25
+
+8.12
+
+5.87
+
+26.0
+
+6.50
+
+2.56
+
+7.51
+
+0.640
+
+2.00
+
+16.2
+
+4.86
+
+----_ ...._-_.__....
+
+11"7.2
+
+110.5
+
+76.2
+
+90.92
+
+102.8
+
+102.7
+
+109
+
+118.7
+
+293.7
+
+349.4
+
+H Holding times for preparation or analysis exceeded
+
+R RPD outside recovery limits
+
+130
+
+130
+130
+
+130
+
+1"30
+
+130
+
+130
+
+130
+
+1:30
+
+130
+
+70
+
+70
+
+70
+
+70
+
+70
+
+30
+
+70
+
+70
+
+70
+
+70
+
+70 130 79.32 4.91 25
+
+70 130 314.9 4.27 25
+
+70 130 266.7 1.16 25
+
+70 130 102.4 5.72 25
+
+70 130 123.1 3.11 25
+70 130 117 0.0154 25
+
+70 130 104.7 0.567 25
+
+70 130 212.2 1.06 25
+
+70 130 104.9 0.821 25
+
+70 130 80.11 16.9 25
+
+70 130 0 0 25
+
+70 130 0 0 25
+
+Prep Date: RunNo: 35925
+
+Analysis Date: 4/2012010 SeqNo: 403937
+
+LowLimit HighUmit RPO Ref Val %RPD RPDUmit Quat
+
+108
+
+104
+
+99.0
+
+85.2
+
+100
+
+95.3
+
+110
+
+116
+
+115
+
+111
+
+83.3
+
+101
+
+89.9
+
+108
+
+119
+
+117
+
+105
+
+107
+
+106
+
+94.9
+
+105
+
+103
+
+%REC
+
+o
+o
+o
+o
+o
+o
+o
+o
+o
+o
+o
+o
+
+Units: pgIL
+
+100
+
+300
+
+300
+
+100
+
+100
+
+100
+
+100
+
+200
+
+100
+
+100
+
+100
+
+roo
+
+75.0
+
+75.0
+
+100
+
+5.00
+
+5.00
+
+5.00
+
+5.00
+
+5.00
+
+5.00
+
+20.0
+
+o
+o
+
+E Value above quantitati<m range
+
+ND Not Detected at the Reporting Limit
+
+PQL SPKvalue SPKRefVal
+
+5.00 100 0
+
+5.00 100 a
+5.00 100 a
+5.00 100 a
+5.00 100 0
+
+5.00 100 0
+
+5.00 100 0
+
+75.0 100 0
+
+75.0 300 a
+100 300 a
+
+..." .. _"•..._,,_..- ... _-" ..
+
+TestCode: VPH_W2
+
+TestNo: VPH
+
+83.31
+
+301-7
+
+289.8
+
+108.4
+
+119.4
+
+117.0
+
+105.3
+
+214.5
+
+105.7
+
+94.86
+
+105.4
+
+102.9
+
+108.0
+
+104.2
+
+99.01
+
+85.19
+
+100.2
+
+95.27
+
+109.7
+
+116.4
+
+345.5
+
+332.8
+
+C9-Cl0 Aromatic Hydrocarbons
+
+Unadjusted C5-C8 Aliphatic Hydrocarb
+
+Unadjusted C9-C12 Aliphatic Hydrocar
+
+Methyl Tert-ButyJ Ether
+
+Benzene
+Toluene
+Ethylbenzene
+
+m,p-Xylene
+a-Xylene
+Naphthatene
+
+Surr: 2,5-Dibromotoluene FlO
+SUIT: 2,5-Dibromotoluene PID
+
+Analyte
+
+semple ID: lCSD
+
+Client 10: ZZZZZ
+
+1,2,4-TrimethyJbenzene
+
+2,2,4-Trimethylpentane
+2-Methylpentane
+n-Butylcyclohexane
+n-Decane
+
+n-Nonane
+
+n-Pentane
+C9-C10 Aromatic Hydrocarbons
+
+Unadjusted C5-C8 AliphatiC Hydrocarb
+
+Unadjusted C9-C12 Aliphatic Hydrocar
+
+-_..__.... --_......---
+
+'"8-
+CD
+
+;?
+<0
+
+'"
+
+
+
+---'."'."-'-- .....----_•...__ ...._-----
+"""""~
+""s.
+
+Qualifiers: BRL
+
+J
+
+S
+
+Below Reporting Limit
+AnaJyte detected below quantitation Jimits
+Spike Recovery outside recovery limits
+
+E Value above qualltitatron rang.e
+ND Not Detected at the Reporting Limit
+
+H Holding times for preparation or analysi:; exceeded
+R: RPD outside recovery limits
+
+'" GeoLabs, Inc.
+45 Johnson Lane - Braintree MA 02184 -781 848 7844 -781848 7811
+
+
+
+!GEPA.....,- , v, .
+/~" CHAIN OF CUSTODY RECORD Sample Handling: circle choice Special Instructions
+~ GeoLabs, Inc. Environmental Laboratories Rltration
+
+~ IZS<f MAIN S';-eee7:GeoLahs. he. 45 Johnson Lane, Braintree, MA 02184
+, ," P 781.848.7844 • f 781.848.7811 lab to dO LGOMI/'J>78i't.r 'VIA" ~, www.geolabs.com Preservation lab to do YI(D
+
+Turnaround: circle one Data Delivery: circle~s)
+
+~ ~
+Requirements: circle choice (s) j 00y;). gq
+
+1-day
+Fax :email . CT Rep (Reasonable Confidence Protocols)3-day
+Format: S-1 DEP State / Fed Program - Criteria r-tA-
+
+2-day ~ Excel &) QC Other
+Client: ~COfr1 Phone: QZ"I-5'i>'f- roco Project: C r-;:f-""" 2o<S"
+Address: -r=~"tF'-f f'v..-<'t j)f;V'~ . Project PO: 272lf3Fax:vJec-f:" ~,v,A
+Contact: Mrttej( 1IJ6A1et:-L email: (1",<1<::, f!ewe/l e 4e,Com. C<>M Invoice to *:
+
+Preserative: I I
+COLLECTION CONTAINER Analysis Requested
+
+0
+5 Q M w l
+
+T A T U A " G
+= A~A I M SAMPlE y A T 0 R ~
+; BT P B N GeoLabs SAMPLE NUMBER =M lOCATION I JD P R M A wE l Y I "'- ~E • • T I P B :> ~ •0 Y X " H
+
+f"
+
+~/iS/rTJ i5"?o pg MW-l V 3 G.t.-J p< If')q q -co ( >< ILlf- 0
+; 5'00 JVl f1i - '?"" V J ~tJ !X /">,'") Z. ><
+1«30 M.w-~ V 3> 14W X rv,\ ><,
+fl{oo 11w- l (> V '<. t;l 1 X ~L( IX'" 'v
+
+\ 1/ ,,'il Duf V .3 ~0 X """"",,\ [X
+tffJd;!ft; tl°D f"b 'lri/SI4>1 (C V ~ {NJ X """ l<;:> IX
+
+I '
+-
+
+,-.'- .
+
+Matrix Codes: Received on Ice Preservatives Containers:
+GW = Ground Water DW ::: Dnnking Water S = Soil A= Air ~. 1= HcI 3= H2SO4, 5= NaOH 7 = Other
+
+A= Amber B= Bag 0::: Ottler
+G= Glass P= Plastic
+
+INW ::: Waste Water Sl;; Sludge 0= Oil OT::: Other 2 = HN03 4 = N,a2S:03 6= MEOH, S= Summa V=Voa
+
+RelinQuished bv: Date l11me Received bv: <?' '('.fj I ./ Dale I Time
+r~. "J...,gY- 'i111:/10 ~ l?56 / "'l7A. ./1/1/£.1<-d'.L./ ~-./""-- Lj. Ib ,/0 /U,' -C> Q
+
+v , : ! !
+/( ( Lf/Ir/l/ W /10 ;.?r
+
+"""'''''''.' '~",r~'''''''''''~IN''''''' • T",...". c.".~.,_ ......." ,,,',1.',, 'll'. ,.,~'" "~'~~ ......."', ~ ...,..._"''''.,........~ ..,,.,,, ........"'" 0",.,. ..,,,,, ...""~ ...,..".. ~••""-+ t" ;...."""""'" " ..." .......>1"'...,;.......~ I"T fOU .."~ AQ u" "',,' n~"", .. ,,--' I',,,::no\ '" \ n..,\ 1'''''''
+
+'"Q,
+~
+
+'"
+
+~
+
+'"m
+
+Note: Horr.eown"",s (Irl:5 l.aw ~rm5 :-r:t;st pay wh"'n dcopPf.'>g of! samples. Wr;, accept castl, ci1eck"an,d crP.drr c3rdS. NY(11796) PA (68-03417) RI (LAOOO252)
+
+
+
+ANALYTICAL REPORT
+
+Wednesday, April 21, 2010
+
+Mark Newell
+AECOM
+2 Technology Park Dr
+Westford, MA
+
+TEL: (978) 589-3000
+
+FAX:
+
+GeoLabs, Inc,
+45 Johnson Lane
+Braintree MA 02184
+Tele: 781 8487844
+Fax: 781 8487811
+
+Project:
+Location:
+
+CF12141,60136873
+1289 Main St Leominster, MA Order No,: 1004182
+
+Dear Mark Newell:
+
+GeoLabs, Inc, received 6 sample(s) on 4/9/2010 for the analyses presented in the following
+report,
+
+All data for associated QC met method or laboratory specifications, except where noted in the
+Case Narrative,
+
+Analytical methods and results meet requirements of 310CMR 40.1056(J) as per MADEP
+Compendium of Analytical Methods (CAM),
+
+If you have any questions regarding these tests results, please feel free to call.
+
+Si~~
+Charles Morrow
+Laboratory Director
+
+For current certifications, please visit our website at www.geolabs.com
+
+Certifications:
+
+CT (PH·0148) - MA (M·MA015) - ME (MA0015) - NH'(2508) - NJ (MA009) - NY (11796)· PA (68-03417)· RI (LA000252)
+
+Accredited In Accordance with NELAC
+
+Page 1 0132
+
+
+
+Work Order Sample Summary
+.. --------._---
+
+- --- ------------ -.-.-... -----
+.._--......_-_..._........_-_._-' ----- --- -- - -----
+
+"-'-"-'~-'--'----_.._---- -- -.-.-.-_'_-- - -- ... ------- ..--.....•..--_.•..-. ....... ..........•_•._--_ .
+
+CLIENT: AECOM Project: CFI2141,60136873
+
+Lab Order: 1004182 Location: 1289 Main St Leominster, MA
+
+Lab Sample 10 Client Sampf& 10 Matrix Tests Requested Collection Date Date Received
+
+1004182-001A MW-7 (0-3) Soil VPH - MADEP VPH 4/8/2010 4/9/2010
+
+1004182-0018 MW-7 (0-3) Soil PERCENT MOISTURE - 209A 4/8/2010 4/9/2010
+
+1004182-002A MW-7 (8-15) Soil VPH - MADEP VPH 4/8/2010 4/9/2010
+
+1004182-0028 MW-7 (8-15) Soil PERCENT MOISTURE - 209A 4/8/2010 4/9/2010
+
+1004182-003A MW-10 (3-5) Soil VPH - MADEP VPH 4/8/2010 4/9/2010
+
+1004182-0038 MW-10(3-5) Soil PERCENT MOISTURE - 209A 4/8/2010 4/9/2010
+
+1004182-004A DUP Soil VPH - MADEP VPH 4/8/2010 4/9/2010
+
+1004182-0048 DUP Soil PERCENT MOISTURE - 209A 4/8/2010 4/9/2010
+
+1004182-005A DRUM Soil Volatile Organic Compounds ¥ 82608 4/8/2010 4/9/2010
+
+1004182-005B DRUM Soil Ph - SW9045C 4/812010 4/9/2010
+
+1004,182-0058 DRUM Soil Tolal Metals by ICP - SW6010B 4/8/2010 4/9/2010
+
+1004182-0058 DRUM Soil Polychlorinated Biphenyls ~ SW8082 4/8/2010 4/9/2010
+
+1004182-005B DRUM Soil Total Silvet . SW601 DB 4/8/2010 4/9/2010
+
+1004182-0058 DRUM Soil MereuI)' - SW7471A 4/8/2010 4/9/2010
+
+1004182-0058 DRUM Soit PERCENT MOISTURE - 209A 4/8/2010 4/9/2010
+
+1004182-0058 DRUM Soil Cyanide, Reactive· SW7.3.3.2 4/8/2010 4/9/2010
+
+1004182-0058 DRUM Soil Sulfide, Reactive - SW7.3.4.2 4/8/2010 4/9/2010
+
+1004182-<J058 DRUM Soil Ignilability - SW1 01 0 418/2010 419/2010
+
+1004182-<J06A TrJp Blank Other VPH - MADEP VPH 4/9/2010
+
+GeoLabs, Inc.
+45 Johnson Lane - Braintree MA 02184 -781 8487844 -781 8487811
+
+Page 2 of 32
+
+
+
+.._--_._------._- __..•..•..,·_·· ·_·, ·'n __ .____ •••••. , __ •..., • '.------------------- - ---------- -- _.--------..--_._-_.---~- -"'-"'_"._-,_..', .•..-
+Date: 2/-Apr-lO
+
+._--------- ------_._---_...... '--_ .._-_._"_..__.
+CLIENT:
+
+Project:
+
+Lab O"der:
+
+AECOM
+
+CFI2141,60136873
+1004182
+
+CASE NARRATIVE
+
+MADEP MCP Response Action Analytical Report Certification Form
+
+Project # 60136873, CFI# 2141
+MADEPRTN#:
+
+LaboratOly Name: GeoLabs, Inc.
+Project Location: 1289 Main St
+
+Leominster, MA
+This form provides celtiflcation for the following data set: 1004182 (001-006)
+
+Sample Matrix: Soil
+
+MCP Methods Used: VPH, 8260B, 8082, 6010B, 7471A
+
+An affirmative answer to questions A, B, C and D are required for "Presumptive Certainty" status
+
+A. Were all samples received by the laboratory in a condition consistent with that described on the
+Chain of custody documentation for the data set? YES
+
+B. Were all QA/QC procedures required for the specified method(s) included in this report followed,
+including the requirement to note and discuss in a narrative QC data that did not meet appropriate
+standards or guidelines? YES
+
+C. Does the analytical data included in this repOlt meet all the requirements for "Presumptive
+Celtainty" as described in Section 2.0 of the MADEP documents CAM VII A "Quality Assurance and
+Quality Control Guidelines for the Acquisition and Reporting of Analytical Data"? YES
+
+D. VPH and EPH Methods only: Was the VPH or EPH Method conducted without significant
+modifications (see Section 11.3 of respective Methods) YES
+
+A response to questions E and F are required for "Presumptive Certainty" status
+
+E. Were all QC performance standards and recommendations for the specified methods achieved? YES
+F. Were results for all analyte-list compounds/elements for the specified method(s) reported? NO
+
+All NO answers need to be addressed in an attached Environmental LaboratOlY case nalTative.
+
+GeoLabs, Inc.
+
+45 Johnson Lane - Braintree MA 02t84 -781 8487844 -781 8487811
+
+Page 3 0132
+
+
+
+CLIENT:
+Project:
+
+Lab Order:
+
+AEeOM
+
+CF12141,60136873
+
+1004182
+
+---_.- ----------- . - -----_ .._. __ -.~ .__ _- _._.- -. _." .. _.._.._- --
+.- ._.- ----- --._-_. --------------- ---.- --.-------
+
+CASE NARRATIVE
+
+CASE NARRATIVE
+
+Physical Condition of Samples
+
+The project was received by the laboratory in satisfactOlY condition. The sample(s) were received
+undamaged, in appropriate containers with the eorrect preservation.
+
+Project Documentation
+
+The project was accompanied by satisfactory Chain of Custody documentation.
+
+Analysis of Sample(s)
+
+13 Priority Pollutant Metals only analyzed by 60 IOB pel' client request.
+
+The following analytical anomalies Or non-conformances were noted by the laboratory during the
+processing of these samples:
+
+8260 LCS percent recovery for Carbon Disulfide is outside the recovery limits.
+8260 RPD for n-Propylbenzene is outside the limit.
+
+I, the undersigned, attest under the pains and penalties of perjmy that, based upon my personal inquiry
+of those responsible for obtaining the information, the material contained in this analytical report is, to
+the best of my knowledge and belief, accurate and complete.
+
+Signature:
+
+Printed Name: Charles Morrow
+
+Position: Lab Director
+
+Date: April 21, 2010
+
+GeoLabs, Inc.
+
+45 Johnson Lane - Braintree MA 02184 -781 848 7844 -781 8487811
+
+Page 4 0132
+
+
+
+CLIENT:
+Project:
+
+Lab Order:
+
+VPHMethods
+
+AECOM
+CFl2141,60136873
+
+1004182
+
+.. - .".-", .. --~.~--. - - ----- --~-~---------_._----.- _ _--------._ ..-..- . - -----..--_._---------_ _._-,.,- _-,-
+
+CASE NARRATIVE
+
+Method for Ranges: MADEP VPH 04-1.1
+Method for Target Analytes: MADEP VPH 04-1.1
+
+Carbon Range data exclude concentrations of any surrogate(s) and/or internal standards eluting in that
+range.
+
+C5-C8 Aliphatic Hydrocarbons exclude the concentration of Target Analytes eluting in that range.
+(MTBE, Benzene, Toluene) -
+
+C9-C12 Aliphatic Hydrocarbons exclude concentration ofTarget Analytes eluting in that range
+(Ethylbenzene, m&p-Xylenes, o-Xylene) AND concentration of C9-CI 0 Aromatic Hydrocarbons.
+
+CERTIFICAnON
+Were all QA/QC procedures REQUIRED by the VPH Method followed? YES
+Were all QA/QC performance/acceptance standards achieved? YES
+Were any significant modit1cations made to the VPH method, as specified in Sec. 11.3? NO
+
+I attest under the pains and penalties ofpeljury that, based npon my inquiry of those individuals
+immediately responsible for obtaining the information, the material contained in this report is, to the
+best of my knowledge, accurate and complete.
+
+SIGNATURE:
+
+PRINTED NAME: Charles Morrow
+
+DATE: April 21, 2010
+
+POSITION: LAB DIRECTOR
+
+GeoLabs, Inc.
+
+4S Johnson Lallc - Uraintree MA 02184 -781 848 7844 -781 8487811
+
+Page 5 of 32
+
+
+
+ANALYTICAL REPORT
+-, .._-- .-----_.._-_.__.•_--_..- ......•.,.~..._. ~.._-------._--..._-._-~ ... -
+
+--.'---------------------_._.._._-_ .. ~._ .._.._... _.. ~-..
+
+Reported Date: 21-Apr-l0
+
+_._--------~_._-_.- -- -- - "--, ...__.
+,.- ~----------~._--_.._._--_..._..,.,-"-,...".__ ...._...'--
+
+CLIENT:
+Lab Order:
+
+Project:
+Lab 10:
+
+AECOM
+1004182
+
+CFl2141,60136873
+
+1004182-001
+
+Client Sample 10: MW-7 (0-3)
+
+Collection Date: 4/8/20109:30:00 AM
+
+Date Received: 4/912010
+Matrix: SOIL
+
+Analyses
+
+VPH - MADEP VPH
+Unadjusted C5-C8 Aliphatic HC
+
+Unadjusted C9-C12 Aliphatic HC
+
+Methyl Tert~Butyl Ether
+Benzene
+
+Toluene
+Ethylbenzene
+m,p-Xylene
+o~Xylene
+
+Naphthalene
+C9-C10 Aromatic Hydrocarbons
+Adjusled C5-C8 Aliphatic HC
+
+Adjusted C9-C12 Aliphatic HC
+
+Surr: 2,5-Dibromotoluane FID
+Surr: 2,5M Oibromotoluene PID
+
+...._..-._.._._-_.~---~---- -- ---_.•_•.•.__ .. .,.'..,-.----------- ,,"... -_.•... ,.__ .._-_ .
+Result Det. Limit Qual Units DF Date Analyzed
+
+Analyst: ZYZ
+NO 27.5 mg/Kg-dry 1 4/15/2010
+NO 27.5 mg/Kg-dry 1 4/15/2010
+NO 0.0549 mg/Kg-dry 1 4/15/2010
+NO 0.549 mg/Kg-dry 1 4/15/2010
+NO 0.549 mg/Kg-dry 1 4115/2010
+NO 0.549 mg/Kg-dry 1 4/15/2010
+NO 0.549 mg/Kg-dry 1 4/15/2010
+NO 0.549 mg/Kg-dry 1 4/15/2010
+NO 1.10 mg/Kg-dry 1 4115/2010
+NO 27.5 mg/Kg-dry 1 4/15/2010
+NO 27,5 mg/Kg-dry 1 4/15/2010
+NO 27.5 mg/Kg-dry 1 4/15/2010
+
+88,9 70-130 %REC 1 4/15/2010
+89.5 70-130 %REC 1 4/15/2010
+
+Qualifiers: B Analyte detected in the associated Method Blank
+E Value above quantitation range
+J Analyte detected bclow quwltitation limits
+S Spike Recovery outside recovery limits
+
+IlRL
+
+H
+
+NO
+
+Below Reporting Limit
+
+Holding times for preparatioll or 8111dysis exceeded
+Nol Detected at the Reponing Limit
+
+GeoLabs, Inc.
+45 Jobnson lAlne...., Braintree MA 02184 "" 781 8487844 .....-781 8487811
+
+Page 6 of 32
+
+
+
+ANALYTICAL REPORT Reported Date: 21-Apr-1O
+
+..._......•.......... ' ....-.-.-."...• ----..,_.. - ~_-------------_..~..'._.•._.- .•......._._ __~.-_.--~-_ ----.. _-.------------..~.•_-- -- --------_~_- __....•...-•....----- -----_. . - -- ---- - , .•.•.....••_-- _ ..
+CLIENT:
+
+Lnb Order:
+
+Project:
+Lnb 10:
+
+ABCOM
+
+1004182
+
+CFl2141,60136873
+1004182-002
+
+Client Sample ID: MW-7 (8-15)
+
+Collection Date: 4/8/2010 9:45:00 AM
+
+Date Received: 4/9/2010
+Matrix: SOIL
+
+Analyses Result Det. Limit Qual Units DF Date Analyzed
+
+VPH - MADEP VPH Analyst: ZYZ
+Unadjusted C5·C8 Aliphatic HC ND 27.5 mg/Kg-dry 4/15/2010
+Unadjusted C9-C12 Aliphatic HC ND 27.5 mg/Kg-dry 4115/2010
+Methyl Tert-Butyl Ether 2.03 0,0549 mg/Kg-dry 411512010
+Benzene ND 0,549 mg/Kg-dry 411512010
+Toluene 1.05 0,549 mg/Kg-dry 4115/2010
+Ethylbenzene NO 0,549 mg/Kg·dry 4115/2010
+m,pMXylene 1.75 0,549 mg/Kg-dry 4/15/2010
+a-Xylene 0.626 0,549 mg/K9·dry 4/1512010
+Naphthalene ND 1,10 mg/Kg-dry 4115/2010
+C9~C 10 Aromatic Hydrocarbons NO 27,5 mg/Kg·dry 4115/2010
+Adjusted C5'C8 Aliphatic HC ND 27.5 mg/Kg·dry 4115/2010
+Adjusted C9·C 12 Aliphatic HC NO 27,5 mg/Kg·dry 4115/2010
+
+Surr: 2,5·Dibromotoluene FID 90.1 70-130 %REC 4/15/2010
+Surr: 2,5~Dibromotoluene PIO 91,8 70-130 %REC 4/1512010
+
+Below Re~lorHlIg Limit
+Holding times for preparation or analysis exceeded
+Not Detected at the Reporting Limil
+
+SRI..
+H
+
+ND
+
+B
+
+E
+J
+
+S
+
+.•..•..__.-._--_.--.-----
+Analyte detected in the associated Method Blank
+Value above qUllntitation range
+Analyte detected below quantitatton limits
+Spike Recovery outside recovery limits
+
+Qualifiers:
+
+GeoLabs, Inc.
+45 Johnson Lnne - Braintree MA 02184 .... 781 8487844 -781 848781 t
+
+Page 7 0132
+
+
+
+ANALYTICAL REPORT
+Reported Date: 21-Apr-10
+
+- -.'----_ ....._--... --------'---------".
+CLIENT:
+
+Lab Order:
+
+Project:
+Lab lD:
+
+AEeOM
+
+1004182
+
+CF12141,60136873
+1004182-003
+
+Client Sample 10: MW-IO (3-5)
+
+Coileetion Date: 4/8/2010 11:15:00 AM
+
+Date Received: 4/9/2010
+Matrix: SOIL
+
+_.._.._..~. __.__.._------. _.....-.,._ ..,.,---.._--~.~ ------ - .. ' ......__ ... _•. - ------------- ...__... -. __ ._- .._....- - - --- ---,-"..._.'.'.--_.." ---_..- ....__ .__..-...
+Analyses Result Det. LimIt Qual Units DF Date Analyzed
+
+VPH - MADEP VPH Analyst: ZYZ
+Unadjusted C5~CB AliphatIc He NO 18.9 lng/Kg-dry 0.72 4/15/2010
+Unadjusted C9-C12 Aliphatic He NO 18.9 mg/Kg-dry 0.72 4/15/2010
+Methyl Tert-Butyl Ether NO 0.0379 mg/Kg-dry 0.72 411512010
+Benzene NO 0.379 mg/Kg-dry 0.72 4/15/2010
+Toluene NO 0.379 mgiKg-dry 0.72 4/15/2010
+Ethylbenzene NO 0.379 mg/K9-dry 0.72 4/15/2010
+m,p-Xylene NO 0.379 mg/Kg-dry 072 4/15/2010
+o-Xylene NO 0.379 mg/Kg-dry 0.72 4/15/2010
+Naphthalene NO 0.758 mg/Kg~dry 0.72 4/15/2010
+C9·C10 Aromatic Hydrocarbons NO 18.9 mg/Kg-dry 0.72 4/15/2010
+Adjusted C5-C8 Aliphatic He ND 18.9 mg/Kg-dry 0.72 4/15/2010
+Adjusted C9-C12 Aliphatic HC ND 18.9 mg/Kg-dry 0.72 4/15/2010
+
+Surr: 2,5·Dlbromotoluene FlO 89.1 70-130 %REC 0.72 4/15/2010
+Surr: 2,5·Dibromotoluene PID 89.0 70-130 %REC 0.72 4/15/2010
+
+Qualifiers: B Analyte detected in the associated Method Blank
+E Value above qU8ntitation range
+J Analyte detected below qUllntitution limits
+S Spike Recovery outside recovery limits
+
+BRL Below Reporting Limit
+H Holding times for preparation or analysis exceeded
+
+ND Not Detected at the Reporting Limit
+
+GeoLabs, Inc,
+45 Johnson Lane - Bl'ainh'ce MA 02184 -781 848 7844 ~ 781 8487811
+
+Page 8 of 32
+
+
+
+ANALYTICAL REPORT
+Reported nate: 21-Apr-10
+
+CLIENT:
+
+Lab Order:
+
+Project:
+
+Lab ID:
+
+AECOM
+
+1004182
+
+CFI 2141,60136873
+
+J004182-004
+
+Client Sample ID: DUP
+
+Collection nate: 4/8/20 I0
+
+Date Received: 4/9/2010
+Matrix: SOIL
+
+----....._-_...~ .._.'----,-.__._--'" ----- .._-- ------,_..._.~--_._---- .._..--,.- ...,._'------~-------~--_._-_ ... ---.•. __... ,.•....
+Analyses Resull Oet. Limit Qual Units OF Date Analyzed
+
+VPH • MADEP VPH Analyst: ZYZ
+Unadjusted C5·C6 Aliphatic HC NO 27.5 mg/Kg·dry 4115/2010
+Unadjusted C9·C12 Aliphatic HC .NO 27.5 mg/K9-dry 4115/2010
+Methyl Tert-Butyl Ether NO 0.0549 mg/Kg·dry 4115/2010
+Benzene NO 0.549 mg/K9·dry 4/15/2010
+Toluene 4.81 0.549 mglKg-dry 4/15/2010
+Ethylbenzene 2.85 0.549 mg/Kg-dry 4/15/2010
+m,p-Xylene 10_1 0.549 mg/Kg·dry 4115/2010
+o-Xylene 3.84 0.549 mg/Kg·dry 4/15/2010 -~'j;
+
+Naphthalene 1.31 1.10 mg/Kg-dry 4115/2010
+C9-C 10 Aromatic Hydrocarbons NO 27.5 mg/Kg-dry 4/15/2010
+Adjusted CS·C8 Aliphatic He NO 27.5 mg/Kg-dry 4/15/2010
+Adjusted C9-C12 Aliphatic HC NO 27.5 mg/Kg·dry 4115/2010
+
+Surr: 2,5·Dlbromotoluene FID 98.6 70-130 %REC 4/15/2010
+Surr: 2,5 M Dibromotoluene PIO 96.6 70-130 %REC 4/15/2010
+
+Qualifiers: B
+E
+
+J
+
+S
+
+Analyte detected in the associated Method Blank
+Value above quantitation range
+Allalyte detected below qwmtitatiOli limits
+Spike Recovery outside recovery limits
+
+-._ .. -_ - ---~ -- ----._-."-,'. . _----"_., .._-_ _.._._~
+BRL BelOW Reporting Limit
+
+H Holding times for preparation or analysis exceeded
+ND Not Detected at the Repotting Limit
+
+GeoLabsJ Inc.
+45 Johnson Lane ... Braintree MA 02184 -781848 7844 .... 781 848781 t
+
+Page 9 0132
+
+
+
+ANALYTICAL REPORT
+...- - -----~----------------------._~~--,,--.- _ ,.,,"_ _-_ _._.. .. - .
+
+Reported Date: 21-Apr-IO
+
+_._~--, .... ,_..-..~..._..__ ..,... _." .... -~ ..__ ..-------_ , -- _._ --_.. _-----
+CLIENT:
+
+Lab Order:
+
+Project:
+Lab In:
+
+AECOM
+
+1004182
+
+CFI 2141, 60136873
+1004182-005
+
+Client Sample In: DRUM
+
+Collection Date: 4/8/20102: 15:00 PM
+
+Date Received: 4/9120 I0
+Matrix: SOIL
+
+Analyses Result Det. Limit Qual Units OF Date Analyzed
+
+IGNITABILITY - SW1010
+Flash Point >93 20 ·C
+
+Analyst: FC
+4/13/2009
+
+POLYCHLORINATED BIPHENYLS - SW8082
+Aroblar 1016 NO
+
+Aroclar 1221 ND
+
+Aroclor 1232 ND
+Aroclar 1242 NO
+Aroelor 1248 ND
+Aroclar 1254 143
+
+Aroctor 1260 ND
+
+Surf: Decachloroblphenyl Sig 1 106
+Surr; Decachlorobiphenyl Sig 2 91.1
+Surr: Tetrachloro-m-Xylene Sig 1 105
+
+Surr: Tetrachloro-m-Xylene Sig 2 87.2
+
+TOTAL METALS BY ICP - SW6010B
+Antimony ND
+
+Arsenic 7.54
+Berylliulli ND
+Cadmium NO
+
+Chromium 22.3
+
+Copper 14.9
+Lead 20.6
+Nickel 14.9
+Selenium ND
+Thallium NO
+
+Zinc 35.6
+
+54.9
+
+110
+
+54.9
+54.9
+
+54.9
+54.9
+54.9
+
+30-150
+30-150
+30·150
+30-150
+
+5.28
+
+5.28
+1.58
+
+1.06
+5.28
+5.28
+
+5.28
+5.28
+5.28
+1.58
+
+5.28
+
+" . ~gtKg-dry
+
+pg/Kg·dry
+
+pg/Kg·dry
+
+pglKg-dry
+
+pg/Kg-dry
+
+pg/Kg·dry
+
+pg/Kg-dry
+
+%I3.EC
+o"'AREC
+
+%REC
+%REC
+
+mg/Kg-dry
+
+IIIg/Kg·dry
+
+IIIg/Kg-dry
+
+mglKg-dry
+
+mglKg-dry
+
+mglKg·dry
+
+IIIglKg-dry
+
+IIIg/Kg-dry
+
+IIIg/Kg·dry
+
+IIIglKg·dry
+
+mg/Kg·dry
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+1
+1
+
+1
+
+1
+
+1
+1
+
+1
+1
+
+1
+
+1
+1
+
+1
+
+1
+
+1
+1
+
+Analyst: Jsi
+4/15/2010
+
+4/15/2010
+
+4/15/2010
+
+4/1512010
+
+4/15/2010
+
+4/15/2010
+
+4/1512010
+
+4/15/2010
+
+4115/2010
+
+4/15/2010
+
+4/15/2010
+
+Analyst: OS
+4/13/2010
+
+4/13/2010
+
+4/1312010
+
+4/13/2010
+
+4/13/2010
+
+4/13/2010
+
+4/1312010
+
+4/13/2010
+
+4/13/2010
+
+4/13/2010
+
+4113/2010
+
+TOTAL SILVER - SW6010B
+Silver
+
+MERCURY - SW7471A
+Mercury
+
+ND
+
+1.19
+
+0.528
+
+0.262
+
+mglKg·dry
+
+mg/Kg-dry
+
+Analyst OS
+4/13/2010
+
+Analyst: EC
+4/13/2010
+
+VOLATILE ORGANIC COMPOUNDS - 8260B
+1,111,2~Tetrachloroethane NO
+
+'Qualifiers:
+
+40.1
+
+B Ana1>'te detecled in the associated Method Blank
+E Value above quantitotion range
+J Analyte detected below ql1antilation limits
+S Spike Recovery Olltside recovery limits
+
+Analyst: ZYZ
+pglKg·dry 0.73 4113/20107:54:00 PM
+
+.---_.. _----- --- --- --,,---------- - -- --- ----------_.._-----.-.---
+13RL Below Reporting Limit
+
+H Holding times for preparation or analysis exceeded
+ND Not Detected at the RepOiting Limit
+
+G<loLabs, Inc,
+45 .Iohnson Lane - Braintree MA 02184 ~ 781 8487844 -781 8487811
+
+Page 10 0132
+
+
+
+ANALYTICAL REPORT Repo''led Date: 21-Apr-l0
+
+- --'-'--._'.'~---------------_._--- ..... "" .. __ ...
+CLIENT:
+
+Lab Order:
+Project:
+Lab W:
+
+AECOM
+
+1004182
+
+CFl2141,60136873
+J004182-005
+
+Client Sample 10: DRUM
+
+Collection Date: 4/8/20102: 15:00 PM
+
+Date Received: 4/9/2010
+Matrix: SOIL
+
+Analyses Result Oct. Limit Qual Units OF Date Analyzed
+
+VOLATILE ORGANIC COMPOUNDS - 8260B
+1,1, i-Trichloroethane NO
+1,1,2,2-Tetrachloroethana NO
+1,1,2-Trichloroethane NO
+
+1,1-Dlchloroethane NO
+1,1~Dichloroethene ND
+
+1,1-Dichloropropene NO
+1,2,3~Trichlorcbenzene NO
+
+1,2,4~Trichlorobenzene ND
+
+1,2,4-Trimelhylbenzene NO
+1,2·Dibromo-3~Chloropropane ND
+1,2~Dlbromoetl1ane NO
+1,2-Dlchlorobenzene NO
+1,2·Dichloroethane NO
+1,2-Dichloropropane ND
+
+1,3,5.Trimethylbenzene ND
+1,3~Dichlorobenzene ND
+
+1,3·Dichloropropane ND
+1A·Dichlorobenzene NO
+2,2-Dichloropropane NO
+
+2~Butanone ND
+2-Chloroethyl Vinyl Ether ND
+2·Chlorotoluene ND
+2~Hexanol1e NO
+4-Chlorotoluene NO
+4-lsopropyltoluene ND
+4-Methyl-Z·Pentanone NO
+Acetone ND
+
+Acrylonitrile ND
+
+Benzene NO
+Bromobenzene NO
+Bromochloromethane NO
+Bromodichloromethane NO
+Bromoform ND
+Bromomathane NO
+Carbon DIsulfide ND
+Carbon Tetrachloride ND
+
+Chlorobenzene ND
+Chloroethane NO
+
+40.1
+
+40.1
+
+40.1
+
+100
+
+40.1
+
+40.1
+
+40.1
+
+40.1
+
+40.1
+
+40.1
+
+40.1
+
+40.1
+
+40.1
+
+40.1
+
+40.1
+
+40.1
+
+40.1
+40.1
+
+100
+
+241
+40.1
+
+100
+
+100
+
+100
+
+40.1
+
+40.1
+
+401
+
+40.1
+40.1
+
+40.1
+
+100
+
+40.1
+
+40.1
+
+40.1
+
+40.1
+
+40.1
+
+40.1
+
+40.1
+
+~g/Kg-dry
+
+~g/Kg-dry
+
+~g/Kg-dry
+
+~g/Kg-dry
+
+~g/Kg-dry
+
+~g/Kg·dry
+
+~g'Kg-dry
+
+~g/Kg-dry
+
+~g/Kg-dry
+
+~g/Kg-dry
+
+~g/Kg-dry
+
+~g/Kg-dry
+
+~g/Kg-dry
+
+~g/Kg-dry
+
+~g/Kg-dry
+
+~g/Kg-dry
+
+~g/Kg-dry
+
+~g/Kg-dry
+
+~g/Kg-dry
+
+~g/Kg-dry
+
+~g/Kg·dry
+
+~g/Kg·dry
+
+~g/Kg·dry
+
+~g/Kg·dry
+
+~g/Kg-dry
+
+~g/Kg-dry
+
+~g/Kg-dry
+
+~g/Kg·dry
+
+~g/Kg·dry
+
+~g/Kg-dry
+
+~g/Kg-dry
+
+~g/Kg·dry
+
+~g/Kg-dry
+
+~g/Kg-dry
+
+~g/Kg-dry
+
+~g/Kg·dry
+
+~g/Kg-dry
+
+~g/Kg-dry
+
+0.73
+
+0.73
+0.73
+
+0.73
+
+0.73
+0.73
+
+0.73
+0.73
+
+0.73
+
+0.73
+
+0.73
+
+0.73
+
+0.73
+
+0.73
+
+0.73
+
+0.73
+
+0.73
+
+0.73
+
+0.73
+
+0.73
+
+0.73
+
+0.73
+
+0.73
+
+0.73
+
+0.73
+
+0.73
+
+0.73
+
+0.73
+0.73
+
+0.73
+
+0.73
+
+0.73
+
+0.73
+
+0.73
+
+0.73
+
+0.73
+
+0.73
+
+0.73
+
+Analyst: ZYZ
+4/13/20107:54:00 PM
+
+4/13/20107:54:00 PM
+
+4/13/20107:54:00 PM
+
+4/13/20107:54:00 PM
+
+4/13/20107:54:00 PM
+
+4/13/20107:54:00 PM
+
+4/13/20107:54:00 PM
+
+4/13/20107:54:00 PM
+
+4/13120107:54:00 PM
+
+4/13/20107:54:00 PM
+
+4/13/20107:54:00 PM
+
+4/13/20107:54:00 PM
+
+4/13120107:54:00 PM
+
+4/13/20107:54:00 PM
+
+4113/20107:54:00 PM
+
+4/13/20107:54:00 PM
+
+4/13120107:54:00 PM
+
+4113120107:54:00 PM
+
+4/13/20107:54:00 PM
+
+4/13/20107:54:00 PM
+
+4/13/20107:54:00 PM
+
+4/13120107:54:00 PM
+
+4/13/20107:54:00 PM
+
+4/13120107:54:00 PM
+
+4113/20107:54:00 PM
+
+4113/20107:54:00 PM
+
+4/13/20107:54:00 PM
+
+4/13/20107:54:00 PM
+
+4/13120107:54:00 PM
+
+4113/20107:54:00 PM
+
+4/13/20107:54:00 PM
+
+4/13120107:64:00 PM
+
+4/13/20107:54:00 PM
+
+4/13/20107:54:00 PM
+
+4/13/20107:54:00 PM
+
+4/13/20107:54:00 PM
+
+4/13/20107:54:00 PM
+
+4/13/20107:54:00 PM
+
+Qualifiers: B Analyte detected in the associated Method Blank
+E Value ahove quantitation range
+J Anatyte detected below quantitation limits
+S Spike Recovery outside recovery limits
+
+BRL Below Reporting Limit
+H Holding times for preparation or analysis exceeded
+
+ND Not Detected M the Reporting Limit
+
+GeoLabs, Inc.
+45 Johnson Lane ~ Brflintree MA 02184 '" 781 848 7844 ~ 781 848 7811
+
+Page 11 of 32
+
+
+
+ANALYTICAL REPORT
+- - - - --- ~-"'--'--------'._-----.---------'---'---------_ ,.._,._•.....__.- ...•..-._.__._------- - --- ---~-------------------
+
+Reported Date: 21-Apr-IO
+
+CLIENT:
+
+Lab Order:
+
+Project:
+Lab !D:
+
+AECOM
+
+1004182
+
+CFI 2141, 60136873
+
+1004182-005
+
+Client Sample!D: DRUM
+
+Colleclion Date: 4/8/20102:15:00 PM
+
+Date Received: 4/9/2010
+Matrix: SOIL
+
+Analyses Resnlt Det. Limit Qnal Units DF Date Analyzed
+
+VOLATILE ORGANIC COMPOUNDS - 8260B
+Chloroform ND 40,1 ~g/Kg-dry 0,73
+Chloromethane ND 40.1 '~g/Kg-dry 0.73
+cis-1,2-Dichloroethene ND 40,1 ~g/Kg·dry 0,73
+cis-l,3·Dichloropropene ND 40.1 ~g/Kg·dry 0,73
+Dibromochloromethane ND 40,1 ~g/Kg-dry 0,73
+Dibromomethane ND 40.1 ~glKg-dry 0.73
+Dichlorodlfluoromethane ND 40,1 ~glKg-dry 0,73
+Etllylbenzene ND 40.1 ~g/Kg.dry 0.73
+Hexachlorobutadiene ND 40,1 ~g/Kg·dry 0,73
+Isopropylbenzene ND 40.1 ~g/Kg-dry 0.73
+Methyl Tart·Butyl Ethar ND 40,1 ~gIKg·dry 0,73
+
+Methylene Chloride ND 40_1 ~gIKg·dry 0.73
+Naphthalene ND 100 ~gIKg·dry 0,73
+
+n-Butylbenzene ND 40,1 ~gIKg-dry 0,73
+n-PrC?Pylben2:ene ND 40,1 ~gIKg-dry 0,73
+sec-Butylbenzene ND 40.1 ~gIKg-dry 0,73
+Styrene ND 100 ~gIKg-dry 0,73
+tert-Butylbenzene NO 40,1 ~glKg·dry 0,73
+Tetrachloroethene ND 40.1 ~gIKg·dry 0,73
+Toluene ND 40,1 ~gIKg-dry 0,73
+trans-l,2-Dichloroethene ND 40,1 ~gIKg·dry 0.73
+trans-1,3 wDlchloropropene NO 40,1 ~g/Kg-dry 0.73
+Trichloroethane NO. 40,1 ~g/Kg·dry 0,73
+Trich 10roflUQromethane ND 100 ~g/Kg-dry 0.73
+Vinyl Chloride NO 40,1 ~gIKg-dry 0.73
+Xylenes, Total ND 100 ~gIKg.dry 0,73
+
+Surr: 1,2-0ichloroethane-d4 102 70-130 %REC 0,73
+Sure 4-Bromofiuorobenzene 91,3 70·130 %REC 0,73
+Surr: Dibromofluoromethane 92,6 70·130 %REC 0,73
+Surf: Toluene k d8 91.2 70-130 %REC 0,73
+
+Analyst: ZYZ
+4/13/20107:54:00 PM
+
+4113/20107:54:00 PM
+
+4/13/2010 7:54:00 PM
+
+4113120107:54:00 PM
+
+4113/20107:54:00 PM
+
+4/13/20107:54:00 PM
+
+4/13120107:54:00 PM
+
+4113/2010 7:54:00 PM
+
+4/13120107:54:00 PM
+
+4/13120107:54:00 PM
+
+4/13/20107:54:00 PM
+
+4/13/20107:54:00 PM
+
+4/13/2010 7:54:00 PM
+
+4/13120107:54:00 PM
+
+4/13/20107:54:00 PM
+
+4/13/20107:54:00 PM
+
+4/13/20107:54:00 PM
+
+4/13/20107:54:00 PM
+
+4/13/20107:54:00 PM
+
+4/13/20107:54:00 PM
+
+4/13/20107:54:00 PM
+
+4/13120107:54:00 PM'
+
+4113/20107:54:00 PM
+
+4113/20107:54:00 PM
+
+4/13/20107:54:00 PM
+
+4/13/20107:54:00 PM
+
+4/13/20107:54:00 PM
+
+4/13120107:54:00 PM
+
+4/13/20107:54:00 PM
+
+4113120107:54:00 PM
+
+PH ·SW9045C
+pH
+
+NOTES:
+taken at 22.5 deg,C
+
+CYANIDE, REACTIVE -SW7.3.3.2
+Reactive Cya.nide
+
+5.85
+
+ND
+
+o
+
+5,49
+
+pH Units
+
+mglKg-dry
+
+Analyst: JC
+4/1312010
+
+Analyst: JC
+4113/2010
+
+Qualifiers:
+...._----~ _ - .._.._--_._~ -.-_., , _-_..__ . ~_._.__._._~
+
+B Allatyte detected in the associated Method Blank
+E Value above quantitation nmge
+
+J Analyte detected below quantilation limits
+S Spike Recovery outside recovery limits
+
+Below Reporting Limit
+Holding times for preparation or analysis exceeded
+Not Detected at the RCpolting Limit
+
+GeoLabs, Inc.
+45 Johnson Lane,.." Braintree MA 02184 "" 781 848 7844 ~ 781 8487811
+
+Page 12 of 32
+
+
+
+ANALYTICAL REPORT
+Reported Date: 21-Apr-10
+
+.......- --------------_.__.. _... _-.--_..__._._- ....•~.- .._._.~ .._--- --- -- -------._-------.-
+----..-.----_-....... . .. '--_.~-._------ -- ---------. -~.,-,_.. _._ ...._...- -- --~ ..
+CLIENT:
+
+LabOI'der:
+
+Project:
+Lab !D:
+
+AECOM
+
+1004182
+
+CFI 2J41, 60136873
+1004J82-005
+
+Client Sample 10:
+
+Collection Date:
+
+Date Received:
+Matrix:
+
+DRUM
+
+4/8/2010 2: 15 :00 PM
+
+4/9/2010
+SOIL
+
+Analyses
+
+CYANIDE, REACTIVE - SW7.3.3.2
+
+Result Det. Limit Qual Units DF Date Analyzed
+
+Analyst: JC
+
+SULFIDE, REACTIVE - SW7.3.4.2
+Reactive Sulfide ND 1.35 mg/Kg·dry
+
+Analyst: JC
+4/1312010
+
+QlUllifiers: B Analyte detected in the associated Method B1nllk
+E Value above quantitation range
+J Analyte detected below qtlantitatioll limits
+S Spike Recovery outside recovery limits
+
+DRI. Below Reporting Limit
+
+H Holding times for preparntion or analysis exceeded
+ND Not Detected at the Reporting Limit
+
+GcoLabs l [nco
+45 Johnson LAne ~ 81'aintree MA 02184,.., 7818487844 -781 8487811
+
+Page 13 of 32
+
+
+
+ANALYTICAL REPORT
+Reported Date: 21-Apr-10
+
+VPH • MADEP VPH
+Unadjusted C5·C8 Allphetlc HC
+Unadjusted C9·C12 Aliphatic He
+Methyl Tert·Butyl Ether
+Benzene
+
+Toluene
+Ethylbenzene
+m,p·Xylene
+
+oMXylene
+Naphthalene
+C9~C10 Aromatic Hydrocarbons
+
+Adjusted C5-C8 Aliphatic HC
+Adjusted C9-C12 Aliphatic HC
+
+Surf: 2,5·Dibromotoluene FID
+
+Surr: 2,5-0ibromotoluene PIO
+
+CLIENT:
+
+Lab Order:
+
+Project:
+Lab 10:
+
+Analyses
+
+AECOM
+
+1004182
+
+CFI 2141, 60136873
+1004182-006
+
+-- ~...~",_ ...,.'--"--
+_ ..._-- .........---_•...••._--,.,- ---- -------.'._-,-. _.- ,"-_ .._-------- ------_ ..._...._..... ________~,_c·._.._..._,_ .. _
+
+Client Sample 10: Trip Blank
+
+Collection Date:
+
+Date Received: 4/912010
+Matrix: OTHER
+
+.....__.._---------~ 0'- ~._.__ . __________••'._._ .....,---_.•.....
+
+Result Oct. Limit Qual Uuits OF Date Analyzed
+
+Analyst: ZYZ
+NO 25.0 mglKg 1 411512010
+NO 25.0 mglKg 1 411512010
+NO 0.0500 mglKg 1 411512010
+NO 0.500 mglKg 1 411512010
+NO 0.500 mglKg 1 4/1512010
+NO 0.500 mglKg 1 411512010
+NO 0.500 mglKg 1 411512010
+NO 0.500 mglKg 1 411512010
+NO 1.00 mglKg 1 411512010
+NO 25.0 mglKg 1 4/1512010
+NO 25.0 mglKg 1 411512010
+NO 25.0 mglKg 1 411512010
+
+79.5 70·130 %REC 1 411512010
+82.4 70·130 %REC 1 4/15/2010
+
+B Annlyt0 detected in the associated Method Blank
+
+E Value above quantitallon n'll\gc
+
+J Analyte detected below quantitatiol1 limits
+S Spike Recovery out,ide recovery limit,
+
+BRL Below Reporting Limit
+H Holding limes for preparation or analysis exceeded
+
+ND Not Detected at the Repol1ing Limit
+
+GeoLabs, Inc.
+4S JohnsoJl Lane'" Braintree MA 02184 "" '181 848 7844 ~ 781 8487811
+
+Page 14 0132
+
+
+
+ANALYTICAL QC SUMMARY REPORT Date: 21-Apr-l0
+
+CLIENT:
+Work Order:
+
+Project:
+
+AEeOM
+
+1004182
+CFI 2141, 60136873 TestCode: 6010b_S
+
+Samp.le 10: MBLK-15702 SampType: IIlBLK Te~~e: 6010b_S Units: mglKg
+
+elienttD: = Batch ID: 15702 TestNo: SW6010B (SW305OB)
+Analyle Result PQL SPK value SPK Ref Val
+
+Antimony ND 5.00
+Arsenic ND 5.00
+
+Beryllium ND 1.50
+
+Cadmium ND 1.00
+Chromium ND 5.00
+Copper ND 5.00
+
+Lead ND 5.00
+Nickel ND 5.00
+
+Selenium ND 5.00
+Thallium ND 1.50
+Zinc NO 5.00
+
+Sample ID: LCS-15702 SampType: LCS TestCode: 6010b_S Units: mglKg
+
+Crient ID: = Batch ID: 15702 TestNo: SW6010B (SW3050B)
+
+Prep Date: 4113/2010
+
+Analysis Date: 4/1312010
+
+%REC LowLimit HighUmit RPD Ref Val
+
+Prep Date: 411312010
+
+Analysis Date: 4113/2010
+
+RunNo: 35799
+
+8eqNo: 402153
+
+%RPD RPDLimit Qual
+
+RunNo: 35799
+
+SeqNo: 402151
+
+Anafyte Result PQL SPK value SPK Ref Val %REC LowUmit HighUmit RPD Ref Val %RPD RPDUmit Qual
+
+Antimony
+
+Arsenic
+BeryHium
+Cadmium
+Chromium
+Copper
+
+Lead
+
+Nickel
+
+Selenium
+Thallium
+
+122.0
+
+122.0
+
+129.3
+
+119.3
+
+124.7
+
+127.3
+
+118.7
+
+122.7
+
+118.7
+
+122.0
+
+5.00
+
+5.00
+1.50
+
+1.00
+
+5.00
+
+5.00
+5.00
+
+5.00
+
+5.00
+
+1.50
+
+133.3
+
+133.3
+
+133.3
+
+133.3
+
+133.3
+
+133.3
+
+133.3
+
+133.3
+
+133.3
+
+133.3
+
+1.267
+
+o
+o
+o
+
+02
+2
+o
+
+0.1333
+
+o
+o
+
+90.6
+
+91.5
+
+97.0
+
+89.5.
+
+93.4'
+
+94.0
+89.0
+
+91.9
+
+89.0
+
+91.5
+
+80
+
+80
+80
+
+80
+
+80
+
+80
+
+80'
+
+80
+
+80
+
+80
+
+120
+
+120
+
+120
+
+120
+
+120
+
+120
+
+120
+
+120
+
+120
+
+120
+
+Holding times for preparation or analj:i:is exceeded
+RPD outside rec(wery limit'S
+
+Below Reporting Limit
+Anal}1e detected below quantitation Hmi1s
+Spike Recovery outside recovery lrmits
+
+Ge()Labs, Inc_
+
+45 Johnson Lane - Braintree MA 02184 -781 8487844 -781 848 781 I
+
+BRL
+J
+
+S
+
+Qualifiers:
+------------.--
+
+E Value above quant:itation range H
+
+ND Not Detected at the Reporting Limit R
+'"8,
+~
+
+'1J
+
+'"'""
+
+
+
+CLIENT: AECOM
+
+Work Order: 1004182
+
+Project: CFI 2141, 60136873 TestCode: 6010b_S
+
+Sample 10: LCS-15702 SampType: LCS TestCode: 6010b_S Units: mg/Kg Prep Date: 4113/2010 RunNo: 35799
+
+ClientlD: ZZZZZ Batch 10: 15702 TeslNo: SWS010B (SW30SOB) Analysis Date: 4/1312010 SeqNo: 402151
+
+Analyle Resutt POL SPK value SPK Ref Val %REC LowUmit HighLimit RPD Ref Val %RPD RPDUmit Qual
+
+linc 123.3 5.00 133.3 1.933 91.1 80 120
+
+Sample 10: LCSD-15702 SampType: LCSD Tes~ode: 6010b_S Units: mg/Kg Prep Date: 411312010 RunNo: 35799
+
+Client ID: ZZZZZ Batch 10: 15702 TeslNo: SW5010B (SW30SOB) Analysis Date: 4113/2010 SeqNo: 402152
+
+Analyte Result POL SPK value SPKRefVal %REC LowUmit HighUmit RPD Ref Val %RPD RPDlimit Qual
+
+Antimony 124.0 5.00 133.3 1.267 92.1 80 120 122 1.63 30
+Arsenic 124.0 5.00 133.3 0 93.0 80 120 122 1.63 30
+Beryllium 132.7 1.50 133.3 0 99.5 80 120 129.3 2.54 30
+Cadmium 122.7 1.00 133.3 0 92.0 80 120 119.3 2.75 30
+Chromium 127.3 5.00 133,3 0.2 95.4 80 120 124.7 2.12 30
+Copper 130.7 5.00 133.3 2 96.5 80 120 127.3 2.58 30
+lead 120.7 5.00 133.3 0 90.5 80 120 118.7 1.67 30
+Nickel 125,3 5.00 133.3 0.1333 93.9 80 120 122.7 2.15 30
+Selenium 121.3 5.00 133.3 0 91.0 80 120 118.7 2.22 30
+Thallium 124.7 1,SO 133.3 0 93.5 80 120 122 2.16 30
+Zinc 126.0 5.00 133.3 1.933 93.1 80 120 123.3 2.14 30
+
+:."
+
+._-~-_ ..._.__..,,--'....._-_ ...._--_._-------
+
+GeoLabs, Inc.
+45 Johnson Lane - BralntTee MA 02184 -781 84S 7844 -781 84S 7811
+
+J
+'""~
+'"a
+id
+
+Qualifiers: BRL
+J
+S
+
+Below Reporting Limit
+Analytc detected below quantitation limits
+
+Spike Recovery outside recovery limits
+
+E Value above quantitatlon range
+
+ND Not Detected at the Reporting l.imit
+H i .. Holding times for preparation {If analysis exceeded
+R RPD outside recovery limits
+
+"
+
+
+
+SampType: Lcs
+
+Batch 10: 15714
+
+Analyle
+
+Analyle
+
+SampType: mblk
+
+Batch ID: 15714
+
+TestCode: S082_S_ase
+
+TestCode: 80S2_S_ase Units: ~gJKg Prep Date: 411412010 RunNo: 35821
+
+TestNo: SWB082 (SW3545A) Analysis Date: 411512010 SeqNo: 402257
+
+PQL SPK value SPKRefVal %REC LowUmit HighUmit ,RPD Ref Val OfoRPD RPDLimit Qual
+
+50.0
+
+100
+
+50.0
+
+50.0
+
+50.0
+
+SO.O
+
+SO.O
+
+0 100 0 72.2 30 150
+
+0 100 0 72.3 30 150
+
+0 100 0 76.0 30 150
+
+0 100 0 70.6 30 lSO
+
+TestCode: 8082_S__ Units: pglKg Prep Date: 411412010 RunNo: 35821
+
+TestNo: SWS082 {SW3545A} Analysis Date: 411W2010 SeqNo: 402258
+
+PQL SPK'value SPKRefVal %REC LowLimit HighLim~ RPD Ref Val %RPD RPDLimIT Qual
+
+50.0 100 0 78.4 30 150
+
+50.0 100 0 78.1 30 lSO
+
+0 100 0 74.2 30 150
+
+0 100 0 70.9 30 150
+
+0 100 0 72.3 30 150
+
+0 100 0 69.7 30 1SO
+
+ND
+
+ND
+
+NO
+ND
+
+NO
+ND
+
+ND
+
+72.16
+
+72.25
+
+75.02
+
+70.65
+
+78.38
+
+78.06
+
+74.15
+
+70.85
+
+72.34
+
+69.67
+
+Result
+
+Result
+
+AECOM
+
+1004182
+
+CFI 2141, 60136873
+
+Sample 10: MB·15714
+
+Client iD: ZZZZZ
+
+Aroelor 1016
+
+Aroclor 1221
+
+Aroelor 1232
+
+Aroclor 1242
+
+Aroclor 1248
+
+Arocfor 1254
+
+Aroclor 1260
+Surr. DecaclilorObiphenyl 519 1
+Surr: Decachlorobiphenyr Sig 2
+SUIT: Tetrachloro-m-Xylene Sig 1
+Surr: Tetrachloro-m-Xylene Sig 2
+
+Sample ID: LCS·15714
+
+Client tD: zzzzz.
+
+Aroclor 1016
+
+Aroelor 1260
+
+Surr: Decachlorobiphenyl Sig 1
+SUrT: Decachlorobiphenyl Sig 2
+Surr: TetrachJon>-m~XyJene Sig i
+SUIT: Tetrachloro-m-Xylene Sig 2
+
+CLIENT:
+Work Order:
+
+Project:
+
+Sample 10: LCSO·15714
+
+Client ID: z:zzzz.
+SampType: Lcsd
+
+Batch lD: 15714
+
+TestCode: 8082_S__
+
+TestNo: SWS082
+
+Units: ~gJKg
+
+(SW354SA)
+
+Prep Date: 411412010
+
+Analysis Date: 4115/201 0
+
+RunNo: 35821
+
+SeqNo: 402259
+
+Analyle Result PQL SPK value SPK Ref Val %REC LowLimit HighLimit RPD Ref Val
+'. '...
+
+%RPD RPDLimit Qual
+
+H
+R
+
+~
+
+'"ro..,
+sa.
+'"'"
+
+-------- .,,---,._--_.._"'----_._"-. '----'--'-' -,-- '--''''--,,-_.•._--,- .._------_... ,,_.,,-_._-_.._,",,_ ....
+Qualifiers: BRL Below Reporting Limit E Value above qUmTtltatlon range
+
+) Anal:1e detected below quantitation limits ND Not Detected at the Reporting Limit
+S Spike Recovery outside recovCTY limits
+
+Ge<>Labs, Inc.
+
+45 Johnson LaDe - Braintree MA 02184 -781 848 7844 -781 8487811
+
+
+
+Aroclor 1016
+
+Aroctor 1260
+
+Surr. Decachlorobiphenyl Sig 1
+SUIT: Decachlorobiphenyl Sig 2
+
+Surr: Tetrachloro-m-Xylene Sig 1
+
+SUIT: Tetrachloro-m-Xylene Sig 2
+
+Analyte
+
+SampType: Lcsd
+
+Batch 10: 15714
+
+Sample 10: LCSD-15714
+
+Client 10: ZZZZZ
+
+-----~._.__...._.....,._---,_._,-,,--_.-... _.,,"'"-_..•,--.,,-----_..•_-- --"-'--c==-= -.---:=--_-_- --_-_-_...
+
+TestCode: 8082_8_3se
+
+TestCode: 8082_S_ase Units: pglKg Prep Date: 411412010 RunNo: 35821
+
+TestNo: SW8082 (SW3545A} Analysis Date: 411512010 SeqNo: 402259
+
+PQL SPK value SPKRefVal %REC LowUmit Highlimit RPD Ref Val %RPD RPDUmit Qual
+
+50.0 100 0 87_0 30 150 78.38 10.4 30
+50.0 100 0 87.9 30 150 78.06 11.9 30
+
+0 100 0 81_2 30 150 0 0 0
+
+0 100 0 80.1 30 150 0 0 0
+
+0 100 0 80.7 30 '150 0 0 0
+
+0 100 0 78.3 30 150 0 0 0
+
+86.99
+
+87.93
+
+61,23
+
+80.08
+
+80.74
+
+78,28
+
+Result
+
+AECOM
+1004182
+
+CFI2J41,60136873
+
+CLIENT:
+Work Order:
+
+Project:
+
+----------------_.
+
+GeoLabs, Inc-
+
+45 Johnson Lane -,Braintree MA 02184 -781848 7844 -781 848 781l
+
+;g
+'g
+~
+
+'"S-
+O>
+
+'"
+
+Qualifiers: BRL
+)
+
+S
+
+Below Reporting Limit
+Analjte detected belOw qUMtitation limits
+
+Spike Recovery outside recovery limits
+
+E Value above quantitation range
+
+ND Not Detected at the Reporting Limit
+
+H
+
+R
+
+Holding times'for preparation Of analysis exceeded
+
+RPD outside recove.ry limits
+
+
+
+===."--,,_..,,_._,, ====-=_...:.:::::.....-.---...-,,----..:::::=.-. C==='=CC_'_.-_--c=_-._"-==.= 'C·_··-_""·.'-_'·
+CLIENT:
+Work Order:
+
+Project:
+
+AECOM
+1004182
+
+CFI 2141, 60136873 TestCode: 8260B_S
+
+Sample ID: SB
+
+Client 10: z:zzzz.
+SampType: MBLK
+
+Batch ID: R35807
+
+TestCode: 8260B_5
+
+TestNO: 5W8260B
+
+Units: IJg/Kg Pr.ep Date:
+
+Analysis Date: 4/1312010
+
+RunNo: 35807
+
+SeqNo: 402071
+
+Analyte Result POL SPK value SPK Ref Val %REC LowLimit HighLimit RPD Ref Val %RPD RPDUmit Qual
+
+Below Reporting Limit
+Analyt.e detected beTo\\' quantitatiofl limits
+Spike Recovery outside recovery linlits
+
+GeoLabs, Inc.
+45 Johnson Lane - Braintree MA 02184 -781 848 7844 -78J 848 7811
+
+;r
+'"m
+~
+
+'"8,
+fd
+
+1,1 ,1,2~Tetrachloroethane
+1,1 ,1-Trichloroethaoe
+
+1,1,2,2-Tetrachloroethane
+
+1,1,2-Trichloroethane
+
+1,1-Dichloroetnane
+1,1-Dichloroethene
+
+1,1-Dichloropropene
+
+1,2,3-Tfich!orobenzene
+
+1,2,4-Trichlotobenzene
+
+1,2,4-Trimethyfbenzene
+1,2-Dibromo~3-Chjoropropane
+
+1,2-Dibromoethane
+1,2-Dichlorobenzene
+1,2-Dichloroethane
+
+1,2-Dtchloropropane
+
+1,3,5-Trimethylbenzene
+1,3-DichJorobenzene
+
+1,3-Dichloropropane
+1,4~Dichlorobenzene
+
+2>2~Dichloropropane
+
+2-Butanone
+2-Chloroethyt Vinyl: Ether
+2~Chlorotoluene
+
+2~Hexanone
+
+4-Chlorotofuene
+4-lsopropyltoluene
+
+4-Methyt-2-Pentanone
+
+Acetone
+
+Qualmers: BRL
+
+J
+
+S
+
+ND
+NO
+
+ND
+ND
+ND
+NO
+
+ND
+NO
+
+NO
+
+ND
+NO
+
+ND
+ND
+ND
+ND
+ND
+ND
+ND
+NO
+
+NO
+
+ND
+ND
+ND
+ND
+ND
+ND
+ND
+ND
+
+50,0
+50.0
+
+50.0
+
+50.0
+
+125
+
+50,0
+
+50.0
+
+50.0
+50.0
+50,0
+
+50,0
+50,0
+
+50.0
+50,0
+
+50.0
+
+50.0
+
+50.0
+
+SO.O
+50.0
+
+125
+300
+
+50.0
+
+125
+
+125
+125
+
+50,0
+
+50,0
+
+500
+--~-----
+
+E Value above quantitation range H
+ND Not Detected at the Reporting Limit R
+
+Holding times for preparation or analysis exceeded
+RPD outside recovery limits
+
+
+
+,',".
+'==-=-=-."c:::::=-_~_·__..====.=-'=,
+
+CLIENT:
+Work Order:
+
+Project:
+
+AECOM
+1004182
+CF12141,60136873 TestCode: 8260B_S
+
+SampIeID:SB
+
+Client ID~ zzzzz.
+SampType: MBLK
+
+Batch ID: R35807
+
+TestCode: 8260B_5
+
+TestNo: SW8260B
+
+Units: ~glKg Prep Date:
+
+Analysis Date: 4/1312010
+
+RunNo: 35807
+
+SeqNo: 402071
+
+Analyle
+
+Acryfonitrile
+Benzene
+
+Bromobenzene
+Bromochloromethane
+
+Bromodichloromethane
+
+Bromoform
+Bromomethane
+
+Carbon Disumde
+Carbon Tetrachloride
+
+ChJorobenzene
+Chloroethane
+Chloroform
+Chloromethane
+
+cis-1,2-Dichloroethene
+
+cis-1,3-Dichloropropene
+
+Dibromochloromethane
+Dibromomethane
+
+Dichlorodffiuoromethane
+Ethylbenzene
+
+Hexachlorobutadiene
+Isopropylbenzene
+
+Methyl Tert-Butyl Ether
+
+Methylene Chloride
+
+Naphthalene
+
+n-Butylbenzene
+n-Propylbenzene
+sec-6utylbenzene
+
+Styrene
+
+Result
+
+ND
+ND
+ND
+ND
+ND
+ND
+NO
+NO
+ND
+ND
+ND
+NO
+NO
+ND
+NO
+ND
+ND
+
+NO
+NO
+NO
+NO
+NO
+NO
+NO
+NO
+NO
+NO
+NO
+
+PQL
+
+50.0
+50.0
+
+50.0
+
+125
+
+50.0
+
+50.0
+
+50.0
+
+50.0
+
+50.0
+50.0
+50.0
+50.0
+
+50.0·
+50.0
+
+50.0
+50.0
+
+50.0
+
+50.0
+
+50.0
+
+50.0
+50.0
+
+50.0
+
+50.0
+125
+
+50.0
+
+50.0
+
+50.0
+
+125
+
+SPK value SPK Ref Val %REC Lowlimit HighUmit RPD Ref Val %RPD RPDUmit Qual
+
+GeoLa bs, Inc.
+45 Jobnsoo Laoe - Braintree MA 02184 - 781 848 7844 -781 848 7811
+
+u
+
+~
+'"a
+S,
+
+~
+
+Qualifiers: BRL
+J
+
+S
+
+Below Reporting Limit
+
+Anal)te dc."tcetcd below quantitation limits
+Spike Recovery outside recovery limits
+
+E Value above quantitation range
+
+ND Not Detected at the Reporting Limit
+H Holding times for preparation or analys.js exceeded
+
+R RPD ou't'ide recovery limits
+
+
+
+".. ::===--;~.:=~:.:: .. _. ---_....
+
+CLIENT:
+Work Order:
+
+Project:
+
+ABCOM
+1004182
+CFI 2141, 60136873 TestCode: 8260B_S
+
+Sample 10: S6
+
+Client 10: ZZZZZ
+
+SampType: M6LK
+
+Batch 10: R35807
+
+TestCede: 82606_S
+
+TestNo: SW826<>B
+
+UnITs: pgiKg Prep Date:
+
+Analysis Date: 4/1312010
+
+RunNo: 35807
+
+SeqNo: 402071
+
+Analyte Result PQl SPK value SPK Ref Va! %REC lowLimit HighLimit: RPO Ref Val %RPD RPDUmit Qual
+
+SPK value SPK Ref Val
+
+TestCode: 82608_5
+
+TestNo: SW82GOB
+
+tert-Butylbenzene
+Tetrachloroethene
+
+Toluene
+trans-1.2~Dichloroethene
+
+trans-1,3-Dichloropropene
+
+Trichloroethene
+Trichlorofluoromethane
+Vinyl Chloride
+
+Xylenes. Total
+SUIT: 1,2-DJchloroethane-d4
+Surr: 4-Bromofluorobenzene
+SUO': Dibromofluoromethane
+Surr: Toluene-d8
+
+Sample ID: LeS
+
+Client ID: zzzzz.
+
+Analyle
+
+NO
+NO
+NO
+NO
+NO
+NO
+NO
+NO
+NO
+
+798.8
+
+640.0
+
+825.5
+
+656.2
+
+SampType: LCS
+
+Batch 10: ROS807
+
+Result
+
+50.0
+
+50.0
+
+50.0
+
+50.0
+
+50.0
+
+50.0
+
+125
+
+50.0
+
+125
+
+o
+o
+o
+o
+
+PQL
+
+750
+
+750
+
+750
+
+750
+
+o
+o
+o
+o
+
+Units: pglKg
+
+106 70 130
+
+85.3 70 130
+
+110 70 130
+
+87.5 70 130
+
+--
+Prep Date: RunNo: 35807
+
+Analysis Date: 4/1312010 SeqNo: 402069
+
+%REC LowLirnit Highlimit RPD Ref Val %RPD RPDlimit Qual
+
+1,1,1,2-Tetrachloroethane
+
+1,1,i-Trichloroethane
+
+1,1.2,2-Tetrachloroethane
+
+1,1,2-Trichloroethane
+
+i,1-Dichloroethane
+1,1-Dichloroethene
+1,1-Dichloropropene
+
+1,2,3-Trichlorobenzene
+
+1,2,4-Trichlorobenzene
+
+---------._-- _ _ _-_.. _-_ _------
+
+GeoLabs, Inc.
+
+45 Johnson Lane - Braintree MA 02184 -781 848 7844 -781848 7811
+
+E Value above quantitat!on range
+
+ND Not Detected at the Reporting Limit
+
+Holding times for preparation or analysis exceeded
+RPD outside recovery limit<;
+
+130
+
+130
+130
+
+130
+
+130
+
+130
+
+130
+
+130
+
+130
+
+H
+
+R
+
+70
+
+70
+
+70
+
+70
+
+70
+
+70
+
+70
+
+70
+
+70
+
+85.5
+
+79.5
+
+88.1
+
+88.2
+74.3
+
+73.5
+
+73.1
+
+83.1
+
+79.4
+
+o
+o
+o
+o
+o
+o
+o
+o
+o
+
+1250
+
+1250
+
+1250
+
+1250
+
+1250
+
+1250
+
+1250
+
+1250
+
+1250
+
+50.0
+
+50.0
+
+50.0
+
+50.0
+
+125
+
+50.0
+
+50.0
+
+50.0
+
+50.0
+
+10S8
+
+993.5
+
+1101
+
+1102
+
+929.0
+
+918.3
+
+914.0
+
+1039
+
+992.5
+
+Below Reporting Limit
+Anal)ic detected below quantitation limits
+
+Spike Recovery outside recovery limits
+
+BRL
+J
+
+S
+
+Qualifiers:
+'U
+
+"'"'"~
+a
+fd
+
+
+
+_._._--_. -' _..__.,,- -----_ _--_., _" .._-_._-- ...__.._..". ._----_.__....-
+CUENT: ABeOM
+Work Order: 1004182
+Project: CFI2141,60136873 TestCode: 8260B_S
+
+Sample 10: lCS SampType: lCS TestCode: 82608_S Units: ~g1K9 Prep Date: RunNo: 35807
+
+Client 10: = Batch ID: R35807 TestNo; SW8260B Analysis Date: 411312010 SeqNo: 402069
+Analyle Result PQl SPK value SPKRefVal %REC LowLimit HighLimit RPDRefVal %RPD RPDUmn Qual
+
+1,2,4-Trimethylbenzene 1053 50.0 1250 0 84.2 70 130
+1,2~Dibromo-3-Chloropropane 1154 50.0 1250 0 92.3 70 130
+1,2-Dibromoethane 1062 50.0 1250 0 84.9 70 130
+1,2-Dich~orobenzene 1178 50.0 1250 0 94.2 70 130
+
+1,2-Dichloroethane 1023 50.0 1250 0 81.8 70 130
+1,Z-Dichloropropane 909.0 50.0 1250 0 72.7 70 130
+
+1.3.5-Trimethylbenzene 1053 50.0 1250 0 84.2 70 130
+1,3-DichlOrobenzene 1208 50.0 1250 0 96.7 70 130
+
+1,3-Dichloropropane 916.2 50.0 1250 0 73.3 70 130
+1,4-Dichlorobenzene 1103 50.0 1250 0 88.3 70 130
+2,2-Dichloropropane 1092 125 1250 0 87.3 70 130
+2-Butanone 1028 300 1250 0 82.3 70 130
+2-Ghloroethyl Vinyl Ether 906.8 50.0 1250 0 72.5 70 130
+2-Chlorotoluene 989.8 125 1250 0 79.2 70 130.
+2-Hexanone 943.3 125 1250 0 75.5 70 130
+~l1lorotoluene 1021 125 1250 0 81.7 70 130
+4-lsopropylfoluene 1040 50.0 1250 0 83.2 70 130
+4-Methyl-2-Pentanone 943.3 50.0 1250 0 75.5 70 130
+Acetone 1070 500 1250 0 85.6 70 130
+Acrylonttrile 4710 50.0 5000 0 94.2 70 130
+Benzene 9332 50.0 1250 0 74.7 70 130
+Bromobenzene 1135 50.0 1250 0 90.8 70 130
+Bromochlorwnethane 954.8 125 1250 0 76.4 70 130
+Bromodichloromethane 1043 50.0 1250 0 83.4 70 130
+Bromofonn 1140 50.0 1250 0 91.2 70 130
+Bromomethane 1391 50.0 1250 0 111 70 130
+Carbon Disulfide 846.8 50.0 1250 0 67.7 70 130 S
+Carbon Tetrachloride 907.0 SO.O 1250 0 72.6 70 130
+
+"
+.._,,_._,.,,_.,.,,--_...- _.,.,--------_..•
+
+~ Qualifiers: BRL Below Reporting Limit E Value above quantitation range H Holding limes for preparation Qf anal):sis exceeded
+'"m A.nal)1e detected below quantitation limits'" J ND Not Detected at the Reporting Limit R RPD outside recovery limits'"8- S Spike Recovery o\ltside recovery limits
+'"'" GeoLabs,Inc_
+
+45 Johnson Lane - Braintree MA 02184 -781 848 7844 -781 8487811
+
+
+
+·. ".""----",,-,,.,.__._- ...._-_..._----- ,._.._.._- ."".,-- ....,..._.
+.,-", ., -- -".'.. .- ._", ."... .. - ._._. .__ .._,----- .._._--_._.. _---_._..._._ ...._-- .,.,--_.•. . .....- .._----"'-_.
+
+CLIENT: AECOM
+
+Work Order: 1004182
+
+Project: CFJ 2141, 60136873 TestCode: 8260B_S
+
+Sample ID: LCS SampType: LCS Testcode: 82608_S Units: ~/Kg Prep Date: RunNo: 35llO7
+
+ClientiD: = Batch ID: R35807 TestNo: SW8260B Analysis Date: ,4/13/2010 seqNo: 402069
+AnaJyte Result pal SPK value SPK RefVaJ %REC LowUmit HighLimit RPDRefVa+ %RPD RPDUmit Qual
+
+ChloiQbenzene 1088 50.0 1250 0 87.0 70 130
+Chioroethane 916.5 50.0 1250 0 73.3 70 130
+Chloroform 1030 50.0 1250 0 82.4 70 130
+Chloromethane 929.2 50.0 1250 0 74.3 70 130
+cis-1,2-Dichloroethene 929.5 50.0 1250 0 74.4 70 130
+ci5-1,3-Dichforopropene 914.0 50.0 1250 0 73.1 70 130
+
+Dibromochloromethan-e 1152 50.0 1250 0 92.1 70 130
+
+Dibromomethane 1075 50.0 1250 0 86.0 70 130
+
+Dichlorodifluoromethane 929.5 50.0 1250 0 74.4 70 130
+Ethylbenzene 1012 50.0 1250 0 80.9 70 130
+Hexachlorobutadiene 1092 50.0 1250 0 87.4 70 130
+Isopropylbenzene 1039 50.0 1250 0 83.1 70 130
+Methyl Tert·Butyl ElIler 1009 50.0 1250 0 80.7 70 130
+WJethyiene Chloride 937.0 50.0 1250 0 75.0 70 130
+Naphthalene 1216 125 1250 0 97.3 70 130
+n-Butylbenzene 924.0 50.0 1250 0 73.9 70 130
+n-Propy!benzene 917.0 50.0 1250 0 73.4 70 130
+sec-Butylbenzene 973.0 50.0 1250 0 77.8 70 130
+Styrene 1054 125 1250 0 84.3 70 130
+tertwButylbenzene 951.8 50.0 1250 0 76.1 70 130
+Tetrachloroethene 1163 50.0 1250 0 93.0 70 130
+Toluene 983.5 50.0 1250 0 78.7 70 130
+trans-1.2-Dichloroethene 917.2 50.0 1250 .0 73.4 70 130
+trans-1,3-0ichkJropropene 902.5 50.0 1250 0 72.2 70 130
+Trichloroethene 1066 50.0 1250 0 85.3 70 130
+Trichlorofluoromethane 1234 125 1250 0 ga.7 70 130
+Vinyl Chloride 960.3 50.0 1250 0 76.8 70 130
+Xylenes, Total 2976 125 3750 0 79.' 70 130
+
+"
+---_....",,, .,,,. .._--,....,_.. -._'-'.""-,-_..-
+
+" Qnalifie:rs: BRL Below Reporting Limit E Value above quantitation range H H(Jlding times for prep~nltion or analysis exceeded<0CD
+" J Anal)tc detected below quantitation limits ND Not Detected at the Reporting Limit R RPD outside recovery limits'"S, S Spike Recovery outslde recovery limits
+'"" GeoLabs, Inc.
+
+45 Johnson Lane - Braintree MA 02184-781 8487844 -7818487811
+
+
+
+·,"~.'-- .. ~-"-----'_.
+
+CLIENT: ABCOM
+
+Work Order: 1004182
+
+Project: CFI2141,60136873 TestCode: 8260B_S
+
+Sample 10: LCS SampType: LCS TeslCode: 8260B_S Unils: pglKg Prep Dale: RunNo: 35807
+
+Client ID: Z2ZZZ Batch ID: R35807 TestNo: SW8260B Analysis Date: 4/1312010 SeqNo: 402069
+
+Analyte Result PQL SPK value SPK Ref Val %REC LowUmit HighUmit RPDRefVal %RPD RPDUmit Qual
+
+SUIT: 1,2·Dfchloroethane-d4 686.5 0 750 0 91.5 70 130
+Surr: 4-Bromofluorobenzene 729.8 0 750 0 97.3 70 130
+SUIT: Dibromofluoromethane 7682 0 750 0 102 70 130
+
+Surr: Toluene-d8 729.8 0 750 0 97.3 70 130
+
+Sample ID: LCSD SampType: LCSD TestCode: 82608_5 Untts: pglKg Prep Date: RunNo: 35807
+
+Client 10: Z2ZZZ Batch ID: R35807 TestNo: SW8260B Analysis Date: 411312010 5eqNo: 402070
+
+Analyle Result PQL SPK value SPKRefVal %REC LowLimit HighLimit RPD Ref Val %RPD RPDLimtt Qual
+
+1,1,1,2·Tetrachloroethane 1212 SO.O 1250 0 96.9 70 130 1068 12.6 25
+1,1,1-Trichloroethane 1045 50.0 12SO 0 83.6 70 130 993.5 5.05 25
+1,1,2,2-Tetrachloroethane 1164 50.0 1250 0 93.2 70 130 1101 5.63 25
+1,1,2-Trichloroethane 1192 50.0 1250 0 95.3 70 130 1102 7.78 25
+1,1-Dichloroethane 1077 125 1250 0 86.2 70 130 929 14.8 25
+1,1-Dichloroethene 1002 SO.O 1250 0 80.1 70 130 918.3 8.70 25
+1,1-Dlchloropropene 1018 50.0 1250 0 81.5 70 130 914 10.8 25
+1,2.3-Trichlorobenzene 1051 500 1250 0 84.1 70 130 1039 1.12 25
+1,2,4-Trichlorobenzene 1118 50.0 12SO 0 89.4 70 130 992.5 11.9 25
+1,2,4-Trimethylbenzene 1164 SO.O 12SO 0 93.1 70 130 1053 9.99 25
+1,2-Dibromo-3--Chloropropane 1076 50.0 1250 0 86.1 70 130 1154 7.04 25
+1,2-Drbromoethane 1235 50.0 1250 0 98.8 70 130 1062 15.1 25
+1,2-Dichlorobenzene 1130 50.0 1250 0 90.4 70 130 1178 4.18 25
+1,2-0ichloroethane 1164 SO.O 1250 0 93.1 70 130 1023 12.9 25
+1,2~Dichloropropane 969.8 50.0 12SO 0 77.6 70 130 909 6.47 25
+1,3,5-Trimethylbenzene 1237 50.0 12SO 9 99.0 70 130 1053 16.1 25
+1,3-Dichlorobenzene 1198 SO.O 12SO 0 95.9 70 130 1208 0.852 25
+1,3-Dichloropropane 1166 50.0 1250 0 93.3 70 130 916.2 24.0 25
+
+"
+.... ,."'._----_.- - .."-_.,,,,-_ ...__.-.- .- ------_.,--
+
+~ Qualifiers: BRL Below Reporting Limit E Value above quantitation range H Holding times for preparation or analysis exceeded<0
+ro
+
+Analyte detected below quantitation limits ND Not Detected at the Reporting Limit R RPD outside recovery limits'" J...
+S. S Spike Recovery outside recovery limits
+
+"''" GeoLabs, fne.
+45 Johnson Lane - Braintree MA 02184 - 781 848 7844 -781 848 7811
+
+
+
+_.",-,.".,,-'--".' ._,.._._...._,.,-- -'-" .. _.__...• ._._- --,-_.- .. .-". .-..... " _._,.,,--,--_._----- - ._------_.__..-,._,,----_.,.._-_. --._-_.. _. ----_._.".,--,-----,,-,-,-
+CLIENT: AECOM
+Work Order: 1004182
+Project: CFI214J,60136873 TestCode: 8260B_S
+
+Sample ID: LCSD SampType: LCSD TestCode: 8260B_S Units: ~gIKg Prep Date: RunNo: 35807
+
+Client ID: = Batch ID: R35807 TeslNo: SW8260B Analysis Date: 411312010 SeqNo: 402070
+Analyte Result POL SPKvalue SPK Ref Val %REC Lowlimit HighLimit RPDRefVal OfoRPD RPDLimit Qual
+
+1,4-Dlchlorobenzene 1187 50.0 1250 0 95.0 70 130 1103 7.33 25
+2,2-Dichloropropane 995.8 125 1250 0 79.7 70 130 1092 9.17 25
+2-Butanone 987.0 300 1250 0 79.0 70 130 1028 4.09 25
+2-Chloroethyi Vinyl Ether 9675 50.0 1250 0 77.4 "70 130 906.8 6.48 25
+2-Ghlorotoluene 1239 125 1250 0 99.1 70 130 989.8 22.4 25
+2-Hexanone 1122 125 1250 0 89.8 70 130 943.3 17.3 25
+4-Chlorotoluene 1254 125 1250 0 100 70 130 1021 20.4 25
+4-lsopropyftoluene 1070 50.0 1250 0 85.6 70 130 1040 2.87 25
+4-Methyl-2-Pentanone 1122 50.0 1250 0 89.8 70 130 943.3 17.3 25
+Acetone 999.0 500 1250 0 79.9 70 130 1070 6.84 25
+Acrylonitrile 5168 50.0 5000 0 103 70 130 4710 9.27 25
+Benzene 1022 50.0 1250 0 81.8 70 130 933.2 9.13 25
+Bromobenzene 1446 50.0 1250 0 116 70 130 1135 24.1 25
+Bromochloromethane 990.2 125 1250 0 79.2 70 130 954.8 3.65 25
+Bromodichloromethane 1145 50.0 1250 0 91.6 70 130 1043 9.37 25
+Bromoform 1357 50.0 1250 0 109 70 130 1140 17.4 25
+Bromomethane 1505 50.0 1250 0 120 70 130 1391 7.87 25
+Carbon Disulfide 941.0 50.0 1250 0 75.3 70 130 846.8 10.5 25
+Garbon Tetrachloride 1155 50.0 1250 0 92.4 70 130 907 24.1 25
+Chlorobenzene 1161 50.0 1250 0 92.9 70 130 1088 6.49 25
+Chtoroethane 994.8 50.0 1250 0 79.6 70 130 916.5 8.19 25
+Chlor-oform 1140 50.0 1250 0 91.2 70 130 1030 10.2 25
+Chloromethane 1015 50.0 1250 0 81.2 70 130 929.2 8.82 25
+cis-1.2-DichIQToethene 1016 50.0 1250 0 81.3 70 130 929.5 8.92 25
+cis-1,3-Dichloropropene 1036 50.0 1250 0 82.9 70 130 914 12.5 25
+Dibromochloromethane 1321 50.0 1250 0 106 70 130 1152 13.7 25
+Dibromomethane 1182 50.0 1250 0 94.6 70 130 1075 9.50 25
+Dichlorodiffuoromethane 1144 50.0 1250 0 91.5 70 130 929.5 20.6 25
+
+"U ----- ._.._.-..- .- -- - - ..... _-----------------
+w Qualifiers: BRL Below Reporting Limit E Value above quantitat:icin range '~ ,. H Holding times for preparation or analysis exceeded<0
+<1>
+
+) Ana1)te detected belowguantitation limit'> ND Not Detected at the R~porting Limit RPD outside rec{lvery limit"'" R'"a s Spike Recovery oUl<:ide recovery limits
+'"'" GeoLabs, Inc_
+
+·45 Johnson Lane - Braintree MA 02184 -781 848 7844 -781,8487811
+
+
+
+Holding times for preparation or analysis. excceded
+
+RPD' outside recovery limits
+
+GeoLabs, Inc.
+
+45 Johnson Lane - Braintree MA 02184 -781 848 7844-781 848 7811
+
+------ ---_.-. _..__.._-_ ..._ .•._..._- ---
+BRL Below Reporting Limit E Value above quantitation range H
+
+J AnaJyte detected below quanritation limits ND Not Detected::lt the Reporting Limit R
+
+S Spike Recovery outside recovery limit"
+
+Qualifiers:
+"U
+
+"'""
+~
+a
+'""
+
+
+
+CLIENT:
+Work Order:
+Project:
+
+AECOM
+1004182
+
+CFJ 2141,60136873
+
+.. -,",,_.._._'_'_-_.,,~." --.... _.._-~-_ .._-"~
+
+Testeode: AG_S
+
+Sample ID: MB-15702
+
+ClientlD: = SampType: MBLKBatch ID: 15702 TestCode: AG_STestNo: SW6010B Units: mg/Kg(SW30SOB) Prep Date: 4/1312010Analysis Date: 4113/2010 RunNo: 35813SeqNo: 402155
+Analyte
+
+Silver
+
+Result
+
+ND
+
+POL
+
+10.0
+
+SPK value SPK Ref Val %REC LowLimit HighUmit R~D Ref Val %RPD RPDLimit Qual
+
+Sample ID: LCS-15702
+
+Client 10: ZZZZZ
+
+SampType: LCS
+
+Batch ID: 15702
+
+TestCode: AG_S
+
+TestNo: SW6010B
+
+Units: mgiKg
+
+(SW30SOB)
+
+Prep Date: 4/1312010
+
+Analysis Date: 411312010
+
+RunNo: 35813
+
+SeqNo: 402156
+
+Analyte Result POL SPK value SPK Ref Val %REC LowLimit HighUmit RPD Ref Val %RPD RPDLimit Qual
+
+Silver 26.73 10.0 33.33 o 80.2 80 120
+
+Sample 10: LCSD-15702
+
+Client ID: ZZZZZ
+
+SampType: LCSD
+
+Batch ID: 15702
+
+TestCode: AG_S
+
+TeslNo: SW6010B
+
+Units: mgIKg
+
+(SW3050B)
+
+Prep Date: 4/13/2010
+
+Analysis Date: 411312010
+
+RunNo: 35813
+
+SeqNo: 402161
+
+Analyte
+
+Silver
+
+Result
+
+26.73
+
+POL
+
+10.0
+
+SPK value SPK Ref Val
+
+33.33 0
+
+%REC
+
+80.2
+
+LowUrnit
+
+80
+
+HighUmit RPD Ref Val
+
+120 26.73
+
+%RPD
+
+o
+
+RPDLimit
+
+30
+
+Qual
+
+GeoLabs, Inc.
+
+45 Johnson Lane - Braintree MA 02184 -781 848 7844 -781848 78] 1
+
+"g
+"""Q,
+'""
+
+Qualifiers: BRL
+J
+S
+
+__________._ w
+u
+
+, •••
+
+Below Reporting Limit
+Anal)1e detected below quaotitation limits
+Spike Recovery outside recovery limits
+
+Holding times for preparation or analysis exceeded
+RPD outside recovery limits
+
+
+
+-----------,.. ' --------- ......._..,-,..._.._---------_.. ==.."..==--..._---.~,- --_._-- ---=:===-. -,:..::_~=-====..::====--:::::'~=:==--:::-~.-:::-::::::==:--:=.-:::..~--:=.:..- ..::;::::=-_:::::::::=~.:::.
+CLIENT:
+Work Order:
+Project:
+
+AECOM
+
+1004182
+CFI2141,60136873 TestCode: hg_7471a_s
+
+Sample 10: MB-15705
+
+ClienllD: =.
+SampType: MBLK
+
+Batch 10: 15705
+
+TestCode; hfL7471a_s
+
+TeslNo: SW 7471A
+
+Units: mg/Kg
+
+(SW7471Aj
+
+Prep Date: 4113/2010
+
+Analysis Date: 4/13/2010
+
+RunNo: 35803
+
+SeqNo: 402008
+
+Analyle
+
+Mercury
+
+Result
+
+NO
+
+POL
+
+0.250
+
+SPK value SPK Ref Val %REC LowLimit HighUmit RPD Ref Val
+,-, .. %RPD RPDUmit Qual
+
+Sample ID: LCS-15705
+
+Client ID: ZZ2ZZ
+
+Analyte
+
+Mercury
+
+Sample 10: lCSD-15705
+
+Client lD: ZZZZZ
+
+Analyta
+
+Mercury
+
+SampType: LCS
+
+Batch !D: 15705
+
+Result
+
+2.500
+
+SampType: LCSD
+
+Batch 10: 15705
+
+Result
+
+2.505
+
+TestCode: h9-74713_S Units: mglKg Prep Date: 4/1312010 RunNo: 35803
+
+TestNo: SW 7471A (SW7471A) Analysis'Date: 4/1312010 SeqNo: 402009
+
+PQl SPK value SPKRefVal %REC LowUmit HighLimit RPDRefVal %RPD RPDLimit Qual
+
+0.250 2.5 0 1Iio 80 120
+
+TesVCode: hg_7471a_s Units: mglKg Prep Date: 4/13/2010 RunNo: 35803
+
+TesINo: SW 7471A (SW7471A) Analysis Date: 4113/2010 SaqNo: 402017
+
+PQl SPK value SPKRefVal %REC Lowllfnif( Higl)limit RPD Ref Val %RPD RPDUm~ Qual
+
+0.250 2.5 0 10tY 80 120 2.5 0.200 30
+
+GeoLabs, Inc.
+45 Jobnson Lane - Braintree MA 02184 -781 8487844 -781 84S 7811
+
+;g
+'"ro
+'"0>
+8.
+KJ
+
+Qualifiers: BRL
+)
+
+S
+
+Below Rep<lrting Limit
+Anai}--re detected below quantitation limits
+Spike Recovery outside recovery limits
+
+--------_.._- -----
+E Value above Quantitation range
+
+NO Not Detected at the Reporting Limit
+H
+R
+
+Holding times for preparation or analysis exceeded
+RPD outside recovery limits
+
+
+
+·_------ =.._==.-._=._=.. ==== --_...~ ...,._".,,--"'-'"" ..__ .._,--_ ..•,---,,",._._---_.-_._._"'--_.. ------"--,--,,._..-
+
+"
+
+.-_._-------_..- _ ..__._...__ .",.,,--,----_._."'_...----------,-_.- -,.._._._------------,._--,.. --_.".
+CLIENT:
+Work Order:
+
+Project:
+
+AEeOM
+
+1004182
+
+CPI 2141, 60136873 TestCode: VPH_S2
+
+Sample ID: MBLK
+
+ClientlD: = SampType: MBLKBatch ID: R35853 TestCode: VPH_S2TestNo: VPH Units: mgIKg PrepJ?ate:Analysis Date: 411512010 RunNo: 35853SeqNo: 402591
+Anaiyte Result PQL SPK value SPK Ref Val %REC''''~'' "LoW~!mit' HighLimit RPD Ref Va! %RPD RPDUmit Qual
+
+1,2,4-Trimefhylbenzene
+
+2,2,4-Trimethylpentane
+
+2-Methylpentane
+
+n~utylcydohexane
+
+n-Decane
+n-Nonane
+n-Pentane
+Unadjusted C5-C8 Aliphatic He
+Unadjusted C9-G12 Aliphatic He
+Methyl Tert-Butyl Ether
+Benzene
+
+Toluene
+Ethylbenzene
+
+m,i>-Xylene
+
+o-Xylene
+Naphthalene
+C9-C10 Aromatic Hydrocarbons
+
+Surr; 2,5-Dibromoto~uene FID
+
+Surr: 2,&.Dibromotoluene PiC
+
+ND
+
+ND
+
+ND
+
+ND
+
+ND
+
+ND
+
+ND
+
+ND
+
+ND
+
+NO
+NO
+ND
+
+NO
+ND
+
+ND
+
+NO
+ND
+
+101.9
+
+99.86
+
+0.500
+
+0.500
+
+0.500
+
+0.500
+
+0.500
+
+0.500
+
+0.500
+25.0
+
+25.0
+0,0500
+
+0.500
+
+0.500
+
+0.500
+
+0.500
+
+0.500
+1.00
+
+25.0
+
+o
+o
+
+100
+
+100
+o
+o
+
+102
+
+99.9
+
+r ~ .. "",'."
+
+70
+
+70
+
+130
+
+130
+
+SamplelD: LCS
+
+Client 10: zzzzz.
+SampType: LCS
+
+Batch ID: R35853
+
+TestCode: VPH_S2
+
+TestNo: VPH
+
+Units: m9l,Kg Prep Date:
+
+Analysis Date: 411512010
+
+RunNo: 35853
+
+SeqNo: 402589
+
+%REC LOWlimit HighLimit RPD Ref ValAnalyte Result PQL SPKvalue SPKRefVal
+
+1,2,4-Trimethylbenzene 104.2 0.500 100 0
+2,2,4-Trimethylpentane 108.7 0.500 100 0
+2-Methylpentane 89,13 0.500 100 0
+
+104
+
+109
+
+89.1
+
+70
+70
+
+70
+
+130
+
+130
+
+130
+
+%RPD RPDUmit Qual
+
+GeoL.bs, Inc.
+
+45 John'on Lane - Braintree MA 02184 -781 8487844 -781 848 78Il
+
+---- _._-------.----_.-_.
+;\'
+<0
+
+'""<Da
+'""
+
+Qualifiers~ BRL
+J
+
+S
+
+Below Reporting Limit
+AnalytC detected below quantitation limits
+Spike Recovery outside recovery limits
+
+E Value above quantitation range
+
+ND Not Detected at the Reporting Limit
+H
+R
+
+Holding times for preparation or analysis exceeded
+RPD outside recovery limits
+
+
+
+--,._._---~-_ ..~,,------------_ ..__._--,.,,_.
+CLIENT:
+Work Order:
+Project:
+
+AECOM
+1004182
+
+CFI 2141, 60136873
+
+===:::=...---==::::::=::::"'::::::::::::.::.-.-==------::.-::.::::.----==:~.::,==--..::=-:... --"":"~---""-":==:,::::=::..::...._:.=.-:=-===:========:::::==----------=.::.:.::=--:::~--==-~.:::.:=- ._-
+
+TestCode: VPH_S2
+
+sample 10: LCS SampType: LCS TestCode: VPH_S2 Units: mg/Kg Prep Date: RunNo: 35853
+
+Client !O: = Batch 10: R35853 TestNo: VPH Analysis Date: 4/1512010 seqNo: 402589
+Analyle Result POL SPK value SPKRefVal %REC LowUmit HighUmit RPORefVal %RPD RPDlimit Qual
+
+n-Bu1ylcyclohexane 81.25 0.500 100 0 81.2 70 130
+
+n-Decane 93.45 0.500 100 0 93.5 70 130
+
+n-Nonane 91.55 0.500 100 0 91.6 30 130
+n-Pentane 112.5 0.500 100 0 113 70 130
+
+Unadjusted C5-CS Aliphatic HC 350.2 25.0 300 O· 117 70 130
+Unadjusted C9~12 Aliphatic He 314.5 25.0 300 0 105 70 130
+Methyl Tert~Butyl Ether 108.3 0.0500 100 0 108 70 130
+Benzene 117.8 0.500 100 0 118 70 130
+
+Toluene 116.1 0.500 100 0 116 70 130
+
+Ethylbenzene 109.1 0.500 100 0 109 70 130
+
+m,p-Xylene 215.8 0.500 200 0 108 70 130
+
+a-Xylene 108.1 0.500 100 0 108 70 130
+
+Naphthalene 106.5 1.00 100 0 106 70 130
+
+C9-C10 Aromatic Hydrocarbons 110.1 25.0 100 0 110 70 130
+
+Surr. 2,'5-Dibromotoluene FID 104.6 0 100 0 105 70 130
+Sur.r: 2,5-Dibromotoluene PID 127.1 0 100 0 127 70 130
+
+Sample 10: LCSO SampType: LCSO TestCode: VPH_S2 Units: mgIKg Prep Date: RunNo: 35853
+
+Client 10; ZZZZZ Batch 10: R35853 TestNo: VPH AnaJysis Date: 4/15/2010 SeqNo: 402590
+
+Analyte Result PQL SPK value SPK ReI Val %REC LowLimit HighWmit RPD Ref Val OfoRPD RPDUmit Qual
+
+1,2,4-Trimethylbenzene 98.80 0.500 100 0 98.8 70 130 104.2 5.32 25
+2,2,4-Trimethylpentane 87.47 0.500 100 0 87.5 70 130 108.7 21.6 25
+2-Methylpentane 90.29 0.500 100 0 90.3 70 130 89.13 1.29 25
+n-Butylcyclohexane 79.05 0.500 100 0 79.0 70 130 81.25 2.75 25
+n-Decane 94.42 0.500 100 0 94.4 70 130 93.45 1.03 25
+n-Nonane 90.16 0.500 100 0 90.2 30 130 91.55 1.52 25
+
+'1J
+---,"" ... ----_.------------". ...._----- ---~--_..."---
+
+w Qualifiers: BRi Below Reporting Limit E Value above quantitation range H Holding times for preparation or analysis exceeded
+"'ro J Anal)te detected beTow quantitation limits NO Not Detected,at the Reporting Limit R RPD outside recovery limitsw
+0
+
+S Spike Recovery o\lt$ide recovery limitsS<,
+w
+
+GeoLabs, Inc.'"
+4S Jobnson Lane - Bra;n!ree MA 02184 -781 8487844 -781 8487811
+
+
+
+-_.._~, .._-----,--, ..--.,. __ ..__._-"-,-,-""_.,,,,_.,,.,,_..----_..._.".. -- -- ~--~..~.•.•._- ...- .."._.,-,...__..... " ..._~._---- -- .._ .._.. '-""'.."'-","'- -- _._ ....~-~,-------- - ....._-_...._."'.- _....._._---- - .. - ._,.,,_ ...__...._---_ ...... ._--....~_._-,--,---_.. . .. _..._,---- _._. ----". .-
+CLIENT: AECOM
+
+Work Order: 1004182
+Project: CFI 2141,60136873 TestCode: VPH_S2
+
+Sample ID: LCSD SampType: LCSD Tes1Code: VPH_S2 Units: mglKg Prep Date: RunNo: 35853
+
+Client 10: ZZZZZ Batch to: R35853 TestNo: VPH Analysis Date: 4/1512010 SeqNo: 402590
+
+Analyte Result POL SPK value SPK Ref Vat %REC LowLimit HighUmit RPDRefVal %RPD RPDlimit Qual
+
+n·Pentane 122.4 0.500 100 0 122 70 130 112.5 8.44 25
+
+Unadjusted C5-C8 Aliphatic HC 324.6 25.0 300 0 108 70 130 350.2 7.59 25
+
+Unadjusted C9-C12 AliphaUc HC 309.1 25.0 300 0 103 70 130 314.5 1.74 25
+
+Methyl Tert-Butyl Ether 112.8 0.0500 100 0 113 70 130 108.3 4.00 25
+
+Benzene 123.4 0.500 100 0 123 70 130 117.8 4.67 25
+Toluene 113.6 0.500 100 0 11. 70 130 116.1 2.19 25
+Ethylbenzene 111.0 0.500 100 0 111 70 130 109.1 1.70 25
+m,p-Xylene 212.7 0.500 200 0 106 70 130 215.8 1.42 25
+o-Xylene 106.2 0.500 100 0 106 70 130 108.1 1.85 25
+Naphthalene 124.1 1.00 100 0 124 70 130 106.5 15.2 25
+C9-C10 Aromatic Hydrocarbons 109.6 25.0 100 0 110 70 130 110.1 0.493 25
+
+Surr: 2,5-Dibromotoluene FID 127.9 0 100 0 128 70 130 0 0 25
+Surr: 2,5-Dibromotoluene PfD 129.0 0 100 0 129 70 130 0 0 25
+
+GeoLabs, Inc.
+
+45 Johnson Lane - Braintree MA 02184 -781 848 7844 - 781 848 7811
+
+'J
+<0
+
+'"~
+S-
+O>
+
+"
+
+Qualifiers: BRL
+
+J
+
+S
+
+Below Reporting Limit
+
+Analy1e detected below quantitation limits
+Spike Recovery outside recovery limits
+
+E Value above quantitationrange
+ND Not Detec.ted at the Reporting Limit
+
+H
+
+R
+
+Holding times for preparation or analysis exceeded
+RPD outside recovery limit~
+
+
+
+"Ug
+'"Kl
+8,
+
+Kl
+
+I'""J"'II.':I!:: c •
+/~ CHAIN OF CUSTODY RECORD Sample Handling: circle choice Speciallnslruclions
+~ GeoLabs, Inc. Environmental Laboratories . Rttration Done ef;;: 1,/2141
+Ge<>La""fue 45 Johnson Lane, Braintree, MA 02184 (flotNee~
+
+IlZ~ n.,;..,. stwr. ., P 781.848.7844 • f 781.848.7811 Lao to <lO
+www.geolabs.com Preservation Lab to do YIN Le..,..,.ftoc nil-
+
+Turnaround: circle one Data Delivery: circle choice (5) . Requirements; circle choice (5) IQ,0L/1(1;;:t
+Fax <9 GW-1 0~CP MethodS) CT RCP (Reasonable Confidence locols)1-day 3-day
+
+~
+Format
+
+rP5F';!
+S-1 ~ State I Fed Program - Criteria(1A-
+
+2-day Excel QC Other .s::w>2 ijw~J
+Client: AeCotW Phone; '171 - '13 q- ::0,." Project: ,cOl Ut73 h(9
+Address: tv: 'Ie& ''&\f~ P~.lz lD<>- q ~r - t2'j - f'tOL ~Fax: Project po:~,~I 0121t
+
+email: 1'1'1.',,1. "ew,Jtt:"0 '."~ Invoice to': c;,,,,,fv, b.l F;,.....Contact 11 '' ..,)e
+(:/
+
+Preserative: 'IJ. t 'J 7- 7- ]. "7-
+COLLECTION CONTAINER Analysis Requested
+
+s Q M ~
+-'1 ;..
+
+~ LD A U 2'-~ -1.A T M T A C • -S . ~ AI SAMPLE y A T 0 R <C
+~;
+
+"C ""::- ~ •T p • N Geolabs SAMPlE NUMBER
+E M LY LOCATION /10 p I R M A ~ i~ ~
+
+'ff;
+
+;;:,. '"", ~E E E T I P • =,;;; z:: - ~ ,y X ~ ~D > 2: :t: .<:... '" ~ ~ H<>!.'--
+4/3/lo ''130 :It:- f1k7(o-O 6/11' 3 }: 'f7 tj I¥i::J -~" \ Xl 7j~ ........
+
+14-f Hw-7(8-/}) r-0.7
+I
+
+Htf 1111;-101<_ I)) 00.'1.
+. V Dur ~ ! 0'0
+
+!4/5 ~ ')q
+..
+
+DI2.~i'/ ~ Ii' n",S >- >'" ?> >'" )c
+IG/lVf:; 'TI'-<~ t4.i V 1.. 0" ee:;,io X
+
+Matrix Codes: Received Dn Ice Preservatives Containers:
+GW = Ground Water DW = Drinking Water 5=8011 A=Air [3 1= Hoi 3= H2SO4 5= NaOH 7= Other
+
+A = Amber B= Bag 0= Other
+G= Glass p::: Plastic
+
+ww ::: waste Water SL = Sludge 0= Oil OT ::: Other 2= HN03 4= Na2S203 6= MEOH S=Summa v=Voa
+
+Relinquished bv: Date/Time Received by: // .." I Date /Time
+.' \"tiL, /f), I .lr ,,/q/IO q:OcJ~_ t-titr. f~~. " (,I, ''). } 0 9:r~~
+<J J , r , I
+
+Ct7'" A fl/'t4'- 1//<:'./2. "UL!A-- C/' '7' 10 3:S-S k 4/91'0 1.\..'CC
+___ A"'>X .~~,..._........ '".,." " • T_ _.0>_. _..........._...,...:_..,.,., "'~._ ,._,_~ _"'". '" _~ ".__~ ~_ ...._ c,,_ ....._ "'''",___'"__.....:..,.,..~ ,...........,.,. ....... ,.,nlb...,,__ ",,00'1 r'T/Ol..J ,,~ .... o, ~.1\ "," n~>::\ ..,LJ ,..,1::.<"10\ Al I "'.11 .. ""'"
+
+Note: Hor"'eowrle<'S ?!"\c1l3\V Flrms rnus1 P.1;' w~en d!'Opp-:ng of!' samples. We acr-ept cash~ chedo: and credit cartls. NY(11796) PA (68-03417) RI (LA000252)
+
+
+	1.0 Background Information
+	1.1 Description of the Release
+	1.2 Site Conditions
+	1.3 Potential Receptors
+
+	1.4 Groundwater and Soil Classification
+	2.0 Immediate Response Action
+	2.1 Description of IRA Actions Completed to Date
+
+	3.0 Substantial Hazard Evaluation
+	4.0 Remediation Waste Disposition
+	5.0 Findings of the IRA
+	Table 1 Historical  Soil Table.pdf
+	Soil Data Revised Standards
+
+	Table 2 Historical Groundwater.pdf
+	Historical
+
+	Table 3 hist-gauging.pdf
+	Historical gauging
+
+	Appendix A Service Constraints AECOM new logo.pdf
+	Service Constraints
+	1. Preliminary Findings
+	2. General
+	3. Purpose of Report
+	4. Scope of Services
+	5. Time
+	6. Conclusions
+
+
+	Attachment C Boring logs 4-08-10 MW-7 through MW-10.pdf
+	MW-7
+	MW-8
+	MW-9
+	MW-10
+
+
+
+

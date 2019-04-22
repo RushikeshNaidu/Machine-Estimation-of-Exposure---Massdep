@@ -1,0 +1,6382 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+TP/TOC
+
+
+ 
+
+ 
+REMSERV, Inc. / 35 Winthrop Street, Winchester, MA  01890 / 31 Hancock Drive, Bedford, NH  03110 
+
+781-721-4455 / FAX 781-721-4456 / www.remserv.com/remserv@remserv.com 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+IMMEDIATE RESPONSE ACTION (IRA) STATUS REPORT 
+ROUTE 16 GAS LLC 
+
+104 - 106 EAST MAIN STREET 
+MILFORD, MA 01757 
+
+RTN 2-17173 
+ 
+ 
+ 
+ 
+    PREPARED FOR: 
+
+Route 16 Gas LLC 
+205 Willow Street 
+Waltham, MA 02453 
+
+ 
+ 
+ 
+ 
+    PREPARED BY: 
+    Remediation & Environmental Management Services, Inc. 
+    35 Winthrop Street 
+    Winchester, MA 01890 
+    781-721-4455 
+ 
+    August 20, 2013 
+ 
+ 
+ 
+
+ 
+
+
+
+ 
+
+ 
+ 
+
+ 
+
+  
+REMSERV, Inc. / 35 Winthrop Street, Winchester, MA  01890 / 31 Hancock Drive, Bedford, NH  03110
+
+781-721-4455 / FAX 781-721-4456 / www.remserv.com/remserv@remserv.com 
+ 
+
+TABLE OF CONTENTS 
+ 
+Section Page 
+ 
+1.0  Introduction 3 
+2.0  Site Description 3 
+
+2.1  Abutting Property Usage 3 
+2.2  Potential Human and Environmental Receptors 4 
+2.3  Site History 4 
+
+3.0  Site Geology 4 
+3.1  Bedrock Geology 4 
+3.2  Hydrogeology 5 
+
+4.0  Release Description 5 
+4.1  Previous Releases 5 
+
+4.1.1  RTN 2-0854 5 
+4.1.2  RTN 2-15674 6 
+
+5.0  Immediate Response Actions (IRA) 6 
+5.1  Historic IRA Activities 7 
+
+5.1.1  Removal of Diesel from 6,000-Gallon Diesel UST 7 
+5.1.2  Monitoring Well Gauging 7 
+5.1.3  Separate Phase Petroleum Recovery 8 
+5.1.4  Monitoring Well Gauging Summary – October 12, 2012 to July 18, 2013 9 
+5.1.5  Separate Phase Petroleum Recovery Methodology 9 
+5.1.6  Groundwater Sampling 10 
+5.1.7  Utility Survey and Indoor Air Assessment 11 
+5.1.8  UST Removal 11 
+5.1.9  Diesel fuel UST records 12 
+5.1.10  2008 Soil Excavation 12 
+
+5.2  Recent IRA Activities 13 
+5.2.1  2012 Soil Excavation 14 
+
+6.0  Soil PID Screening Results 15 
+7.0  Confirmatory Soil Sample Analytical Results 16 
+
+7.1  Excavation A 16 
+7.2  Excavation B 17 
+7.3  Excavation C 19 
+
+8.0  Excavation Backfill Activities 20 
+9.0  Summary 21 
+10.0  References 21 
+ 
+
+
+
+ 
+
+IRA Status Report 
+104-106 East Main Street 
+
+Milford, MA 
+RTN 2-17173 
+
+8/20/13 
+Page 2 
+
+ 
+ 
+
+  
+REMSERV, Inc. / 35 Winthrop Street, Winchester, MA  01890 / 31 Hancock Drive, Bedford, NH  03110
+
+781-721-4455 / FAX 781-721-4456 / www.remserv.com/remserv@remserv.com 
+ 
+
+ 
+Tables 
+ 
+Table 1 – Monitoring Well Gauging Results 
+Table 2 – Product Recovery Volumes 
+Table 3 – 2012 Soil Excavation Analytical Results 
+ 
+Figures 
+ 
+Figure 1 – Site Locus 
+Figure 2 – Site Plan 
+Figure 3 – Groundwater Elevation Contours 
+ 
+Appendices 
+ 
+Appendix I – Liquid Waste Manifests  
+Appendix II – Bills of Lading 
+
+
+
+ 
+
+ 
+ 
+
+ 
+
+  
+REMSERV, Inc. / 35 Winthrop Street, Winchester, MA  01890 / 31 Hancock Drive, Bedford, NH  03110
+
+781-721-4455 / FAX 781-721-4456 / www.remserv.com/remserv@remserv.com 
+ 
+
+1.0 Introduction 
+ 
+Remediation & Environmental Management Services, Inc. (REMSERV, Inc.) has completed an IRA Status 
+Report for the property located at 104 - 106 East Main Street, Milford, MA on behalf of the property owner.  
+The IRA Status Report applies to Release Tracking Number (RTN) 2-17173, which the Massachusetts 
+Department of Environmental Protection (MassDEP) assigned to a sudden release of diesel fuel from an 
+underground storage tank (UST) located at the 104 - 106 East Main Street property.  The IRA Status Report 
+discusses the recently completed IRA soil excavation activities at the site for the purpose of source removal.   
+ 
+2.0 Site Description 
+ 
+The site is located at the northeast corner of the junction of Route 16 and 85 in the Town of Milford, MA at 
+Universal Transverse Mercator (UTM) coordinates 466932 mN and 292656 mE.  The property consists of an 
+approximately 0.417 acre parcel of land identified by the Milford Assessor’s Office as Parcel ID 42-0-261 
+(1).  The property was formerly operated as a petroleum dispensing station until retail operations were 
+suspended on July 20, 2008 following the identification of the diesel release.  On July 23 and 24, 2008 
+LaMountain Brothers of Oxford, MA (LaMountain) removed three (3) single wall fiberglass USTs (6,000-
+gallon diesel, 8,000-gallon super unleaded gasoline, and 10,000-gallon regular unleaded gasoline) and the 
+associated product piping from the site as part of Immediate Response Action (IRA) activities.  The 104 - 106 
+East Main Street property has been inactive since July 20, 2008.   
+ 
+The site is relatively flat at an elevation of approximately 285 feet above mean sea level according to the 
+National Geodetic Vertical Datum (Figure 1).  The majority of the site was asphalt-paved prior to IRA 
+activities associated with RTN 1-16282, with the exception of a landscaped island located in the southwest 
+corner of the property.  A top layer of loosely consolidated backfill forms the current ground cover above the 
+IRA excavation area described herein.  The portion of the site outside of the excavation area remains asphalt-
+paved.   
+ 
+The former station petroleum and concession sales building is located in the central area of the site.  A vacant 
+single-story structure, formerly used for automobile repairs, is located in the north of the site and is currently 
+utilized as a storage facility (Figure 2).  Two (2) former dispensing islands located in the southern portion of 
+the site were removed as part of MassDEP approved Immediate Response Action (IRA) excavation activities.  
+The petroleum dispensers were removed following the identification of the diesel release.   
+ 
+The site is located approximately 60 to 80 feet south and crossgradient of a MassDEP approved Zone II for 
+public drinking water supply protection for a public water production well located approximately 2,400 feet 
+northwest of the site (Figure 1).  According to a May 28, 2004 “Class A-2 Response Action Outcome – 
+Partial Statement / Class C Response Action Outcome Temporary Solution” produced by Delta 
+Environmental Consultants, Inc. for the release associated with RTN 2-0854, there are no private drinking 
+water wells located within 1,000 feet of the site (2). 
+ 
+2.1 Abutting Property Usage 
+ 
+The abutting property uses are noted as follows: 
+ 
+North:  Residential properties; 
+South:  East Main Street (Route 16) and assorted commercial use structures;   
+East:  Cedar Street (Route 85) and a petroleum refueling station and automotive repair facility; and 
+West: Residential properties. 
+ 
+
+
+
+ 
+
+IRA Status Report 
+104-106 East Main Street 
+
+Milford, MA 
+RTN 2-17173 
+
+8/20/13 
+Page 4 
+
+ 
+ 
+
+  
+REMSERV, Inc. / 35 Winthrop Street, Winchester, MA  01890 / 31 Hancock Drive, Bedford, NH  03110
+
+781-721-4455 / FAX 781-721-4456 / www.remserv.com/remserv@remserv.com 
+ 
+
+2.2 Potential Human and Environmental Receptors 
+ 
+The 104 - 106 East Main Street property is currently vacant, and therefore no employees of Route 16 Gas 
+LLC use the property on a regular basis.  The only potential human receptors would be those individuals who 
+are engaged in remediation activities at the site or individuals trespassing on the property. 
+ 
+Based on population statistics for July 2008 produced by the US Census Bureau, REMSERV, Inc. estimates 
+the population within one-half mile radius of the site to be 1,456 (3).  No institutions are located within a 500-
+foot radius of the site (Figure 1).   
+ 
+A potential environmental receptor, Cedar Swamp Pond, is located approximately 850 feet west of the site 
+(Figure 1).  According to the Massachusetts “Surface Water Quality Standards” (314 CMR 4.00) (4), Cedar 
+Swamp Pond is classified as a “Class B” surface water, meaning it is designated as a “a habitat for fish, other 
+aquatic life, and wildlife, and for primary and secondary contact recreation and where designated they “shall 
+be suitable as a source of public water supply with appropriate treatment” (4).  The site is not located within 
+500 feet of state, federal, and private protected open space, Areas of Critical Environmental Concern, Species 
+of Special Concern, Threatened or Endangered Species Habitat, Fish Habitats, or within 100 feet of wetlands, 
+certified vernal pools, or outstanding resource waters (Figure 1). 
+ 
+2.3 Site History 
+ 
+Based on findings published in an IEP, Inc. Phase I Limited Site Investigation Report prepared for the 106 
+East Main Street property on behalf of BP, REMSERV, Inc. has determined that the site was occupied by a 
+residence “prior to World War II”.  The site was operated as an automotive refueling station from that time 
+until August 28, 1961 when Gibbs Tire Depot, Inc purchased the property.  The buildings currently standing 
+at the site were built about 1968 (1).  The property was purchased by British Petroleum (BP) on June 16, 
+1981 and used primarily as a retail petroleum dispensing facility.  The property was then purchased by Gibbs 
+Oil Company Limited Partnership on April 1, 1991 and utilized similarly.  On September 26, 2005, the 
+property was purchased by its current owner, Route 16 Gas LLC. 
+ 
+The site buildings have a history of previously being heated with No. 2 fuel oil.  Two fuel oil USTs located 
+northeast of the sales kiosk, and one waste oil UST located west of the service garage, were removed in May 
+and June, 1989.  There is no documented contamination in the IEP, Inc. report as contained in the Milford 
+Fire Department records for the removal of the heating oil USTs or the waste oil UST. 
+ 
+3.0 Site Geology 
+ 
+A REMSERV, Inc. representative recorded soil conditions during the soil boring program conducted as part 
+of MassDEP -approved IRA activities associated with RTN 2-17173.  The site soil types consist of fine to 
+coarse sand, silt, and gravel.  Boring logs from REMSERV, Inc. subsurface exploration activities were 
+previously provided in in the April 3, 2012 REMSERV, Inc. Phase II CSA Report.  . 
+ 
+3.1 Bedrock Geology 
+ 
+According to the Bedrock Map of Massachusetts, the bedrock geology beneath the site has been identified as 
+part of the Milford-Dedham Zone (Tertiary and Older Rocks), specifically as part of the Blackstone Group 
+(Undivided) described as quartzite, schist, phyllite, marble, and metavolcanic rocks.  The site is 
+approximately 70 to 80 feet west of the contact with Milford Granite (Mafic phase) described as gray, seriate 
+to sub-porphyritic granite to granodiorite, mafic minerals tend to be in clots; locally gneissic intrudes 
+Blackstone Group (7).  Bedrock was not encountered during the REMSERV, Inc. subsurface investigation.   
+ 
+
+
+
+ 
+
+IRA Status Report 
+104-106 East Main Street 
+
+Milford, MA 
+RTN 2-17173 
+
+8/20/13 
+Page 5 
+
+ 
+ 
+
+  
+REMSERV, Inc. / 35 Winthrop Street, Winchester, MA  01890 / 31 Hancock Drive, Bedford, NH  03110
+
+781-721-4455 / FAX 781-721-4456 / www.remserv.com/remserv@remserv.com 
+ 
+
+3.2 Hydrogeology 
+ 
+On August 12, 2008 and July 14, 2009 REMSERV, Inc. conducted elevation surveys of monitoring wells 
+installed at the 104 - 106 East Main Street property and at off-property locations to the north, west, and south 
+(Figure 3).  Monitoring well elevations were used in conjunction with water table gauging values to estimate 
+ground water flow across the site.  Using water table gauging values acquired during the April 19, 2013 event 
+REMSERV, Inc. estimated ground water flow across the site trending in a south-southwesterly direction. 
+ 
+On June 18, 2013 the depths to ground water ranged from 7.27 (MW-9) to 9.08 (GP101-MW) feet below 
+ground surface.  Ground water elevations suggest an approximately southwestern ground water flow direction 
+at an approximate hydraulic gradient of 0.0071 feet/feet (Figure 3). 
+ 
+4.0 Release Description 
+ 
+On July 20, 2008 at 11:15, a representative of Route 16 Gas LLC notified the MassDEP of a 2-Hour reporting 
+condition when inventory discrepancies identified a release of diesel fuel from a 6,000-gallon UST.  On July 
+20, 2008 Mr. Robert Dunne of the MassDEP Central Region Office (CERO) arrived on site to observe site 
+conditions and to meet with representatives of Route 16 Gas, LLC.  Mr. Dunne delivered a field Notice of 
+Responsibility for the sudden release of diesel fuel, which constituted a 2-hour reporting condition under 
+MCP 310 CMR 40.0000.  The MassDEP subsequently assigned RTN 2-17173.  Inventory reconciliation 
+identified an approximately 15,000 gallon discrepancy in diesel fuel records. 
+ 
+Route 16 Gas, LLC currently owns and operated the station prior to the diesel release associated with RTN 2-
+17173.   
+ 
+4.1 Previous Releases 
+ 
+A review of the MassDEP “Reportable Site Look Up” website identified two previously reported petroleum 
+releases at the 104 - 106 East Main Street property (6). 
+ 
+4.1.1 RTN 2-0854 
+ 
+During activities associated with a Phase I Limited Site Investigation, Delta Environmental Consultants, Inc. 
+(Delta) of Westford, MA identified dissolved volatile and semi-volatile organic compounds petroleum in 
+ground water collected from on-site monitoring wells.  On March 13, 1991, the MassDEP was notified of the 
+suspected release and release-tracking number (RTN) 2-0854 was assigned.  On September 23, 1991, a 
+Notice of Responsibility (NOR) was issued to British Petroleum (BP), the owner and operator of the site.  
+The site was tier classified as a Tier II site on March 23, 1992 
+ 
+In 1997 BP Oil implemented a Release Abatement Measure (RAM) Plan to conduct soil vapor extraction and 
+air sparging remediation activities in an attempt to reduce the gasoline impacts to soil and ground water at the 
+site.  The remedial efforts focused on the areas along the western and southwestern areas (west and south of 
+the former USTs and dispenser) where the gasoline release impacts were observed to be greatest.    
+ 
+Early (1991 through 1995) ground water sampling and analyses consisted primarily of BTEX (benzene, 
+toluene, ethylbenzene and total xylene) testing.  Benzene and total xylene concentrations were identified in 
+MW-2 and MW-3 along the western property boundary, MW-4 along the southern property boundary and 
+HydroPunch HP-1. HP-2 and HP-3 surrounding the former USTs exceeded the current MassDEP Method 1 
+GW-2/GW-3 standards (Fugro Interim Phase II Comprehensive Site Assessment Report, September 1995). 
+ 
+Similarly, 1993 soil sampling conducted by Fugro identified elevated BTEX compounds  
+
+
+
+ 
+
+IRA Status Report 
+104-106 East Main Street 
+
+Milford, MA 
+RTN 2-17173 
+
+8/20/13 
+Page 6 
+
+ 
+ 
+
+  
+REMSERV, Inc. / 35 Winthrop Street, Winchester, MA  01890 / 31 Hancock Drive, Bedford, NH  03110
+
+781-721-4455 / FAX 781-721-4456 / www.remserv.com/remserv@remserv.com 
+ 
+
+On December 11, 2000, Delta submitted a Class A2 Response Action Outcome (RAO) Statement and a 
+Release Abatement Measure (RAM) Completion Statement.  Periodic ground water monitoring continued as 
+part of Post Class A2 RAO activities from December 2000 through May 2009.   
+ 
+The “Additional Phase II Field Activities; Method 3 Risk Characterization: and the Phase III Selection of 
+Comprehensive Remedial Response Action Alternatives Report” completed in October 2000 by Geologic 
+Services Corporation contains tabulated soil results for the gasoline impacted soils in the northwest, west and 
+southwest portions of the site.  The earlier soil analyses were only analyzed for BTEX as noted above.  Later 
+soil analyses in August 2000 included VPH.  The soil samples collected from the west and southwest portions 
+of the property that contained elevated readings from a photoionization detector (PID) included MW-1, (154 
+ppmv), MW-2 (192 ppmv), MW-8 (150 ppmv), SB-5 (645 ppmv), SB-6 (326 ppmv), SB-8 (492 ppmv), SB-9 
+(564 ppmv) and SB-10 (696 ppmv).  The italicized samples were analyzed.  If the sample IDs noted above 
+are “bolded”, this indicates that this sample is the highest PID reading and was not submitted for lab analyses.  
+In these cases, a sample with a significantly lower PID reading was analyzed.  The lower PID samples were 
+typically collected from a higher elevation within the boring above the contaminated zone.   
+ 
+4.1.2 RTN 2-15674 
+ 
+On April 4, 2005, the MassDEP was notified of a two-hour reporting condition that resulted from a spill of 
+approximately 70-75 gallons of gasoline as result of an overfill of an underground storage tank (UST) during 
+a scheduled refilling event at the 106 East Main Street property.  The MassDEP issued release-tracking 
+number (RTN) 2-15674 to J.P. Noonan Transportation, Inc. of West Bridgewater, MA. 
+ 
+Following the spill, an undetermined volume of gasoline flowed into a downgradient catch basin.  Clean 
+Harbors Environmental Services of Norwell, MA was called to the site and attempted to recover free 
+petroleum from several downgradient catch basins.  At the orders of the Milford Fire Department, the catch 
+basin was flushed at approximately 100 gallons per minute.  During flushing, a Clear Harbors vac truck 
+recovered water with a petroleum sheen from a down gradient catch basin.  No separate phase petroleum was 
+identified in any on-site monitoring wells and it was determined that there was no impact to site soils or 
+ground water.  On December 5, 2005, Clean Harbors submitted a Class A1 RAO Statement with the 
+MassDEP.   
+ 
+5.0 Immediate Response Actions (IRA)  
+ 
+On July 20, 2008 the MassDEP provided on-site oral IRA approval for the following activities: 
+  
+ Immediate removal of all diesel fuel from the leaking UST at the Site and recycle, reuse, or disposal of 
+
+the diesel fuel off-site at a licensed facility; 
+ Sample and gauge all monitoring wells that exist on the Site for the presence of diesel fuel and, if any is 
+
+found in the wells, remove diesel fuel and water for proper disposal/recycling off-site at a licensed 
+facility; 
+
+ Remove the diesel fuel UST and up to 500 cubic yards of diesel fuel contaminated soil for proper 
+disposal/recycling off-site at a licensed facility; 
+
+ Monitor all nearby residences and other underground structures for the presence of diesel fuel or its 
+volatile constituents; 
+
+ Provide all UST records that document testing or inventory measurements of the contents of the diesel 
+fuel UST; and 
+
+ Install recovery sump wells on the Site to recover diesel fuel and water for proper disposal/recycling off-
+site at a licensed facility. 
+
+ 
+
+
+
+ 
+
+IRA Status Report 
+104-106 East Main Street 
+
+Milford, MA 
+RTN 2-17173 
+
+8/20/13 
+Page 7 
+
+ 
+ 
+
+  
+REMSERV, Inc. / 35 Winthrop Street, Winchester, MA  01890 / 31 Hancock Drive, Bedford, NH  03110
+
+781-721-4455 / FAX 781-721-4456 / www.remserv.com/remserv@remserv.com 
+ 
+
+On September 18, 2008, REMSERV, Inc. submitted an IRA Plan to the MassDEP detailing the above 
+activities. 
+ 
+REMSERV, Inc. received oral-approval for modifications to MassDEP -approved IRA activities including:  
+ 
+ soil excavation volume increase to 1,000 yds³; and 
+ Dewatering activities for the purpose of excavation below the water table.  
+ 
+5.1 Historic IRA Activities 
+ 
+In accordance with the September 18, 2008 IRA Plan, REMSERV, Inc. has conducted or overseen the 
+following MassDEP -approved IRA activities associated with RTN 2-17173:   
+ 
+ Removal of remainder of diesel fuel from the 6,000 gallon leaking UST; 
+ Light non-aqueous phase liquid (LNAPL) gauging at site monitoring wells; 
+ Recovery of approximately 15,295 gallons of free-phase petroleum from the site; 
+ Utility vapor survey of all underground utilities in the vicinity of the site; 
+ Indoor air quality assessment at the 3 Cedar Street and 112 East Main Street properties; 
+ Removal of three (3) USTs (6,000 gallon diesel fuel UST, 8,000 gallon super unleaded gasoline UST and 
+
+10,000 gallon regular unleaded gasoline UST); 
+ Submittal of UST testing and inventory records for the diesel fuel UST;  
+ 2008 Excavation of petroleum-impacted soils; 
+ 2008 Transport of excavated soils to licensed asphalt-batch recycling facilities; 
+ Installation of thirteen (13) temporary monitoring wells (RW-1 through RW-8, RW-Q, RW-A, RW-B, 
+
+RW-C and RW-D) and three fixed-location recovery wells (RW-101, RW-102, RW-103); and 
+ Soil and ground water chemical testing. 
+ 
+5.1.1 Removal of Diesel from 6,000-Gallon Diesel UST 
+ 
+On July 21, 2008 JP Noonan of West Bridgewater, MA pumped approximately 830 gallons of diesel fuel 
+from the 6,000-gallon diesel UST and transported it for use at another petroleum dispensing station operated 
+by the PRP. 
+ 
+5.1.2 Monitoring Well Gauging  
+ 
+On July 20, 2008 monitoring wells were gauged upon discovery of a release of diesel fuel at the property.  
+The monitoring wells had been installed by a previous owner/operator during assessment of a gasoline release 
+reported to the MassDEP in 1991, the assessment of which is continuing under a Class C Response Action 
+Outcome (RAO).  The initial gauging identified the greatest volumes of LNAPL in MW-1, MW-2 and VE-5 
+(Figure 2).   
+ 
+REMSERV, Inc. utilized a Heron H.01L oil-water interface probe to gauge depth to ground water and to 
+identify the presence of separate phase petroleum.  REMSERV, Inc. confirms the presence of product using a 
+clear PVC bailer.  The results of post-excavation gauging events have been tabulated and summarized in 
+Table 1.  REMSERV, Inc. currently gauges the following wells as part of IRA activities conducted since July 
+21, 2008 (Figure 2):  
+
+
+
+ 
+
+IRA Status Report 
+104-106 East Main Street 
+
+Milford, MA 
+RTN 2-17173 
+
+8/20/13 
+Page 8 
+
+ 
+ 
+
+  
+REMSERV, Inc. / 35 Winthrop Street, Winchester, MA  01890 / 31 Hancock Drive, Bedford, NH  03110
+
+781-721-4455 / FAX 781-721-4456 / www.remserv.com/remserv@remserv.com 
+ 
+
+On Property Wells 
+ 
+
+Previously Installed GP100-Series GP300-Series Recovery Wells 
+VE-2 GP101-MW GP302-MW RW-101 
+MW-4 GP104-MW GP303-MW RW-102 
+MW-5 GP105-MW GP304-MW RW-103 
+MW-6 GP109-MW GP305-MW  
+MW-16 GP111-MW GP306-MW  
+ GP112-MW GP307-MW  
+
+ 
+ 
+Off Property wells  
+ 
+
+Previously Installed 3 Cedar Street 
+MW-201 GP201-MW 
+MW-202 GP202-MW 
+MW-202D GP203-MW 
+MW-8 GP204-MW 
+MW-9 GP205-MW 
+ GP206-MW 
+ GP206-MW 
+
+ 
+The results of gauging events which have taken place between January 9, 2012 and October 11, 2012 have 
+been discussed in the previous IRA Status Report Dated October 11, 2012, and they are summarized on Table 
+1.  This report will discuss IRA activities which have taken place between October 12, 2012 and April 19, 
+2013.  REMSERV, Inc. has gauged off property monitoring wells located on the west side of Route 85, south 
+of Route 16, and on the 3 Cedar Street property to the north to assess the potential off-property migration of 
+diesel fuel.  REMSERV, Inc. has not identified LNAPL at a detectable thickness in any of the off-property 
+monitoring wells from October 12, 2012 and April 19, 2013.   
+ 
+5.1.3 Separate Phase Petroleum Recovery 
+ 
+The diesel recovery program consists of three methodologies.  The combined recovered volume of diesel fuel 
+to date as a result of these three activities is approximately 15,295 gallons. 
+ 
+Vac Truck Recovery  
+ 
+From July 20 to August 13, 2008 diesel fuel was recovered from the monitoring wells and temporary 
+recovery well locations by use of vacuum trucks supplied by TMC Services, Inc. of Bellingham, MA.  The 
+greatest volumes were recovered initially following the release discovery using two vacuum trucks provided 
+by TMC Services of Bellingham, MA.  The vacuum truck recovery efforts consisted of removing LNAPL 
+from within the diesel UST by “vacuuming” the diesel product as it recharged through the hole at the base of 
+the UST.  Following the UST removal, one of the vac trucks was assigned to recover diesel fuel from the 
+excavation created by the removal of the 6,000 gallon diesel UST as well as two adjacent 10,000 gallon 
+gasoline USTs.  The second vac truck was dedicated to diesel fuel recovery from the northern edge of the 
+UST mat in MW-1 and along the western property boundary along Route 85 (Cedar Street) in VE-4 through 
+6, MW-2, MW-3, GP105-MW, RW-1, and RW-3 through 5.   
+ 
+From July 20 to August 13, 2008 the vac truck method recovered approximately 15,251 gallons of product. 
+
+
+
+ 
+
+IRA Status Report 
+104-106 East Main Street 
+
+Milford, MA 
+RTN 2-17173 
+
+8/20/13 
+Page 9 
+
+ 
+ 
+
+  
+REMSERV, Inc. / 35 Winthrop Street, Winchester, MA  01890 / 31 Hancock Drive, Bedford, NH  03110
+
+781-721-4455 / FAX 781-721-4456 / www.remserv.com/remserv@remserv.com 
+ 
+
+Manual Gauging and Bailing 
+ 
+Since July 20, 2008 REMSERV, Inc. staff, TMC and LaMountain field personnel, and a representative of 
+Route 16 GAS LLC have gauged and hand bailed separate phase product from monitoring and recovery wells 
+located at the site (Figure 2).  From July 21 to November 26, 2008 bailed petroleum was placed in on-site frac 
+tanks.  On November 26, 2008 the on-site frac tanks were emptied of all remaining liquids by United 
+Industrial Service of Stoughton, MA (United Industrial) vac trucks.  On December 5, 2008 the two on-site 
+frac tanks were cleaned by United Industrial in preparation for removal from the site.  LaMountain removed 
+the frac tanks on December16, 2008.  All petroleum recovered since the frac tank removal has been 
+transported off-site for use in a waste-oil heater located at another petroleum dispensing station operated by 
+the PRP.   
+ 
+Passive Product Recovery Canisters 
+ 
+On August 26, 2008 REMSERV, Inc. deployed five (5) Keck Passive Recovery Canisters (PRCs) in VE-4, 
+MW-3, VE-5, GP105-MW, RW-4, VE-6 and/or RW-5 (Figure 2).  The PRCs have different reservoir 
+volumes depending on the depths and screened length of the deployment locations.  The PRCs were checked 
+for product weekly, emptied into the frac tank, and redeployed during the period between August 26, 2008 
+and November 13, 2008.  The PRCs were removed from service from November 13, 2008 to December 16, 
+2008 during additional soil excavation activities.   
+ 
+On December 16, 2008 the PRCs were deployed in the newly installed recovery wells RW101, RW102, and 
+RW103 (Figure 2).  REMSERV, Inc. has accessed and emptied the four deployed PRCs during gauging and 
+recovery events conducted on December 16, 2008, January 14, February 12, April 16, May 12, June 9, and 
+July 14, September 4, October 9, December 8, 2009. January 28, February 26, March 12, April, 14, May 13, 
+July 2, August 9, October 18, October 20, November  2, 2010, January 11, March 14, April 15, July 21, 
+November 2, 2011 and January 9, 2012 (Table 2).   
+ 
+5.1.4 Monitoring Well Gauging Summary – October 12, 2012 to July 18, 2013 
+ 
+REMSERV, Inc. has conducted five (5) ground water gauging events at the site during the reporting period 
+between October 12, 2012 and July 18, 2013 (October 31, 2012, November 29, 2012, November 30, 2012, 
+April 19, 2013 and July 18, 2013).  The ground water gauging results are summarized in Table 1.   
+ 
+The ground water gauging events have identified measurable thicknesses of LNAPL in the following 
+monitoring and/or recovery wells using the Heron interface probe.  The interface probe readings were verified 
+using a product bailer when readers exceeded 0.01 feet.  Table 1 lists LNAPL thicknesses measured by both 
+the interface probe and the bailer.  The following monitoring wells indicated the presence of LNAPL by the 
+interface probe: 
+ 
+
+ RW-101 on November 29, 2012 (<0.1 ft.); 
+ RW-104 on November 29, 2012 (<0.01 ft.); 
+ GP111-MW on November 30, 2012 (<0.01 ft); and 
+ GP201-MW on October 31, 2012 (<0.01 ft.). 
+
+ 
+The above measurable thicknesses have been succeeded by non-measurable separate phase conditions. 
+ 
+5.1.5 Separate Phase Petroleum Recovery Methodology 
+ 
+Since July 20, 2008 REMSERV, Inc. staff, TMC and LaMountain field personnel, and a representative of 
+Route 16 Gas LLC have gauged and manually bailed separate phase product from monitoring and recovery 
+
+
+
+ 
+
+IRA Status Report 
+104-106 East Main Street 
+
+Milford, MA 
+RTN 2-17173 
+
+8/20/13 
+Page 10 
+
+ 
+ 
+
+  
+REMSERV, Inc. / 35 Winthrop Street, Winchester, MA  01890 / 31 Hancock Drive, Bedford, NH  03110
+
+781-721-4455 / FAX 781-721-4456 / www.remserv.com/remserv@remserv.com 
+ 
+
+wells located at the site (Figure 4).  From July 21 to November 26, 2008 bailed petroleum was placed in on-
+site frac tanks.  On November 26, 2008 the on-site frac tanks were emptied of all remaining liquids by United 
+Industrial Service of Stoughton, MA (United Industrial) vac trucks.  On December 5, 2008 the two on-site 
+frac tanks were cleaned by United Industrial in preparation for removal from the site.  LaMountain removed 
+the frac tanks on December 16, 2008.  Recovered petroleum is currently stored on site in a covered and bolted 
+55-gallon drum located atop a spill containment tray.  During gauging and recovery events, the Keck Passive 
+Product Recovery Canisters (PRCs) are checked for product, emptied into a 55-gallon drum and redeployed.    
+Recovered petroleum is intermittently transported off-site for use in a waste-oil heater located at another 
+petroleum dispensing station operated by the PRP.   
+ 
+Passive Product Recovery Canisters 
+ 
+On November 2, 2011 two PRCs (PRC4 and PRC-5) were deployed in RW-101 (Figure 2).  The PRCs have 
+varying reservoir volumes depending on the individual canister diameter and length.  The two PRCs installed 
+in RW-101 have a smaller capacity reservoir and can therefore be placed at a lower elevation within the 
+recovery well column.  One PRC each was deployed in RW-102 (PRC-2), RW-103 (PRC-3) and GP303-MW 
+(PRC-6).   
+ 
+On January 9, 2012, two PRCs were deployed in RW-101 (PRC4 and PRC-5).  One PRC each was deployed 
+in RW-102 (PRC-2), RW-103 (PRC-3) and GP303-MW (PRC-6).   
+ 
+On July 31, 2012, the PRCs were all removed from their respective wells and their product was emptied into 
+the 55-gallon drum and the canisters were left out of their respective wells overnight.  Only canister PRC-6 
+was deployed in GP105-MW. 
+ 
+On August 1, 2012, two PRCs were deployed in RW-101(PRC4 and PRC-5).  One PRC each were deployed 
+in RW-102 (PRC-2), RW-103 (PRC-3) and GP105-MW (PRC-6). 
+ 
+Following the completion of each gauging event REMSERV, Inc. removed and emptied each PRC of its 
+contents.  Prior to redeploying the PRCs, REMSERV, Inc. staff gauged each well over an approximately 45 
+minute period to check each well for LNAPL recharge.      
+ 
+Separate Phase Petroleum Recovery Summary – January 2012 to October 2012 
+ 
+REMSERV, Inc. conducted three (3) petroleum recovery events at the site between January 2012 and 
+October 2012 (January 09, 2012, July 31, 2012, and August 1, 2012).  During the three events a REMSERV, 
+Inc. representative emptied any product recovered by the PRCs and conducted product recovery via manual 
+bailing, if necessary.   
+ 
+On January 9, 2012, approximately 0.8 liters of petroleum were recovered from RW-101 while less than 0.1 
+liters were recovered from the other wells.  On July 31, 2012, 0.074 liters were recovered from RW-101 
+while less than 0.1 liters were recovered from the other wells.  On August 1, 2012, less than 0.1 liters were 
+recovered from GP105-MW, and it was the only canister which had been deployed the previous day. 
+  
+The product recovery volumes for these events have been summarized on Table 2. 
+ 
+5.1.6 Groundwater Sampling 
+ 
+Monitoring wells were not sampled for laboratory analytical testing between October 12, 2012 and June 18, 
+2013. 
+ 
+
+
+
+ 
+
+IRA Status Report 
+104-106 East Main Street 
+
+Milford, MA 
+RTN 2-17173 
+
+8/20/13 
+Page 11 
+
+ 
+ 
+
+  
+REMSERV, Inc. / 35 Winthrop Street, Winchester, MA  01890 / 31 Hancock Drive, Bedford, NH  03110
+
+781-721-4455 / FAX 781-721-4456 / www.remserv.com/remserv@remserv.com 
+ 
+
+5.1.7 Utility Survey and Indoor Air Assessment 
+ 
+On July 21 and 31, 2008 REMSERV, Inc. conducted a utility vapor survey that included sanitary and storm 
+water sewer manholes and catch basins located within the Cedar Street (Route 85) and East Main Street 
+(Route 16) roadways in the vicinity of the site.  REMSERV, Inc. recorded total volatile organic compound 
+(TVOC) readings using a Thermoelectron 580B photoionization detector (PID).  REMSERV, Inc. also 
+gauged sanitary and storm water sewer systems for the presence of light non-aqueous phase liquid (LNAPL) 
+with a Solinst Interface Probe paired with a polyethylene bailer.     
+ 
+During both utility survey events REMSERV, Inc. did not identify elevated PID readings in any of the utility 
+systems surveyed.  On July 31, 2008 a REMSERV, Inc. representative and Mr. Michael Santora of the 
+Milford Engineering Department located and observed the storm sewer system discharge location 
+downstream of the site.  The REMSERV, Inc. representative did not identify the presence of LNAPL using 
+the Solinst Interface Probe nor did they observe a visible sheen on the storm water surface or on surface 
+waters located downstream of the discharge location.    
+ 
+Indoor Air Assessment – 3 Cedar Street and 112 East Main Street 
+ 
+On July 21 and 31, 2008 REMSERV, Inc. conducted an indoor air survey at the 3 Cedar Street and 112 East 
+Main Street residences abutting the 106 East Main Street property to the north and east, respectively.  The 
+REMSERV, Inc. representative was accompanied by representatives of the Milford Fire Department during 
+each indoor air survey event.  REMSERV, Inc. screened the indoor air of each residence using a 
+Thermoelectron 580B PID and made visual observations that included the basement floor construction, the 
+presence of floor penetrations including floor sumps and/or drains, evidence of basement flooding as a result 
+of high water table conditions, as well as any visual or olfactory evidence of diesel fuel impacts from the 
+adjacent property.  REMSERV, Inc. did not identify TVOC readings elevated above the minimum detection 
+limits of the PID in either residence.  REMSERV, Inc. did not observe any visual or olfactory evidence of 
+petroleum impact to either residence.  REMSERV, Inc. did not observe the presence of floor penetrations 
+(sumps or drains) indicative of basement flooding as a result of high water table conditions.   
+ 
+5.1.8 UST Removal  
+ 
+On July 23, 2008 LaMountain excavated the 6,000-gallon single-wall fiberglass diesel UST.  On July 23 and 
+July 24, 2008 LaMountain excavated the 8,000-gallon single-wall fiberglass super unleaded gasoline UST 
+and the 10,000-gallon single-wall fiberglass regular unleaded UST.  Associated double-wall fiberglass 
+product piping was also excavated as part of the UST removal activities. 
+ 
+As part of the UST removal event, LaMountain excavated nine (9) test pits to identify the potential extent of 
+the diesel UST release (Figure 2).  REMSERV, Inc. collected soil samples from each test pit for jar-
+headspace field screening and laboratory analyses.  REMSERV, Inc. collected nine (9) soil samples from the 
+test pit program and submitted them to Alpha Analytical Laboratories of Westborough, MA (Alpha) for 
+analysis according to the MassDEP Volatile Petroleum Hydrocarbon (VPH) and Extractable Petroleum 
+Hydrocarbon (EPH) Methods.  Laboratory analytical results and data sheets have been previously provided in 
+the April 3, 2012 REMSERV, Inc. Phase II CSA Report.   
+ 
+Test Pit Analytical Results 
+ 
+The test pit soil analytical results identified the greatest VPH and EPH Method fraction concentrations in TP-
+2, TP-3, TP-4, and TP-5 in the immediate vicinity of the initial UST excavation (Figure 2).  Soil samples 
+were collected between nine (9) and 13.5 feet below ground surface.  Three test pits advanced to the east of 
+the excavation (TP-6, TP-7, and TP-9) did not exhibit EPH Method fractions or target analytes at 
+
+
+
+ 
+
+IRA Status Report 
+104-106 East Main Street 
+
+Milford, MA 
+RTN 2-17173 
+
+8/20/13 
+Page 12 
+
+ 
+ 
+
+  
+REMSERV, Inc. / 35 Winthrop Street, Winchester, MA  01890 / 31 Hancock Drive, Bedford, NH  03110
+
+781-721-4455 / FAX 781-721-4456 / www.remserv.com/remserv@remserv.com 
+ 
+
+concentrations indicative of potential impact due to the diesel UST release.  Test pit TP-1, advanced at the 
+southwest corner of the 106 E. Main Street property exhibited low concentrations of VPH and EPH fractions 
+and target analytes. 
+ 
+5.1.9 Diesel fuel UST records 
+ 
+The MassDEP obtained inventory records from the Route 16 Gas, LLC representative present at the site 
+during the initial emergency response activities.   
+ 
+5.1.10 2008 Soil Excavation 
+ 
+LaMountain excavated approximately 175 yd³ of petroleum impacted soils during the UST removal and test 
+pit activities.  On July 29, 2008 LaMountain transported approximately 138 yds³ to Ted Ondrick Company of 
+Chicopee, MA (Ted Ondrick) for asphalt batch processing under the BWSC-012 Bill of Lading (BOL).  On 
+October 20, 2008 the remaining volume of soils generated during the UST removal and test pit activities 
+(approximately 36.74 yds³) was transported to Ted Ondrick under the BOL.   
+ 
+Recovery Well Installations 
+ 
+During the test pit and UST removal activities LaMountain installed eight (8) recovery wells at the site 
+consisting of 12 to 18 inch diameter black ADS polyethylene piping cross-drilled to allow for 
+groundwater/product recovery.  The recovery wells were installed at locations where monitoring wells and 
+vapor extraction wells indicated the greatest diesel fuel volumes present.  The recovery wells were installed 
+between two (2) and four (4) feet below the water table. 
+ 
+Soil Excavation Event – November to December 2008 
+ 
+From November 18 through December 8, 2008, a REMSERV, Inc. representative observed Regional 
+Industrial Services (RIS) of Bellingham, MA in conjunction with Framingham Excavating of Ashland, MA 
+excavate petroleum contaminated soils in the former UST excavation, along the western property boundary 
+and along the northern property boundary (Figure 2).  RIS installed large-diameter dewatering wells in the 
+southwest and the northeast corners of the proposed excavation area in order to allow for excavation of soils 
+below the water table.  Dewatering pumps were installed in the recovery wells and discharged to the two on-
+site fractionation tanks provided by La Mountain.  From November 20 through November 26, a total of 
+32,135 gallons of petroleum impacted water from the fractionation tanks were removed via vac truck and 
+transported off-site for treatment by United Industrial Services of Meriden, CT to Environmental Compliance 
+Corporation of Stoughton, MA or United Oil Recovery of Meriden, CT under Hazardous Waste Manifest.   
+ 
+Soils were excavated to an approximate depth of 14 to 15 feet except for the location of the UST mat in the 
+northeast excavation corner, which was excavated to approximately 11 feet below ground surface.  
+Petroleum-impacted soils excavated on November 20 and 21, 2008 were stockpiled on six (6) mm 
+polyethylene sheeting in the southwest corner of the property along with previously excavated soils. 
+ 
+REMSERV, Inc. extended the eastern boundary of the excavation trench adjacent to the sales kiosk.  Soils 
+excavated from November 26 through December 1, 2008 to a depth of between 14 and 15 feet below ground 
+surface were stockpiled south of the sales kiosk.  The eastern extent of the excavation was terminated when it 
+was determined that any further excavation may compromise the foundation of the sales kiosk and/or 
+destabilize soils beneath the fractionation tank (Figure 2). 
+
+
+
+ 
+
+IRA Status Report 
+104-106 East Main Street 
+
+Milford, MA 
+RTN 2-17173 
+
+8/20/13 
+Page 13 
+
+ 
+ 
+
+  
+REMSERV, Inc. / 35 Winthrop Street, Winchester, MA  01890 / 31 Hancock Drive, Bedford, NH  03110
+
+781-721-4455 / FAX 781-721-4456 / www.remserv.com/remserv@remserv.com 
+ 
+
+ 
+2008 Soil Transport for Off-site Asphalt-Batch Recycling  
+ 
+On December 3 and December 8, 2008, 1,176.86 tons (approximately 784.58 yards3) of petroleum-impacted 
+soil from the additional excavation activities conducted from November 18 to December 1, 2008 were 
+transported under the BWSC-012 Bill of Lading (BOL) by Sam’s Transportation of Georgetown, MA to 
+Aggregate Recycling Corporation of Eliot, ME. 
+ 
+REMSERV, Inc. did not collect confirmatory samples from the excavation side-walls during 2008 excavation 
+activities as the extent of contamination had been previously established during the August 2008 soil boring 
+event detailed in Section 5.0.  Confirmatory samples from the excavation floor could not be collected due to 
+the presence of ground water within the excavation trench.  Confirmatory samples from within the excavation 
+area were discussed in greater detail in previous IRA status reports, and are detailed in Section 5.0 of this 
+report.  
+ 
+2008 Excavation Backfill Activities 
+ 
+From November 21 through December 4, 2009 REMSERV, Inc. observed as RIS and Framingham 
+Excavating backfilled the excavation with “virgin” fill provided by McIntyre Loam Company of Hopkinton, 
+MA.  On November 21, 2008, the southwest portion of the trench was backfilled to within four (4) feet of site 
+grade in order to provide access for continued excavation activities in the north and east sections of the 
+trench.  On November 25, 2008, the north section of the trench was backfilled to within four feet of surface 
+grade.  The remainder of the excavation trench was backfilled between November 26 and December 2, 2008. 
+ 
+Following backfilling activities, four-foot diameter concrete risers housing man-hole covers were installed 
+around three (3) of the eight (8) recovery wells (RW101 to RW103).  
+ 
+On December 24, 2008, an eight-inch layer of reground asphalt (“Mac-Pack”) provided by McIntyre Loam 
+Co. was placed at ground surface.  The reground asphalt was compacted to a thickness of six-inches using the 
+front-end loader and the bucket of the excavator. 
+ 
+Completion of 2008 Excavation Activities 
+ 
+On December 16, 2008, a REMSERV, Inc. representative returned to the site and removed petroleum 
+absorbent “socks” and hay bales which had been placed within the perimeter of the property.  The absorbent 
+materials were sealed in 55-gallon drums and disposed of by Pro-Tech Automotive of Waltham, MA.  The 
+hay bales have been stockpiled atop six (6) mil polyethylene sheeting and covered with polyethylene sheeting 
+to await disposal. 
+ 
+On December 16, 2008, LaMountain removed the two (2) on-site frac tanks and the temporary fence that had 
+been placed around the property during excavation activities.  Field and lab analytical results have been 
+discussed in previous IRA Status Reports. 
+ 
+5.2 Recent IRA Activities 
+ 
+REMSERV, Inc. filed an “IRA Addendum No. 1” dated October 04, 2011 for the removal of the attendant 
+building, dewatering, excavation and off-site recycling of approximately 250 yd3 of soils.  The soils and 
+petroleum were remnant from the 2008 soil excavation activities and were a continuing source of separate 
+phase petroleum in recovery wells RW101 through RW103 immediately west of the building.   
+ 
+
+
+
+ 
+
+IRA Status Report 
+104-106 East Main Street 
+
+Milford, MA 
+RTN 2-17173 
+
+8/20/13 
+Page 14 
+
+ 
+ 
+
+  
+REMSERV, Inc. / 35 Winthrop Street, Winchester, MA  01890 / 31 Hancock Drive, Bedford, NH  03110
+
+781-721-4455 / FAX 781-721-4456 / www.remserv.com/remserv@remserv.com 
+ 
+
+On October 30, 2012 REMSERV, Inc. filed an October 30, 2012 “IRA Plan Addendum No. 2” seeking 
+MassDEP approval for the excavation of an additional 200 cubic yards of petroleum impacted soil for 
+removal.   
+ 
+5.2.1 2012 Soil Excavation 
+ 
+In March 2012 Macone Brothers, Inc. demolished the kiosk building to permit access to the underlying soils.  
+From October 1 through 11, 2012, REMSERV, Inc. representatives observed Macone Brothers, Inc. of 
+Sudbury, MA excavate petroleum contaminated soils from beneath the former kiosk location and from two 
+areas along the western property boundary with Cedar Street (Figure 2).  Soils were removed from 
+Excavations A, B and C as shown on Figure 2 to an approximate depth of fifteen (15) feet.  As previously 
+mentioned, the soils at these locations were the source of separate phase petroleum identified in recovery 
+wells and monitoring wells located within or adjacent to these areas.  Petroleum-impacted soils were 
+stockpiled on six (6) millimeter polyethylene sheeting in the south central portion of the property.  A 
+REMSERV, Inc. representative assessed soils as they were excavated for the visual and olfactory presence of 
+petroleum hydrocarbons.  Soil samples were field screened by a photoionization detector (PID) and are 
+discussed in Section 6.0.  Between October 1 and November 30, 2012 approximately 707 tons of impacted 
+soil was transported off site for recycling to Aggregate Recycling Corporation in Eliot, ME.  Dewatering 
+pumps were installed various locations during excavation and discharged to an on-site fractionation tanks 
+located along the southern property boundary.  Throughout the excavation approximately forty-five thousand 
+(45,000) gallons of ground water was discharged from the subsurface, containerized and transported off-site 
+to New Stream, LLC in Attleboro, MA.   
+ 
+Excavation A 
+ 
+Excavation A soils were the source of LNAPL identified in monitoring wells RW-101.  Between October 1 
+and October 5, 2012 dewatering and excavation activities took place to determine the northeastern and 
+southern extents of contamination beneath the former kiosk.  Excavation A encompassed an approximately 
+1,126 square foot area to an approximate depth of sixteen (16) feet below ground surface (Figure 2).  
+Dewatering was achieved by permanent recovery well RW-101 and by varying the locations four (4) 
+temporary dewatering wells (RW-Q, RW-A, RW-B and RW-C).  One hundred seventy-eight (178) cubic 
+yards (263.38 tons) was transported off site to Aggregate Recycling Company of Eliot, ME.  Monitoring well 
+GP304-MW was destroyed during Excavation A.   
+ 
+Excavation B 
+ 
+Soils located in Excavation B were the source of LNAPL contamination identified in GP-109, GP-111 and 
+GP-112.  Excavation B was advanced between October 9 and 10, 2012 in the southwest corner of the site 
+along Cedar Street.  Dewatering well RW-A installed and pumped at a rate of 2.5 gallons per minute (gpm) to 
+lower the water table in this area.  Excavation B encompassed approximately 735 square feet to an 
+approximate depth of fifteen (15) feet below ground surface.  Soils removed from the excavation were 
+stockpiled into three piles based color and PID reading.  The excavation began in the southern corner and 
+extended northwards.  The south end of the excavation was backfilled within two feet of site grade in order to 
+better stabilize the excavation sidewalls.  Monitoring well MW-305 was destroyed during excavation of 
+Excavation B.  Temporary dewatering well RW-A was pulled before the south end of the excavation was 
+backfilled and RW-C was installed in the north end of the trench to continue dewatering activities as 
+excavation was advanced at Excavation C.   
+
+
+
+ 
+
+IRA Status Report 
+104-106 East Main Street 
+
+Milford, MA 
+RTN 2-17173 
+
+8/20/13 
+Page 15 
+
+ 
+ 
+
+  
+REMSERV, Inc. / 35 Winthrop Street, Winchester, MA  01890 / 31 Hancock Drive, Bedford, NH  03110
+
+781-721-4455 / FAX 781-721-4456 / www.remserv.com/remserv@remserv.com 
+ 
+
+ 
+Excavation C 
+ 
+On October 11, 2012 dewatering well RW-D was installed in Excavation C and pumped at rate of 
+approximately ten (10) gpm.  Macone Brothers advanced a twenty (20) foot wide by twenty-two (22) foot 
+long excavation in the north west corner of the site.  Backfill activities continued at from the south end of 
+Excavation B.  Dewatering continued from RW-102 during Excavation C.  Monitoring well GP-303 was 
+destroyed during Excavation C activities.   
+ 
+6.0 Soil PID Screening Results 
+ 
+REMSERV, Inc. collected thirty one samples from Excavation A and B during the October 10 to 12, 2012 
+soil excavation event.  Eight (8) samples were collected from Excavation A, eight (8) samples were collected 
+from Excavation B, ten (10) samples were collected from Excavation C and five (5) samples were collected 
+from Stockpile B (Figure 2).  Soil samples were field screened using the MassDEP jar-headspace method for 
+Total Volatile Organic Compounds (TVOCs) using a Phocheck® Tiger photoionization detector (PID) 
+equipped with a 10.6eV ultraviolet source calibrated to a 100 ppmv isobutylene standard.  The PID was 
+calibrated to an isobutylene standard and was programmed to read in benzene equivalents using the 
+manufacturer’s recommended benzene response factor.  Sample locations can be found on Figure 2 and PID 
+screening results have been summarized on Table 3.  PID readings from the 2012 excavations are as follows: 
+
+ 
+ Excavation A 
+
+ 
+o TP 102 S1 12.5’ (15.5 ppmv); 
+o SS-1 16’ (22.4 ppmv); 
+o NE FACE 13.5' (367.5 ppmv); 
+o SE FACE 15' (1.5 ppmv); 
+o BOT 16' (60.7 ppmv); 
+o N FACE 15' (153.8 ppmv); 
+o NW FACE 15' (64.7 ppmv); and 
+o SW FACE 15' (355.2 ppmv). 
+
+ 
+ Excavation B 
+
+ 
+o CS1 13-14' (118.6 ppmv); 
+o CS2 13-14' (10.1 ppmv); 
+o CS3 13' (3.4 ppmv); 
+o CS4 12' (2.5 ppmv); 
+o CS5 14' (3.2 ppmv); 
+o CS6 15' (75.9 ppmv); 
+o CS7 15' (377.6 ppmv); and 
+o CS8 15' (4.0 ppmv).  
+
+ 
+ Excavation C 
+
+ 
+o CS9 15’ (17.7ppmv); 
+o CS10 13.5' (33.3 ppmv); 
+o CS13 14' (371.4 ppmv); 
+o CS15 14' (188.5 ppmv); and 
+o CS18 14' (111.1 ppmv).  
+ 
+
+
+
+ 
+
+IRA Status Report 
+104-106 East Main Street 
+
+Milford, MA 
+RTN 2-17173 
+
+8/20/13 
+Page 16 
+
+ 
+ 
+
+  
+REMSERV, Inc. / 35 Winthrop Street, Winchester, MA  01890 / 31 Hancock Drive, Bedford, NH  03110
+
+781-721-4455 / FAX 781-721-4456 / www.remserv.com/remserv@remserv.com 
+ 
+
+ Stockpile B 
+ 
+
+o 2S-North (219.6 ppmv); 
+o 2S-East (95.1 ppmv); 
+o 2S-South (254.4 ppmv); 
+o 2S-West (181.1 ppmv); and 
+o 2S-Top (360.7 ppmv). 
+
+ 
+7.0 Confirmatory Soil Sample Analytical Results 
+ 
+Sixteen soil samples collected from the floor and sidewalls of the excavations were containerized and 
+submitted to Alpha Analytical Laboratories of Westborough, MA for MassDEP Volatile Petroleum 
+Hydrocarbon (VPH) and Extractable Petroleum Hydrocarbon (EPH) Analytical Methods.  Sample locations 
+can be found on Figure 2. Laboratory analytical data sheets for the October 10, 2012 sampling have been 
+submitted as part of the October, 11, 2012 IRA Status Report and are subsequently being omitted from this 
+report.   
+ 
+7.1 Excavation A 
+ 
+Soil samples TP 102 S1 12.5’, SS-1 16’, NE FACE 13.5', SE FACE 15', BOT 16', N FACE 15', NW FACE 
+15' and SW FACE were submitted from Excavation A for MassDEP Method VPH and EPH fractions and 
+target analyses. The analytical results identified the following in Excavation A: 
+ 
+VPH Fractions 
+ 
+
+ C5 to C8 Aliphatics in TP 102 S1 12.5’ (3.22 mg/kg), SS-1 16’ (4.2 mg/kg), NE FACE 13.5' (99.2 
+mg/kg), BOT 16’ (5.08 mg/kg), N FACE 15’ (9.83 mg/kg), NW FACE 15’ (5.67 mg/kg) and SW 
+FACE 15' (49.6 mg/kg); 
+
+ C9 to C12 Aliphatics in TP 102 S1 12.5’ (7.06 mg/kg), SS-1 16’ (18.8 mg/kg), NE FACE 13.5' (302 
+mg/kg), BOT 16’ (15.8 mg/kg), N FACE 15’ (65.1 mg/kg), NW FACE 15’ (31.2 mg/kg) and SW 
+FACE 15' (251 mg/kg); and 
+
+ C9 to C10 Aromatics in TP 102 S1 12.5’ (9.24 mg/kg), SS-1 16’ (30.7 mg/kg), NE FACE 13.5' (432 
+mg/kg), BOT 16’ (30.3 mg/kg), N FACE 15’ (80.8 mg/kg), NW FACE 15’ (46.7 mg/kg) and SW 
+FACE 15' (295 mg/kg). 
+
+ 
+Bolded values indicate VPH fraction concentrations that exceed MassDEP Method 1 S-1 standards.  No other 
+VPH fractions were identified at concentrations exceeding laboratory method detection limits.  
+ 
+VPH Target Analytes 
+ 
+
+ Ethylbenzene in SS-1 16’ (0.196 mg/kg), NE FACE 13.5’ (10 mg/kg), BOT 16’ (0.198 mg/kg) and 
+NW FACE 15' (0.215 mg/kg); 
+
+ Total Xylenes in SS-1 16’ (0.431 mg/kg), NE FACE 13.5’ (22.65 mg/kg), BOT 16’ (0.512 mg/kg), 
+NW FACE 15' (0.088 mg/kg) and SW FACE 15’ (1.66 mg/kg); and 
+
+ Naphthalene in TP 102 S1 12.5’ (0.412 mg/kg), SS-1 16’ (1.67 mg/kg), NE FACE 13.5' (21 mg/kg), 
+BOT 16’ (1.19 mg/kg), N FACE 15’ (4.66 mg/kg), NW FACE 15’ (3.33 mg/kg) and SW FACE 15' 
+(17.8 mg/kg). 
+
+ 
+No other VPH target analytes were identified at concentrations exceeding laboratory method detection limits.  
+No MassDEP VPH Method target analytes were identified at concentrations exceeding the MassDEP Method 
+
+
+
+ 
+
+IRA Status Report 
+104-106 East Main Street 
+
+Milford, MA 
+RTN 2-17173 
+
+8/20/13 
+Page 17 
+
+ 
+ 
+
+  
+REMSERV, Inc. / 35 Winthrop Street, Winchester, MA  01890 / 31 Hancock Drive, Bedford, NH  03110
+
+781-721-4455 / FAX 781-721-4456 / www.remserv.com/remserv@remserv.com 
+ 
+
+1 S-1 soil standards.  However, laboratory minimum detection limits for MTBE exceeded MassDEP Method 
+1 S-1 soil standards for samples NE FACE 13.5’ and NW FACE 15'. 
+ 
+EPH Fractions 
+ 
+
+ C9 to C18 Aliphatics in TP 102 S1 12.5’ (73.6 mg/kg), SS-1 16’ (92.1 mg/kg), NE FACE 13.5' (3,470 
+mg/kg), BOT 16’ (264 mg/kg), N FACE 15’ (265 mg/kg), NW FACE 15’ (780 mg/kg) and SW 
+FACE 15' (1,000 mg/kg); 
+
+ C19 to C36 Aliphatics in TP 102 S1 12.5’ (29.6 mg/kg), SS-1 16’ (39.5 mg/kg), NE FACE 13.5' 
+(1,080 mg/kg), BOT 16’ (97.9 mg/kg), N FACE 15’ (88.3 mg/kg), NW FACE 15’ (236 mg/kg) and 
+SW FACE 15' (291 mg/kg); and 
+
+ C11 to C22 Aromatics in TP 102 S1 12.5’ (47.6 mg/kg), SS-1 16’ (59.8 mg/kg), NE FACE 13.5' 
+(1,900 mg/kg), BOT 16’ (185 mg/kg), N FACE 15’ (206 mg/kg), NW FACE 15’ (501 mg/kg) and 
+SW FACE 15' (623 mg/kg). 
+
+ 
+Bolded values indicate EPH fraction concentrations that exceed MassDEP Method 1 S-1 standards.  No other 
+EPH fractions were identified at concentrations exceeding laboratory method detection limits.  
+ 
+EPH Target Analytes 
+ 
+
+ Naphthalene in NE FACE 13.5’ (6.01 mg/kg), NW FACE 15' (0.991 mg/kg); and SW FACE 15’ 
+(1.75 mg/kg); 
+
+ 2-Methylnaphthalene in SS-1 16’ (0.705 mg/kg), NE FACE 13.5’ (37.7 mg/kg), BOT 16’ (2.24 
+mg/kg), N FACE 15’ (2.79 mg/kg); NW FACE 15' (7.22 mg/kg) and SW FACE 15’ (10.8 mg/kg); 
+
+ Acenaphthylene in N FACE 15’ (0.57 mg/kg); 
+ Acenaphthene in NE FACE 13.5’ (8.12 mg/kg), N FACE 15’ (0.445 mg/kg), NW FACE 15' (0.812 
+
+mg/kg); and SW FACE 15’ (2.2 mg/kg); 
+ Phenanthrene in SW FACE 15’ (0.984 mg/kg); 
+ Fluoranthene in SW FACE 15’ (0.432 mg/kg); and 
+ Pyrene in SW FACE 15’ (0.375 mg/kg). 
+
+ 
+No other EPH target analytes were identified at concentrations exceeding laboratory method detection limits.  
+No MassDEP EPH Method target analytes were identified at concentrations exceeding the MassDEP Method 
+1 S-1 soil standards.  However, laboratory minimum detection limits exceeded MassDEP Method 1 S-1 soil 
+standards for sample NE FACE 13.5’ in Acenaphthylene, Benzo(a)pyrene and Dibenzo(a,h)anthracene. 
+ 
+7.2 Excavation B 
+ 
+Soil samples CS1 13-14', CS2 13-14', CS3 13’,CS4 12', CS5 14', CS6 15',  CS7 15' and CS8 15' were 
+submitted from Excavation B for MassDEP Method VPH and EPH fractions and target analyses.  The 
+analytical results identified the following in Excavation B: 
+ 
+
+
+
+ 
+
+IRA Status Report 
+104-106 East Main Street 
+
+Milford, MA 
+RTN 2-17173 
+
+8/20/13 
+Page 18 
+
+ 
+ 
+
+  
+REMSERV, Inc. / 35 Winthrop Street, Winchester, MA  01890 / 31 Hancock Drive, Bedford, NH  03110
+
+781-721-4455 / FAX 781-721-4456 / www.remserv.com/remserv@remserv.com 
+ 
+
+ 
+VPH Fractions 
+ 
+
+ C5 to C8 Aliphatics in CS1 13-14’ (40.8 mg/kg), CS6 15’ (13.6 mg/kg) and CS7 15' (27.2 mg/kg); 
+ C9 to C12 Aliphatics in CS1 13-14’ (15.5 mg/kg), CS6 15’ (134 mg/kg), CS7 15' (107 mg/kg); and 
+
+CS8 15' (2.63 mg/kg); and 
+ C9 to C10 Aromatics in CS1 13-14’ (23.1 mg/kg), CS6 15’ (145 mg/kg) and CS7 15' (85.3 mg/kg). 
+
+ 
+Bolded values indicate VPH fraction concentrations that exceed MassDEP Method 1 S-1 standards.  No other 
+VPH fractions were identified at concentrations exceeding laboratory method detection limits.  
+ 
+VPH Target Analytes 
+ 
+
+ Ethylbenzene in CS1 13-14’ (0.371 mg/kg), CS6 15’ (0.636 mg/kg) and CS7 15' (1.69 mg/kg); 
+ Total Xylenes in CS1 13-14’ (1.96 mg/kg), CS6 15’ (1.37 mg/kg) and CS7 15' (3.83 mg/kg); and 
+ Naphthalene in CS1 13-14’ (0.373 mg/kg), CS6 15’ (10.6 mg/kg) and CS7 15' (11.1 mg/kg). 
+
+ 
+No other VPH target analytes were identified at concentrations exceeding laboratory method detection limits.  
+No MassDEP VPH Method target analytes were identified at concentrations exceeding the MassDEP Method 
+1 S-1 soil standards.  
+ 
+EPH Fractions 
+ 
+
+ C9 to C18 Aliphatics in CS6 15’ (1,580 mg/kg) and CS7 15' (1,620 mg/kg); 
+ C19 to C36 Aliphatics in CS6 15’ (473 mg/kg) and CS7 15' (475 mg/kg); and 
+ C11 to C22 Aromatics in CS6 15’ (891 mg/kg) and CS7 15' (361 mg/kg). 
+
+ 
+Bolded values indicate EPH fraction concentrations that exceed MassDEP Method 1 S-1 standards.  No other 
+EPH fractions were identified at concentrations exceeding laboratory method detection limits.  
+ 
+EPH Target Analytes 
+ 
+
+ Naphthalene in CS6 15’ (1.94 mg/kg) and CS7 15' (2.05 mg/kg); 
+ 2-Methylnaphthalene in CS6 15’ (12.8 mg/kg) and CS7 15' (11.2 mg/kg); 
+ Acenaphthylene in CS6 15’ (0.891 mg/kg); 
+ Acenaphthene in CS6 15’ (1.87 mg/kg) and CS7 15' (3.84 mg/kg); 
+ Phenanthrene in CS2 13-14’ (0.858 mg/kg) and CS6 15' (0.774 mg/kg); and 
+ Fluoranthene in CS2 13-14’ (0.622 mg/kg). 
+
+ 
+No other EPH target analytes were identified at concentrations exceeding laboratory method detection limits.  
+No MassDEP EPH Method target analytes were identified at concentrations exceeding the MassDEP Method 
+1 S-1 soil standards.  However, laboratory minimum detection limits for Dibenzo(a,h)anthracene exceeded 
+MassDEP Method 1 S-1 soil standards for sample CS7 15'. 
+
+
+
+ 
+
+IRA Status Report 
+104-106 East Main Street 
+
+Milford, MA 
+RTN 2-17173 
+
+8/20/13 
+Page 19 
+
+ 
+ 
+
+  
+REMSERV, Inc. / 35 Winthrop Street, Winchester, MA  01890 / 31 Hancock Drive, Bedford, NH  03110
+
+781-721-4455 / FAX 781-721-4456 / www.remserv.com/remserv@remserv.com 
+ 
+
+ 
+7.3 Excavation C 
+ 
+Soil samples CS9 15’, CS10 13.5’, CS13 14’, CS 15 14’ and CS18 14’ were submitted from Excavation C for 
+MassDEP Method VPH and EPH fractions and target analyses.  The analytical results identified the following 
+in Excavation C: 
+ 
+VPH Fractions 
+ 
+
+ C5 to C8 Aliphatics in CS13 14’ (12 mg/kg) and CS18 14’' (2.04 mg/kg); 
+ C9 to C12 Aliphatics in CS13 14’ (38.4 mg/kg), CS15 14’ (2.2 mg/kg), CS18 14' (18 mg/kg); and 
+ C9 to C10 Aromatics in CS13 14’ (54.8 mg/kg), CS15 14’ (4.32 mg/kg) and CS18 14' (21.1 mg/kg). 
+
+ 
+No other VPH fractions were identified at concentrations exceeding laboratory method detection limits.  No 
+MassDEP VPH Method fractions were identified at concentrations exceeding the MassDEP Method 1 S-1 
+soil standards. 
+ 
+VPH Target Analytes 
+ 
+
+ Ethylbenzene in CS13 14’ (0.59 mg/kg); 
+ Total Xylenes in CS13 14’ (0.735 mg/kg); and 
+ Naphthalene in CS13 14’ (3.33 mg/kg), CS14 13’ (0.176 mg/kg) and CS18 14’' (1.08 mg/kg). 
+
+ 
+No other VPH target analytes were identified at concentrations exceeding laboratory method detection limits.  
+No MassDEP VPH Method target analytes were identified at concentrations exceeding the MassDEP Method 
+1 S-1 soil standards.  
+ 
+EPH Fractions 
+ 
+
+ C9 to C18 Aliphatics in CS13 14’ (731 mg/kg), CS15 14’ (26 mg/kg) and CS18 14' (278 mg/kg); 
+ C19 to C36 Aliphatics in CS13 14’ (263 mg/kg), CS15 14’ (20.1 mg/kg) and CS18 14' (114 mg/kg); 
+
+and 
+ C11 to C22 Aromatics in CS13 14’ (366 mg/kg), CS15 14’ (18.2 mg/kg) and CS18 14' (166 mg/kg). 
+
+ 
+No other EPH fractions were identified at concentrations exceeding laboratory method detection limits.  No 
+MassDEP EPH Method target analytes were identified at concentrations exceeding the MassDEP Method 1 
+S-1 soil standards.   
+ 
+EPH Target Analytes 
+ 
+
+ Naphthalene in CS13 14’ (0.633 mg/kg); 
+ 2-Methylnaphthalene in CS13 14’ (5.35 mg/kg) and CS18 14' (1.07 mg/kg); 
+ Acenaphthylene in CS18 14' (0.476 mg/kg); 
+ Acenaphthene in CS13 14’ (1.76 mg/kg) and CS18 14' (0.458 mg/kg); 
+ Phenanthrene in CS13 14’ (0.528 mg/kg) and CS18 14' (1.41 mg/kg); 
+ Anthracene in  CS18 14’ (0.409 mg/kg); 
+ Fluoranthene in CS18 14’ (1.48 mg/kg); 
+ Pyrene in  CS18 14’ (1.36 mg/kg); 
+ Benzo(a)anthracene in  CS18 14’ (1.06 mg/kg); 
+ Chrysene in CS18 14’ (1.26 mg/kg); 
+
+
+
+ 
+
+IRA Status Report 
+104-106 East Main Street 
+
+Milford, MA 
+RTN 2-17173 
+
+8/20/13 
+Page 20 
+
+ 
+ 
+
+  
+REMSERV, Inc. / 35 Winthrop Street, Winchester, MA  01890 / 31 Hancock Drive, Bedford, NH  03110
+
+781-721-4455 / FAX 781-721-4456 / www.remserv.com/remserv@remserv.com 
+ 
+
+ Benzo(b)fluoranthene  in CS18 14’ (0.841 mg/kg); 
+ Benzo(k)fluoranthene in  CS18 14’ (1.08 mg/kg); 
+ Benzo(a)pyrene in  CS18 14’ (1.27 mg/kg); 
+ Indeno (1,2,3-cd) pyrene in  CS18 14’ (0.756 mg/kg); and 
+ Benzo(g,h,i)perlyene in  CS18 14’ (0.786 mg/kg). 
+
+ 
+No other EPH target analytes were identified at concentrations exceeding laboratory method detection limits.  
+No MassDEP EPH Method target analytes were identified at concentrations exceeding the MassDEP Method 
+1 S-1 soil standards.  . 
+ 
+8.0 Excavation Backfill Activities 
+ 
+From October 5 through 11, 2012 REMSERV, Inc. observed as Macone Brothers, Inc. backfilled the 
+excavation areas with both uncontaminated soil originating from the surface of the excavation areas as well as 
+Macone-provided “virgin” fill.  On October 5, 2012, the first excavation area, below the former kiosk, was 
+backfilled to site grade in order to proceed with the second excavation area located westerly of the first 
+excavation and along the west property boundary. 
+ 
+On October 11, 2012 backfill activities continued from the south end of Excavation B.  Dewatering well RW-
+B was removed and the southern extent of the excavation was filled to site grade. On October 12, 2012 
+backfilling activities continued at Excavation B and C with “virgin” fill transported by Macone Brothers.  
+Dewatering well RW-C was removed from excavation B and the trench was backfilled to site grade.  
+Dewatering well RW-D was removed from Excavation C and the trench was backfilled to site grade. 
+ 
+2012 Soil and Wastewater Transport for Off-site Recycling 
+ 
+On October 5, 2012 approximately 267 tons of soil was transported to Aggregate Recycling Corporation of 
+Eliot, ME.  On October 18 approximately twenty-eight (28) tons of soil was transported to Aggregate 
+Recycling Corporation of Eliot, ME.  On November 29 and 30, 2012, 412.39 tons of stockpiled contaminated 
+soils were transported off site to Aggregate Recycling Corporation of Eliot, ME (Appendix II).   
+ 
+On October 10, 2012 J.P. Noonan Transportation, Inc. of West Bridgewater, MA pumped approximately 
+eighteen-thousand (18,000) gallons of waste water from the fractionation tank for transport to NewStream, 
+LLC. of Attleboro, MA.   
+ 
+On November 29 and 30, 2012 approximately 27,000 gallons of petroleum impacted ground water from the 
+excavation activities conducted from October 9 to 12, 2012 was transported by JP Noonan to NewStream of 
+527 Pleasant St, Attleboro, MA.  On January 14, 2013 30.19 tons of sediment from the fractionation tank 
+were transported off site by Twin Trucking Corporation to Aggregate Recycling Corporation of Eliot, ME 
+
+
+
+ 
+
+IRA Status Report 
+104-106 East Main Street 
+
+Milford, MA 
+RTN 2-17173 
+
+8/20/13 
+Page 21 
+
+ 
+ 
+
+  
+REMSERV, Inc. / 35 Winthrop Street, Winchester, MA  01890 / 31 Hancock Drive, Bedford, NH  03110
+
+781-721-4455 / FAX 781-721-4456 / www.remserv.com/remserv@remserv.com 
+ 
+
+ 
+9.0 Summary 
+ 
+REMSERV, Inc. has completed an IRA Status Report for RTN 2-17173.  The 104-106 East Main Street 
+property is associated with a 2008 release of diesel (RTN 2-17173) from an underground storage tank (UST).  
+The property is currently unoccupied.  All of the gasoline and diesel USTs were removed from the property 
+as part of the initial emergency response actions.   
+ 
+REMSERV, Inc. has conducted five (5) ground water gauging events at the site since the previous October 
+11, 2012 IRA Status Report.  A soil excavation event has been completed in accordance with the MassDEP 
+approved IRA Plan Addendum No. 1.  Completion of this activity has been detailed in this IRA Status 
+Report. 
+ 
+Separate phase petroleum has not been identified in on-site or off-property monitoring wells since October 
+2012.  REMSERV, Inc. will continue to monitor soil and groundwater at the site.  Ground water monitoring 
+events will include ground water gauging and product recovery activities.  Ground water monitoring events 
+may also include ground water sample collection for laboratory analysis from selected monitoring wells 
+located at the 104 - 106 East Main Street property and/or at off-property locations.  REMSERV, Inc. will 
+document these assessment activities in future regulatory submittals.  REMSERV, Inc. will complete and 
+submit an IRA Completion Report at the conclusion of the IRA Plan Addendum No. 2 activities.    
+ 
+10.0 References 
+ 
+1.    “Unofficial Property Record Card – Milford, MA.” Parcel ID 42-0-261; 
+
+http://milford.patriotproperties.com/RecordCard.asp  
+ 
+2. “Class A-2 Response Action Outcome – Partial Statement / Class C Response Action Outcome 
+
+Temporary Solution. Former BP Station #879, Delta Environmental Consultants, Inc,  May 28, 2004 
+ 
+3. US Census Bureau: Population Division, “Table 5 – Annual Estimate of the Residential Population for 
+
+Minor Civil Divisions in Massachusetts.” July 1, 2009. 
+ 
+
+4. 314 CMR 4.00 Massachusetts Surface Water Quality Standards. 
+ 
+
+5. MADEP Reportable Release Lookup Website accessed by REMSERV, Inc. on July 15, 2009.  
+http://db.state.ma.us/dep/cleanup/sites/search.asp  
+
+ 
+6. “Bedrock Map of Massachusetts”, E-An Zen editor, 1982. 
+
+
+
+ 
+
+IRA Status Report 
+
+104-106 East Main Street 
+
+Milford, MA 
+
+RTN 2-17173 
+
+6/20/13 
+
+Page 21 
+
+ 
+ 
+
+  
+REMSERV, Inc. / 35 Winthrop Street, Winchester, MA  01890 / 31 Hancock Drive, Bedford, NH  03110 
+
+781-721-4455 / FAX 781-721-4456 / www.remserv.com/remserv@remserv.com 
+
+ 
+
+ 
+9.0 Summary 
+
+ 
+REMSERV, Inc. has completed an IRA Status Report for RTN 2-17173.  The 104-106 East Main Street 
+
+property is associated with a 2008 release of diesel (RTN 2-17173) from an underground storage tank (UST).  
+
+The property is currently unoccupied.  All of the gasoline and diesel USTs were removed from the property 
+
+as part of the initial emergency response actions.   
+
+ 
+
+REMSERV, Inc. has conducted five (5) ground water gauging events at the site since the previous October 
+
+11, 2012 IRA Status Report.  A soil excavation event has been completed in accordance with the MassDEP 
+
+approved IRA Plan Addendum No. 1.  Completion of this activity has been detailed in this IRA Status 
+
+Report. 
+
+ 
+
+Separate phase petroleum has not been identified in on-site or off-property monitoring wells since October 
+
+2012.  REMSERV, Inc. will continue to monitor soil and groundwater at the site.  Ground water monitoring 
+
+events will include ground water gauging and product recovery activities.  Ground water monitoring events 
+
+may also include ground water sample collection for laboratory analysis from selected monitoring wells 
+
+located at the 104 - 106 East Main Street property and/or at off-property locations.  REMSERV, Inc. will 
+
+document these assessment activities in future regulatory submittals.  REMSERV, Inc. will complete and 
+
+submit an IRA Completion Report at the conclusion of the IRA Plan Addendum No. 2 activities.    
+
+
+
+ 
+
+IRA Status Report 
+
+104-106 East Main Street 
+
+Milford, MA 
+
+RTN 2-17173 
+
+6/20/13 
+
+Page 22 
+
+ 
+ 
+
+  
+REMSERV, Inc. / 35 Winthrop Street, Winchester, MA  01890 / 31 Hancock Drive, Bedford, NH  03110 
+
+781-721-4455 / FAX 781-721-4456 / www.remserv.com/remserv@remserv.com 
+
+ 
+
+ 
+10.0 References 
+
+ 
+
+1.    “Unofficial Property Record Card – Milford, MA.” Parcel ID 42-0-261; 
+http://milford.patriotproperties.com/RecordCard.asp  
+
+ 
+
+2. “Class A-2 Response Action Outcome – Partial Statement / Class C Response Action Outcome 
+Temporary Solution. Former BP Station #879, Delta Environmental Consultants, Inc,  May 28, 2004 
+
+ 
+
+3. US Census Bureau: Population Division, “Table 5 – Annual Estimate of the Residential Population for 
+Minor Civil Divisions in Massachusetts.” July 1, 2009. 
+
+ 
+
+4. 314 CMR 4.00 Massachusetts Surface Water Quality Standards. 
+ 
+
+5. MADEP Reportable Release Lookup Website accessed by REMSERV, Inc. on July 15, 2009.  
+http://db.state.ma.us/dep/cleanup/sites/search.asp  
+
+ 
+6. “Bedrock Map of Massachusetts”, E-An Zen editor, 1982. 
+
+
+
+TABLE 1 - MONITORING WELL GAUGING RESULTS
+
+POST-EXCAVATION EVENTS
+
+104-106 East Main Street
+
+Milford, MA
+
+RTN 2-17173
+
+MW ID Date Time
+
+PVC 
+
+Casing 
+
+Elevation
+
+Depth to
+
+Water
+
+Water 
+
+Table 
+
+Elevation 
+
+(feet)
+
+LNAPL Thickness (feet)
+
+(measured with 
+
+Heron H.O1L)
+
+LNAPL Thickness (feet)
+
+(measured with bailer)
+
+RW-101 12/16/2008 1011 96.62 8.29 88.39 0.07 NA
+
+12/16/2008 1313 8.26 88.40 0.04 NA
+
+12/16/2008 1459 8.25 88.40 0.03 NA
+
+12/16/2008 1540 8.34 88.32 0.04 NA
+
+1/14/2009 1735 7.93 88.73 0.04 NR
+
+2/12/2009 1324 9.50 87.14 0.02 NA
+
+4/16/2009 0916 9.04 87.59 0.01 0.01
+
+6/9/2009 1045 9.18 87.45 0.01 <0.01
+
+7/14/2009 1106 8.88 87.74 NI <0.01
+
+9/4/2009 1457 10.21 86.41 <0.01 <0.01
+
+10/9/2009 1536 10.49 86.13 <0.01 NA
+
+12/8/2009 1242 9.85 86.79 0.02 0.01
+
+1/28/2010 1032 9.74 86.90 0.02 0.01
+
+2/26/2010 1132 9.68 86.97 0.03 0.01
+
+3/12/2010 1305 9.56 87.08 0.02 0.01
+
+4/14/2010 1203 8.68 87.97 0.03 <0.01
+
+5/12/2010 0938 9.79 86.89 0.07 0.02
+
+7/2/2010 1412 9.99 86.63 0.02 <0.01
+
+8/9/2010 1355 10.53 86.09 0.05 0.01
+
+10/18/2010 1410 9.60 87.02 0.34 NA
+
+10/20/2010 1000 9.26 87.36 0.08 0.05
+
+11/2/2010 1055 9.25 87.37 0.03 <0.01
+
+1/11/2011 1330 8.85 87.77 0.05 <0.01
+
+3/14/2011 1312 7.34 89.28 0.03 0.01
+
+4/15/2011 1138 8.21 88.41 0.01 NR
+
+6/27/2011 1730 8.70 87.92 0.09 NA
+
+7/21/2011 1230 8.80 87.82 0.01 <0.01
+
+11/2/2011 1610 7.79 88.83 <0.01 <0.01
+
+1/9/2012 1259 8.32 88.30 0.01 <0.01
+
+7/31/2012 1300 8.99 87.63 0.05 0.03
+
+8/1/2012 0845 8.97 87.65 0.03 0.03
+
+10/31/2012 Monitoring well inaccessible due to 2012 excavation, located underneath stockpile
+
+11/29/2012 1452 9.66 86.96 <0.01 NA
+
+11/30/2012 1000 9.68 86.94 NI NR
+
+4/19/2013 1032 9.23 87.39 NI NA
+
+6/18/2013 1228 8.45 88.17 NI NR
+
+RW-102 12/16/2008 1015 96.38 --- --- NI NA
+
+1/14/2009 1733 7.81 88.57 NI NR
+
+2/12/2009 1526 9.54 86.84 <0.01 NA
+
+4/16/2009 0925 9.11 87.27 NI NR
+
+6/9/2009 1050 8.96 87.42 NI <0.01
+
+7/14/2009 1114 8.71 87.67 NI NA
+
+9/4/2009 1501 9.98 86.40 NI NA
+
+10/9/2009 1538 10.13 86.25 NI NA
+
+12/8/2009 1254 9.66 86.72 NI NR
+
+1/28/2010 1040 9.52 86.86 NI NR
+
+2/26/2010 1140 9.51 86.87 NI NR
+
+3/12/2010 1316 9.40 86.98 NI NR
+
+4/14/2010 1230 8.65 87.73 NI NA
+
+5/12/2010 0956 9.67 86.71 NI <0.01
+
+7/2/2010 1419 10.06 86.32 NI NR
+
+8/9/2010 1407 10.23 86.15 NI NR
+
+10/18/2010 1420 9.00 87.38 NI NR
+
+10/20/2010 1004 8.97 87.41 0.01 <0.01
+
+11/2/2010 1307 9.09 87.29 <0.01 <0.01
+
+1/11/2011 1329 8.26 88.12 <0.01 <0.01
+
+3/14/2011 1314 7.32 89.06 <0.01 <0.01
+
+4/15/2011 1142 8.04 88.34 <0.01 NA
+
+7/21/2011 1231 8.71 87.67 <0.01 <0.01
+
+11/2/2011 1622 7.63 88.75 <0.01 <0.01
+
+1/9/2012 1301 8.18 88.20 <0.01 <0.01
+
+7/31/2012 1310 8.69 87.69 <0.01 <0.01
+
+8/1/2012 0900 8.67 87.71 <0.01 <0.01
+
+10/31/2012 0910 8.45 87.93 NI NA
+
+11/29/2012 1459 8.50 87.88 NI NA
+
+11/30/2012 1020 8.63 87.75 NI NR
+
+4/19/2013 1024 8.13 88.25 NI NA
+
+6/18/2013 1230 7.36 89.02 NI NR
+
+Page 1
+
+
+
+TABLE 1 - MONITORING WELL GAUGING RESULTS
+
+POST-EXCAVATION EVENTS
+
+104-106 East Main Street
+
+Milford, MA
+
+RTN 2-17173
+
+MW ID Date Time
+
+PVC 
+
+Casing 
+
+Elevation
+
+Depth to
+
+Water
+
+Water 
+
+Table 
+
+Elevation 
+
+(feet)
+
+LNAPL Thickness (feet)
+
+(measured with 
+
+Heron H.O1L)
+
+LNAPL Thickness (feet)
+
+(measured with bailer)
+
+RW-103 12/16/2008 1020 98.61 --- --- NI NA
+
+1/14/2009 1731 7.17 91.44 NI 0.01
+
+2/12/2009 1527 9.66 88.95 NI NA
+
+4/16/2009 0934 9.23 89.38 NI NA
+
+6/9/2009 1055 7.22 91.39 NI NA
+
+7/14/2009 1120 8.98 89.63 NI NA
+
+9/4/2009 1506 10.26 88.35 NI NA
+
+10/9/2009 1540 10.45 88.16 NI NA
+
+12/8/2009 1259 9.98 88.63 NI NR
+
+1/28/2010 1050 9.86 88.75 NI NR
+
+2/26/2010 1148 9.90 88.71 NI NR
+
+3/12/2010 1327 9.86 88.75 NI NR
+
+4/14/2010 1240 9.03 89.58 NI NA
+
+5/12/2010 1004 9.91 88.70 NI <0.01
+
+7/2/2010 1421 10.24 88.37 NI NR
+
+8/9/2010 1412 10.38 88.23 NI NR
+
+10/18/2010 1435 8.38 90.23 0.02 <0.01
+
+11/2/2010 1310 8.42 90.19 <0.01 <0.01
+
+1/11/2011 1350 7.96 90.65 <0.01 <0.01
+
+3/14/2011 1317 6.78 91.83 <0.01 <0.01
+
+4/15/2011 1133 7.43 91.18 NI NA
+
+7/21/2011 1234 7.90 90.71 NI NA
+
+11/2/2011 1630 7.06 91.55 NI NA
+
+1/9/2012 1302 7.59 91.02 NI <0.01
+
+7/31/2012 1315 8.93 89.68 <0.01 <0.01
+
+8/1/2012 915 7.07 91.54 <0.01 <0.01
+
+10/31/2012 925 7.68 90.93 NI NA
+
+11/29/2012 1455 7.78 90.83 NI NA
+
+11/30/2012 1025 7.75 90.86 NI NR
+
+4/19/2013 1018 7.35 91.26 NI NA
+
+6/19/2013 1232 6.56 92.05 NI NR
+
+GP101-MW 1/14/2009 1729 98.99 9.62 89.37 NI NA
+
+2/12/2009 1555 10.09 88.90 NI NA
+
+4/16/2009 1029 9.73 89.26 NI NA
+
+5/12/2009 1305 9.77 89.22 NI NA
+
+6/9/2009 0923 10.09 88.90 NI NA
+
+7/14/2009 0929 9.72 89.27 NI NA
+
+9/4/2009 1355 10.80 88.19 NI NA
+
+10/9/2009 1608 11.25 87.74 NI NA
+
+12/8/2009 1105 10.46 88.53 NI NA
+
+1/28/2010 0936 10.36 88.63 NI NA
+
+2/26/2010 1029 10.33 88.66 NI NA
+
+3/12/2010 1209 10.08 88.91 NI NA
+
+4/14/2010 1024 9.16 89.83 NI NA
+
+5/12/2010 0843 10.38 88.61 NI NA
+
+7/2/2010 1336 10.88 88.11 NI NA
+
+8/9/2010 1426 11.28 87.71 NI NA
+
+10/18/2010 1248 11.14 87.85 NI NA
+
+11/2/2010 1236 11.20 87.79 NI NA
+
+1/11/2011 1240 10.61 88.38 NI NA
+
+3/14/2011 1220 8.99 90.00 NI NA
+
+4/15/2011 1055 9.97 89.02 NI NA
+
+6/27/2011 1312 10.53 88.46 NI NA
+
+7/21/2011 955 10.81 88.18 NI NA
+
+11/2/2011 1513 9.53 89.46 NI NA
+
+1/9/2012 1209 10.20 88.79 NI NA
+
+7/31/2012 1345 13.96 85.03 NI NA
+
+10/31/2012 1004 10.75 88.24 NI NA
+
+11/29/2012 1348 10.68 88.31 NI NA
+
+11/30/2012 930 10.69 88.30 NI NA
+
+4/19/2013 924 10.13 88.86 NI NA
+
+6/19/2013 1150 9.08 89.91 NI NA
+
+Page 2
+
+
+
+TABLE 1 - MONITORING WELL GAUGING RESULTS
+
+POST-EXCAVATION EVENTS
+
+104-106 East Main Street
+
+Milford, MA
+
+RTN 2-17173
+
+MW ID Date Time
+
+PVC 
+
+Casing 
+
+Elevation
+
+Depth to
+
+Water
+
+Water 
+
+Table 
+
+Elevation 
+
+(feet)
+
+LNAPL Thickness (feet)
+
+(measured with 
+
+Heron H.O1L)
+
+LNAPL Thickness (feet)
+
+(measured with bailer)
+
+GP104-MW 1/14/2009 1721 98.11 9.14 88.97 NI NA
+
+2/12/2009 1543 9.69 88.42 <0.01 NA
+
+4/16/2009 0955 9.10 89.01 NI NA
+
+5/12/2009 1237 8.97 89.14 NI NA
+
+6/9/2009 1018 7.21 90.90 NI NA
+
+7/14/2009 1001 8.97 89.14 NI NA
+
+9/4/2009 1446 10.36 87.75 NI NA
+
+10/9/2009 Monitoring well not located during gauging event.
+
+12/8/2009 1114 10.04 88.07 <0.01 NR
+
+1/28/2010 0922 9.92 88.19 NI NA
+
+2/26/2010 1057 9.87 88.24 NI NA
+
+3/12/2010 1238 9.77 88.34 NI NA
+
+4/14/2010 1057 8.86 89.25 NI NA
+
+5/12/2010 0855 9.94 88.17 NI NA
+
+7/2/2010 1357 10.29 87.82 NI NA
+
+8/9/2010 1506 10.66 87.45 NI NA
+
+10/18/2010 1328 10.63 87.48 NI NA
+
+10/20/2010 1103 10.58 87.53 NI NA
+
+11/2/2010 1243 10.65 87.46 NI NA
+
+1/11/2011 1315 10.15 87.96 NI NA
+
+3/14/2011 1233 8.66 89.45 NI NA
+
+4/15/2011 1109 9.55 88.56 NI NA
+
+6/27/2011 1414 9.98 88.13 NI NA
+
+7/21/2011 1017 10.19 87.92 NI NA
+
+11/2/2011 1532 9.17 88.94 NI NA
+
+1/9/2012 1228 9.70 88.41 NI NA
+
+7/31/2012 1415 10.32 87.79 NI NA
+
+8/1/2012 1038 10.34 87.77 NI NA
+
+10/31/2012 1015 10.04 88.07 NI NA
+
+11/29/2012 1326 10.07 88.04 <0.01 NA
+
+11/30/2012 910 10.08 88.03 NI NA
+
+4/19/2013 929 9.64 88.47 NI NA
+
+6/19/2013 1220 8.84 89.27 NI NR
+
+GP105-MW 7/14/2009 0956 97.75 --- --- --- 0.03
+
+9/4/2009 1439 9.33 88.60 0.20 0.2
+
+10/9/2009 1521 11.35 86.41 0.01 NA
+
+12/8/2009 1211 9.92 87.84 0.01 <0.01
+
+1/28/2010 0939 9.79 88.01 0.05 0.02
+
+2/26/2010 1117 9.76 88.01 0.02 0.01
+
+3/12/2010 1254 9.59 88.17 0.01 0.01
+
+4/14/2010 1256 8.75 89.00 NI NA
+
+5/12/2010 0856 9.75 88.00 NI NA
+
+7/2/2010 1359 10.04 87.71 NI NA
+
+8/9/2010 1508 10.43 87.32 NI NA
+
+10/18/2010 1306 10.36 87.39 NI NA
+
+10/20/2010 1100 10.33 87.42 NI NA
+
+11/2/2010 1245 10.44 87.31 NI NA
+
+1/11/2011 1308 9.93 87.82 NI NA
+
+3/14/2011 1232 8.51 89.24 NI NA
+
+4/15/2011 1108 9.35 88.40 NI NA
+
+6/27/2011 1404 9.79 87.96 NI NA
+
+7/21/2011 1015 9.95 87.80 NI NA
+
+11/2/2011 1531 8.99 88.76 NI NA
+
+1/9/2012 1222 9.50 88.25 NI NA
+
+7/31/2012 1420 10.11 87.64 <0.01 NA
+
+8/1/2012 935 10.08 87.67 0.02 <0.01
+
+10/31/2012 1035 9.83 87.92 NI NA
+
+11/29/2012 1330 9.85 87.90 NI NA
+
+11/30/2012 905 9.86 87.89 NI NA
+
+4/19/2013 1250 9.45 88.30 NI NA
+
+6/19/2013 1218 8.67 89.08 NI NA
+
+Page 3
+
+
+
+TABLE 1 - MONITORING WELL GAUGING RESULTS
+
+POST-EXCAVATION EVENTS
+
+104-106 East Main Street
+
+Milford, MA
+
+RTN 2-17173
+
+MW ID Date Time
+
+PVC 
+
+Casing 
+
+Elevation
+
+Depth to
+
+Water
+
+Water 
+
+Table 
+
+Elevation 
+
+(feet)
+
+LNAPL Thickness (feet)
+
+(measured with 
+
+Heron H.O1L)
+
+LNAPL Thickness (feet)
+
+(measured with bailer)
+
+GP109-MW 1/14/2009 1414 97.34 8.96 88.41 0.03 NA
+
+2/12/2009 1540 9.29 88.05 <0.01 NA
+
+4/16/2009 0947 8.73 88.62 0.01 0.01
+
+5/12/2009 1234 8.52 88.83 0.01 0.01
+
+6/9/2009 1100 8.65 88.70 0.01 <0.01
+
+7/14/2009 1030 8.44 88.91 0.01 0.01
+
+9/4/2009 1436 9.94 87.44 0.04 0.04
+
+10/9/2009 1549 10.24 87.17 0.08 NA
+
+12/8/2009 1205 9.80 87.77 0.26 0.15
+
+1/28/2010 0951 9.59 87.77 0.02 0.01
+
+2/26/2010 1108 9.17 88.17 NI NR
+
+3/12/2010 1250 9.36 87.98 NI NR
+
+4/14/2010 1154 8.58 88.76 NI NA
+
+5/12/2010 0901 9.50 87.84 NI NA
+
+7/2/2010 1401 9.99 87.35 NI NA
+
+8/9/2010 1500 10.09 87.25 0.01 <0.01
+
+10/18/2010 1155 9.50 87.84 NI NA
+
+11/2/2010 1218 9.59 87.75 NI NA
+
+1/11/2011 1307 9.67 87.67 0.03 <0.01
+
+3/14/2011 1303 8.41 88.93 NI NA
+
+4/15/2011 1130 9.13 88.21 NI NA
+
+6/27/2011 1353 9.41 87.93 NI NA
+
+7/21/2011 1132 9.61 87.73 <0.01 <0.01
+
+11/2/2011 1552 8.77 88.57 <0.01 <0.01
+
+1/9/2012 1247 9.18 88.16 <0.01 <0.01
+
+7/31/2012 1500 9.71 87.63 NI NA
+
+8/1/2012 1042 9.71 87.63 NI NA
+
+10/31/2012 0945 9.43 87.91 NI NA
+
+11/29/2012 1245 9.51 87.83 NI NA
+
+11/30/2012 820 9.53 87.81 NI NA
+
+4/19/2013 1124 9.19 88.15 NI NA
+
+6/19/2013 1120 8.47 88.87 NI NR
+
+GP111-MW 1/14/2009 1658 97.02 9.71 87.31 NI NA
+
+2/12/2009 1538 9.13 87.89 <0.01 NA
+
+4/16/2009 0944 8.61 88.41 NI NA
+
+5/12/2009 1230 8.40 88.62 NI NA
+
+6/9/2009 1106 8.54 88.48 NI NA
+
+7/14/2009 1027 8.31 88.71 NI <0.01
+
+9/4/2009 1433 9.64 87.38 NI NA
+
+10/9/2009 1544 9.88 87.14 <0.01 NA
+
+12/8/2009 1200 9.37 87.65 NI NA
+
+1/28/2010 0926 9.23 87.79 NI NA
+
+2/26/2010 1110 9.24 87.78 NI NA
+
+3/12/2010 1248 9.14 87.88 NI NA
+
+4/14/2010 1151 8.41 88.61 NI NA
+
+5/12/2010 0930 9.29 87.73 NI NA
+
+7/2/2010 1405 9.64 87.38 NI NA
+
+8/9/2010 1502 9.91 87.11 <0.01 <0.01
+
+10/18/2010 1200 9.92 87.10 0.08 <0.01
+
+10/20/2010 935 10.43 86.59 0.46 0.30
+
+11/2/2010 1219 10.17 86.85 0.05 0.01
+
+1/11/2011 1306 9.44 87.58 0.01 <0.01
+
+3/14/2011 1320 8.38 88.64 <0.01 <0.01
+
+4/15/2011 1132 9.03 87.99 <0.01 <0.01
+
+7/21/2011 1310 9.44 87.58 <0.01 <0.01
+
+11/2/2011 1556 8.83 88.19 <0.01 <0.01
+
+1/9/2012 1249 9.02 88.00 <0.01 <0.01
+
+7/31/2012 1330 7.10 89.92 0.01 <0.01
+
+8/1/2012 945 9.52 87.50 <0.01 <0.01
+
+10/31/2012 0939 9.20 87.82 NI NA
+
+11/29/2012 1250 9.31 87.71 NI NA
+
+11/30/2012 823 9.32 87.70 <0.01 PVC bent, bailer impassable
+
+4/19/2013 1119 9.00 88.02 NI NA
+
+6/19/2013 1110 8.30 88.72 NI NA
+
+Page 4
+
+
+
+TABLE 1 - MONITORING WELL GAUGING RESULTS
+
+POST-EXCAVATION EVENTS
+
+104-106 East Main Street
+
+Milford, MA
+
+RTN 2-17173
+
+MW ID Date Time
+
+PVC 
+
+Casing 
+
+Elevation
+
+Depth to
+
+Water
+
+Water 
+
+Table 
+
+Elevation 
+
+(feet)
+
+LNAPL Thickness (feet)
+
+(measured with 
+
+Heron H.O1L)
+
+LNAPL Thickness (feet)
+
+(measured with bailer)
+
+GP112-MW 1/14/2009 1659 96.90 8.72 88.19 0.01 <0.01
+
+2/12/2009 1536 9.02 87.88 <0.01 NA
+
+4/16/2009 0944 8.57 88.33 NI NA
+
+5/12/2009 1228 8.58 88.32 NI NR
+
+6/9/2009 1115 8.50 88.40 NI <0.01
+
+7/14/2009 1024 8.27 88.63 NI NA
+
+9/4/2009 1430 9.58 87.32 NI NA
+
+10/9/2009 1547 9.76 87.14 <0.01 NA
+
+12/8/2009 1202 9.30 87.60 NI NA
+
+1/28/2010 0929 9.16 87.74 NI NR
+
+2/26/2010 1112 9.46 87.45 0.01 <0.01
+
+3/12/2010 1247 9.08 87.82 NI NR
+
+4/14/2010 1149 8.39 88.51 NI NR
+
+5/12/2010 0904 9.23 87.67 NI NA
+
+7/2/2010 1407 9.56 87.34 NI NA
+
+8/9/2010 1504 9.87 87.03 <0.01 <0.01
+
+10/18/2010 1340 9.76 87.14 0.52 <0.01
+
+10/20/2010 940 9.90 87.00 0.09 0.01
+
+11/2/2010 1220 9.95 86.95 0.01 <0.01
+
+1/11/2011 1304 9.36 87.54 <0.01 <0.01
+
+3/14/2011 1307 8.23 88.67 <0.01 <0.01
+
+4/15/2011 1136 8.91 87.99 <0.01 NR
+
+6/27/2011 1342 9.18 87.72 NI NA
+
+7/21/2011 1135 9.36 87.54 <0.01 <0.01
+
+11/2/2011 1554 8.56 88.34 <0.01 <0.01
+
+1/9/2012 1251 8.97 87.93 NI 0.00
+
+7/31/2012 1515 9.41 87.49 NI NA
+
+10/31/2012 0935 9.00 87.90 NI NA
+
+11/29/2012 1253 9.20 87.70 NI NA
+
+11/30/2012 825 9.23 87.67 NI NA
+
+4/19/2013 1114
+
+6/19/2013 1103 8.19 88.71 NI NR
+
+MW-4 6/9/2009 1020 97.99 9.54 88.45 NI NA
+
+7/14/2009 1056 9.24 88.75 NI NA
+
+9/4/2009 1358 10.13 87.86 NI NA
+
+10/9/2009 Monitoring well not located during gauging event.
+
+12/8/2009 1109 9.89 88.10 NI NA
+
+1/28/2010 0932 9.73 88.26 NI NR
+
+2/26/2010 1033 9.81 88.18 NI NA
+
+3/12/2010 1213 9.70 88.29 NI NA
+
+4/14/2010 1030 9.08 88.91 NI NA
+
+5/12/2010 0846 9.90 88.09 NI NA
+
+7/2/2010 1339 10.14 87.85 NI NA
+
+8/9/2010 1431 10.49 87.50 NI NA
+
+10/18/2010 1242 10.46 87.53 NI NA
+
+10/20/2010 1120 10.38 87.61 NI NA
+
+11/2/2010 1234 10.48 87.51 NI NA
+
+1/11/2011 1248 10.06 87.93 NI NA
+
+3/14/2011 1224 9.00 88.99 NI NA
+
+4/15/2011 1059 9.67 88.32 NI NA
+
+6/27/2011 1321 9.90 88.09 NI NA
+
+7/21/2011 855 10.11 87.88 NI NA
+
+11/2/2011 1516 9.22 88.77 NI NA
+
+1/9/2012 1212 9.71 88.28 NI NA
+
+7/31/2012 1458 10.17 87.82 NI NA
+
+10/31/2012 Monitoring well inaccessible due to 2012 excavation, located underneath fractionation tank
+
+11/29/2012 Monitoring well inaccessible due to 2012 excavation, located underneath fractionation tank
+
+11/30/2012 Monitoring well inaccessible due to 2012 excavation, located underneath fractionation tank
+
+4/19/2013 934 9.57 88.42 NI NA
+
+6/19/2013 1200 8.76 89.23 NI NR
+
+Well not located due to sidewalk construction
+
+Page 5
+
+
+
+TABLE 1 - MONITORING WELL GAUGING RESULTS
+
+POST-EXCAVATION EVENTS
+
+104-106 East Main Street
+
+Milford, MA
+
+RTN 2-17173
+
+MW ID Date Time
+
+PVC 
+
+Casing 
+
+Elevation
+
+Depth to
+
+Water
+
+Water 
+
+Table 
+
+Elevation 
+
+(feet)
+
+LNAPL Thickness (feet)
+
+(measured with 
+
+Heron H.O1L)
+
+LNAPL Thickness (feet)
+
+(measured with bailer)
+
+MW-5 2/12/2009 1559 98.43 9.74 88.69 NI NA
+
+4/16/2009 1031 9.41 89.02 NI NA
+
+5/12/2009 1307 9.39 89.04 NI NA
+
+6/9/2009 0928 9.64 88.79 NI NA
+
+7/14/2009 1021 9.31 89.12 NI NA
+
+9/4/2009 1356 10.30 88.13 NI NA
+
+10/9/2009 1647 10.80 87.63 NI NA
+
+12/8/2009 1107 10.01 88.42 <0.01 NR
+
+1/28/2010 0828 9.87 88.56 NI NA
+
+2/26/2010 1031 10.89 87.54 NI NA
+
+3/12/2010 1211 9.69 88.74 NI NA
+
+4/14/2010 1026 8.88 89.55 NI NA
+
+5/12/2010 0916 9.96 88.47 NI NA
+
+7/2/2010 1337 10.35 88.08 NI NA
+
+8/9/2010 1428 10.74 87.69 NI NA
+
+10/18/2010 1240 10.45 87.98 NI NA
+
+10/20/2010 1117 10.49 87.94 NI NA
+
+11/2/2010 1235 10.72 87.71 NI NA
+
+1/11/2011 1245 10.20 88.23 NI NA
+
+3/14/2011 1223 8.78 89.65 NI NA
+
+4/15/2011 1057 9.65 88.78 NI NA
+
+7/21/2011 957 10.31 88.12 NI NA
+
+11/2/2011 1515 9.15 89.28 NI NA
+
+1/9/2012 1211 9.81 88.62 NI NA
+
+7/31/2012 1355 10.28 88.15 NI NA
+
+10/31/2012 1000 10.20 88.23 NI NA
+
+11/29/2012 1343 10.18 88.25 NI NA
+
+11/30/2012 926 10.20 88.23 NI NA
+
+4/19/2013 928 9.69 88.74 NI NA
+
+6/18/2013 1154 8.62 89.81 NI NA
+
+MW-6 1/15/2009 1107 98.58 9.47 89.11 NI NA
+
+2/12/2009 1553 9.87 88.71 NI NA
+
+4/16/2009 1024 9.43 89.15 NI NA
+
+5/12/2009 1301 9.44 89.14 NI NA
+
+6/9/2009 1011 9.73 88.85 NI NA
+
+7/14/2009 1018 9.41 89.17 NI NA
+
+9/4/2009 1352 10.56 88.02 NI NA
+
+10/9/2009 1646 10.91 87.67 NI NA
+
+12/8/2009 1101 10.25 88.33 NI NA
+
+1/28/2010 0825 10.14 88.44 NI NR
+
+2/26/2010 1027 10.01 88.57 NI NA
+
+3/12/2010 1208 9.93 88.65 NI NA
+
+4/14/2010 1028 9.03 89.55 NI NA
+
+5/12/2010 0914 10.17 88.41 NI NA
+
+7/2/2010 1334 10.59 87.99 NI NA
+
+8/9/2010 1424 10.99 87.59 NI NA
+
+10/18/2010 1251 10.88 87.70 NI NA
+
+10/20/2010 1111 10.85 87.73 NI NA
+
+11/2/2010 1238 10.95 87.63 NI NA
+
+1/11/2011 1321 10.42 88.16 NI NA
+
+3/14/2011 1218 8.86 89.72 NI NA
+
+4/15/2011 1053 9.78 88.80 NI NA
+
+11/2/2011 1511 9.35 89.23 NI NA
+
+7/21/2011 952 10.50 88.08 NI NA
+
+1/9/2012 1207 9.98 88.60 NI NA
+
+7/31/2012 1350 10.66 87.92 NI NA
+
+10/31/2012 Monitoring well inaccessible due to 2012 excavation, located underneath stockpile and equipment
+
+11/29/2012 Monitoring well inaccessible due to 2012 excavation, located underneath stockpile and equipment
+
+11/30/2012 Monitoring well inaccessible due to 2012 excavation, located underneath stockpile and equipment
+
+4/19/2013 953 9.91 88.67 NI NA
+
+6/18/2103 1145 8.91 89.67 NI NR
+
+MW-8 7/14/2009 0952 96.35 8.06 88.29 NI NA
+
+12/8/2009 1130 8.98 87.37 NI NA
+
+1/28/2010 0831 8.79 87.56 NI NA
+
+2/26/2010 Monitoring well submerged in puddle during event and not gauged
+
+3/12/2010 1232 9.69 86.66 NI NA
+
+4/14/2010 Monitoring well not located during gauging event.
+
+5/12/2010 0928 8.73 87.62 NI NA
+
+6/27/2011 1222 8.64 87.71 NI NA
+
+7/21/2011 1022 8.81 87.54 NI NA
+
+7/31/2012 1530 8.68 87.67 NI NA
+
+10/31/2012 Monitoring well submerged in puddle during event and not gauged
+
+11/29/2012 1300 8.54 87.81 NI NA
+
+11/30/2012 818 8.65 87.70 NI NA
+
+4/19/2013 1058 8.30 88.05 NI NA
+
+6/18/2013 1030 Well has been paved over in during road resurfacing
+
+Page 6
+
+
+
+TABLE 1 - MONITORING WELL GAUGING RESULTS
+
+POST-EXCAVATION EVENTS
+
+104-106 East Main Street
+
+Milford, MA
+
+RTN 2-17173
+
+MW ID Date Time
+
+PVC 
+
+Casing 
+
+Elevation
+
+Depth to
+
+Water
+
+Water 
+
+Table 
+
+Elevation 
+
+(feet)
+
+LNAPL Thickness (feet)
+
+(measured with 
+
+Heron H.O1L)
+
+LNAPL Thickness (feet)
+
+(measured with bailer)
+
+MW-16 2/12/2009 1551 98.77 10.09 88.68 NI NA
+
+4/16/2009 1020 9.63 89.14 NI NA
+
+5/12/2009 1258 9.59 89.18 NI NA
+
+6/9/2009 1013 9.88 88.89 NI NA
+
+7/14/2009 1014 9.57 89.20 NI NA
+
+9/4/2009 1350 10.84 85.51 NI NA
+
+10/9/2009 1639 11.07 85.28 NI NA
+
+12/8/2009 1103 10.31 88.46 NI NA
+
+1/28/2010 0823 10.25 88.52 NI NA
+
+2/26/2010 1024 10.24 88.53 NI NA
+
+3/12/2010 1207 10.11 88.66 NI NA
+
+4/14/2010 1033 9.21 89.56 NI NA
+
+5/12/2010 0912 10.40 88.37 NI NA
+
+7/2/2010 1332 10.86 87.91 NI NA
+
+8/9/2010 1422 11.25 87.52 NI NA
+
+10/18/2010 1258 11.17 87.60 NI NA
+
+11/2/2010 1240 11.23 87.54 NI NA
+
+1/11/2011 1319 10.65 88.12 NI NA
+
+3/14/2011 1215 9.00 89.77 NI NA
+
+4/15/2011 1052 9.56 89.21 NI NA
+
+7/21/2011 950 10.73 88.04 NI NA
+
+11/2/2011 1510 9.50 89.27 NI NA
+
+1/9/2012 1205 10.19 88.58 NI NA
+
+7/31/2012 1405 10.92 87.85 NI NA
+
+10/31/2012 Monitoring well inaccessible due to 2012 excavation, located underneath asphalt stockpile
+
+11/29/2012 1338 10.64 88.13 NI NA
+
+11/30/2012 915 10.66 88.11 NI NA
+
+4/19/2013 1206 10.14 88.63 NI NA
+
+6/18/2013 1140 9.15 89.62 NI NR
+
+MW-201* 12/16/2008 1056 97.52 8.37 89.15 NI NA
+
+1/15/2009 1024 8.96 88.56 NI NA
+
+2/12/2009 1604 9.93 87.59 NI NA
+
+4/16/2009 1042 8.69 88.83 NI NA
+
+5/12/2009 1314 8.36 89.16 NI NA
+
+6/9/2009 0944 8.50 89.02 NI NA
+
+7/14/2009 0935 8.30 89.22 NI NA
+
+9/4/2009 1409 10.14 87.38 NI NA
+
+10/9/2009 1627 10.11 87.41 NI NA
+
+12/8/2009 1124 9.81 87.71 NI NA
+
+1/28/2010 0918 9.68 87.84 NI NA
+
+2/26/2010 1045 10.71 86.81 NI NA
+
+3/12/2010 1224 9.61 87.91 NI NA
+
+4/14/2010 1103 8.79 88.73 NI NA
+
+5/12/2010 0923 9.70 87.82 NI NA
+
+7/2/2010 1349 9.91 87.61 NI NA
+
+8/9/2010 1443 10.28 87.24 NI NA
+
+10/18/2010 1133 10.27 87.25 NI NA
+
+11/2/2010 1215 10.28 87.24 NI NA
+
+1/11/2011 1235 10.49 87.03 NI NA
+
+3/14/2011 1258 8.59 88.93 NI NA
+
+4/15/2011 1123 9.34 88.18 NI NA
+
+7/21/2011 1045 9.80 87.72 NI NA
+
+11/2/2011 1545 9.01 88.51 NI NA
+
+1/9/2012 1230 9.37 88.15 NI NA
+
+7/31/2012 1545 9.10 88.42 NI NA
+
+10/31/2012 1133 9.63 87.89 <0.01 NA
+
+11/29/2012 1312 9.93 87.59 NI NA
+
+11/30/2012 810 9.75 87.77 NI NA
+
+4/19/2013 1121 9.36 88.16 NI NA
+
+6/18/2013 1015 8.68 88.84 NI NA
+
+Page 7
+
+
+
+TABLE 1 - MONITORING WELL GAUGING RESULTS
+
+POST-EXCAVATION EVENTS
+
+104-106 East Main Street
+
+Milford, MA
+
+RTN 2-17173
+
+MW ID Date Time
+
+PVC 
+
+Casing 
+
+Elevation
+
+Depth to
+
+Water
+
+Water 
+
+Table 
+
+Elevation 
+
+(feet)
+
+LNAPL Thickness (feet)
+
+(measured with 
+
+Heron H.O1L)
+
+LNAPL Thickness (feet)
+
+(measured with bailer)
+
+MW-202* 12/16/2008 1106 97.49 8.64 88.85 NI NA
+
+1/15/2009 1024 9.24 88.25 NI NA
+
+2/12/2009 1603 9.62 87.87 NI NA
+
+4/16/2009 1040 9.08 88.41 NI NA
+
+5/12/2009 1313 8.78 88.71 NI NA
+
+6/9/2009 0940 8.84 88.65 NI NA
+
+7/14/2009 0933 8.67 88.82 NI NA
+
+9/4/2009 1407 10.18 87.31 NI NA
+
+10/9/2009 1612 10.17 87.32 NI NA
+
+12/8/2009 1126 9.89 87.60 NI NA
+
+1/28/2010 0916 9.74 87.75 NI NA
+
+2/26/2010 1047 9.76 87.73 NI NA
+
+3/12/2010 1225 9.67 87.82 NI NA
+
+4/14/2010 1105 8.94 88.55 NI NA
+
+5/12/2010 0925 9.81 87.68 NI NA
+
+7/2/2010 1350 10.03 87.46 NI NA
+
+8/9/2010 1445 10.37 87.12 NI NA
+
+10/18/2010 1140 10.37 87.12 NI NA
+
+11/2/2010 1211 10.43 87.06 NI NA
+
+1/11/2011 1237 10.59 86.90 NI NA
+
+3/14/2011 1300 8.78 88.71 NI NA
+
+4/15/2011 1124 9.53 87.96 NI NA
+
+6/27/2011 945 9.72 87.77 NI NA
+
+7/21/2011 1103 9.92 87.57 NI NA
+
+11/2/2011 1547 9.14 88.35 NI NA
+
+1/9/2012 1240 9.55 87.94 NI NA
+
+7/31/2012 1535 10.00 87.49 NI NA
+
+10/31/2012 1136 9.70 87.79 NI NA
+
+11/29/2012 1316 9.82 17.64 NI NA
+
+11/30/2012 813 9.83 87.66 NI NA
+
+4/19/2013 1129 9.52 87.97 NI NA
+
+6/18/2013 1022 8.72 88.77 NI NA
+
+MW-202D* 12/16/2008 1109 97.54 8.78 88.76 NI NA
+
+1/15/2009 1026 9.50 88.04 NI NA
+
+2/12/2009 1601 9.78 87.76 NI NA
+
+4/16/2009 1038 9.47 88.07 NI NA
+
+5/12/2009 1311 9.02 88.52 NI NA
+
+6/9/2009 0935 9.10 88.44 NI NA
+
+7/14/2009 0939 8.89 88.65 NI NA
+
+9/4/2009 1406 10.34 87.20 NI NA
+
+10/9/2009 1613 10.39 87.15 NI NA
+
+12/8/2009 1128 9.95 87.59 NI NA
+
+1/28/2010 0915 9.81 87.73 NI NA
+
+2/26/2010 1049 9.83 87.71 NI NA
+
+3/12/2010 1227 9.76 87.78 NI NA
+
+4/14/2010 1107 9.03 88.51 NI NA
+
+5/12/2010 0926 9.90 87.64 NI NA
+
+7/2/2010 1351 10.07 87.47 NI NA
+
+8/9/2010 1446 10.49 87.05 NI NA
+
+7/21/2011    Monitoring well not located during gauging event.
+
+7/31/2012 1540 10.12 87.42 NI NA
+
+10/31/2012 1138 9.81 87.73 NI NA
+
+11/29/2012 1318 9.92 87.62 NI NA
+
+11/30/2012 815 9.94 87.60 NI NA
+
+4/19/2013 1455 NM 9.77 NM NI NA
+
+6/18/2103 1025 8.79 NM NI NA
+
+Page 8
+
+
+
+TABLE 1 - MONITORING WELL GAUGING RESULTS
+
+POST-EXCAVATION EVENTS
+
+104-106 East Main Street
+
+Milford, MA
+
+RTN 2-17173
+
+MW ID Date Time
+
+PVC 
+
+Casing 
+
+Elevation
+
+Depth to
+
+Water
+
+Water 
+
+Table 
+
+Elevation 
+
+(feet)
+
+LNAPL Thickness (feet)
+
+(measured with 
+
+Heron H.O1L)
+
+LNAPL Thickness (feet)
+
+(measured with bailer)
+
+MW-9* 12/16/2008 1111 97.13 7.31 89.82 NI NA
+
+1/15/2009 1104 8.03 89.10 NI NA
+
+2/12/2009 1608 8.29 88.84 NI NA
+
+4/16/2009 1045 8.02 89.11 NI NA
+
+5/12/2009 1316 8.13 89.00 NI NA
+
+6/9/2009 0933 8.40 88.73 NI NA
+
+7/14/2009 0943 7.92 89.21 NI NA
+
+9/4/2009 1404 8.76 88.37 NI NA
+
+10/9/2009 1618 9.43 87.70 NI NA
+
+12/8/2009 1133 8.28 88.85 NI NA
+
+1/28/2010 0856 8.14 88.99 NI NA
+
+2/26/2010 1051 7.95 89.18 NI NA
+
+3/12/2010 1236 8.09 89.04 NI NA
+
+4/14/2010 1111 7.54 89.59 NI NA
+
+5/12/2010 0931 8.49 88.64 NI NA
+
+7/2/2010 1351 8.84 88.29 NI NA
+
+8/9/2010 1448 9.30 87.83 NI NA
+
+10/18/2010 1336 8.72 88.41 NI NA
+
+11/2/2010 1259 9.15 87.98 NI NA
+
+1/11/2011 1431 8.64 88.49 NI NA
+
+3/14/2011 1229 7.31 89.82 NI NA
+
+4/15/2011 1104 8.11 89.02 NI NA
+
+6/27/2011 1320 8.46 88.67 NI NA
+
+7/21/2011 1006 8.80 88.33 NI NA
+
+11/2/2011 1521 7.57 89.56 NI NA
+
+1/9/2012 1220 8.44 88.69 NI NA
+
+7/31/2012 1510 8.94 88.19 NI NA
+
+10/31/2012 1025 8.46 15.45 NI NA
+
+11/29/2012 1308 8.65 88.48 NI NA
+
+11/30/2012 829 8.64 88.49 NI NA
+
+4/19/2013 1104 8.20 88.93 NI NA
+
+6/18/2013 1039 7.27 89.86 NI NA
+
+GP201-MW* 12/16/2008 1552 97.70 --- --- NI NA
+
+1/15/2009 1052 8.83 88.87 NI NA
+
+2/12/2009 1545 9.33 88.37 NI NA
+
+5/12/2009 1242 8.60 89.10 NI NA
+
+6/9/2009 0948 8.81 88.89 NI NA
+
+7/14/2009 1003 8.61 89.09 NI NA
+
+9/4/2009 1411 9.99 87.71 NI NA
+
+10/9/2009 1627 10.11 87.59 NI NA
+
+1/28/2010 0858 9.74 87.96 NI NA
+
+2/26/2010 1038 9.58 88.12 NI NA
+
+3/12/2010 1217 9.47 88.23 NI NA
+
+4/14/2010 1044 8.62 89.08 NI NA
+
+5/12/2010 0904 9.63 88.07 NI NA
+
+7/2/2010 1343 9.93 87.77 NI NA
+
+8/9/2010 1435 10.30 87.40 NI NA
+
+10/18/2010 1318 10.26 87.44 NI NA
+
+10/20/2010 1045 10.22 87.48 NI NA
+
+11/2/2010 1246 10.29 87.41 NI NA
+
+1/11/2011 1433 10.27 87.43 NI NA
+
+3/14/2011 1242 8.40 89.30 NI NA
+
+4/15/2011 1114 9.22 88.48 NI NA
+
+7/21/2011 1045 9.80 87.90 NI NA
+
+11/2/2011 1536 8.90 88.80 NI NA
+
+1/9/2012 1230 9.38 88.32 NI NA
+
+7/31/2012 1548 9.99 87.71 NI NA
+
+10/31/2012 1113 9.69 88.01 NI NA
+
+11/29/2012 1400 9.78 87.92 NI NA
+
+11/30/2012 835 9.74 87.96 NI NA
+
+4/19/2013 1130 9.32 88.38 NI NA
+
+6/18/2013 934 8.58 89.12 NI NA
+
+Page 9
+
+
+
+TABLE 1 - MONITORING WELL GAUGING RESULTS
+
+POST-EXCAVATION EVENTS
+
+104-106 East Main Street
+
+Milford, MA
+
+RTN 2-17173
+
+MW ID Date Time
+
+PVC 
+
+Casing 
+
+Elevation
+
+Depth to
+
+Water
+
+Water 
+
+Table 
+
+Elevation 
+
+(feet)
+
+LNAPL Thickness (feet)
+
+(measured with 
+
+Heron H.O1L)
+
+LNAPL Thickness (feet)
+
+(measured with bailer)
+
+GP202-MW* 12/16/2008 1553 97.75 --- --- NI NA
+
+1/15/2009 1053 8.90 88.85 NI NA
+
+2/12/2009 1547 9.46 88.29 NI NA
+
+4/16/2009 1011 8.88 88.87 NI NA
+
+5/12/2009 1244 8.60 89.15 NI NA
+
+6/9/2009 0951 8.87 88.88 NI NA
+
+7/14/2009 1005 8.68 89.07 NI NA
+
+9/4/2009 1409 10.07 87.68 NI NA
+
+10/9/2009 1629 10.18 87.57 NI NA
+
+1/28/2010 0901 9.71 88.04 NI NA
+
+2/26/2010 1039 9.66 88.09 NI NA
+
+3/12/2010 1218 9.54 88.21 NI NA
+
+4/14/2010 1038 8.66 89.09 NI NA
+
+5/12/2010 0840 9.69 88.06 NI NA
+
+7/2/2010 1344 10.01 87.74 NI NA
+
+8/9/2010 1437 10.37 87.38 NI NA
+
+10/18/2010 1316 10.31 87.44 NI NA
+
+10/20/2010 1050 10.30 87.45 NI NA
+
+11/2/2010 1247 10.37 87.38 NI NA
+
+1/11/2011 1435 10.31 87.44 NI NA
+
+3/14/2011 1245 8.44 89.31 NI NA
+
+4/15/2011 1124 9.30 88.45 NI NA
+
+6/27/2011 1506 9.78 87.97 NI NA
+
+7/21/2011 1046 9.89 87.86 NI NA
+
+11/2/2011 1538 8.94 88.81 NI NA
+
+1/9/2012 1231 9.45 88.30 NI NA
+
+7/31/2012 1553 10.10 87.65 NI NA
+
+10/31/2012 1116 9.80 87.95 NI NA
+
+11/29/2012 1401 9.79 87.96 NI NA
+
+11/30/2012 837 9.80 87.95 NI NA
+
+4/19/2013 1138 9.40 88.35 <0.01 NR
+
+6/18/2013 939 8.63 89.12 NI NA
+
+GP204-MW* 1/15/2009 1055 97.90 8.91 88.99 NI NA
+
+4/16/2009 1007 8.90 89.00 NI NA
+
+5/12/2009 1247 8.78 89.12 NI NA
+
+6/9/2009 0954 9.00 88.90 NI NA
+
+7/14/2009 1007 8.77 89.13 NI NA
+
+9/4/2009 1407 10.16 87.74 NI NA
+
+10/9/2009 1633 10.27 87.63 NI NA
+
+12/8/2009 1120 9.88 88.02 NI NA
+
+1/28/2010 0904 9.77 88.13 NI NA
+
+2/26/2010 1040 9.73 88.17 NI NA
+
+3/12/2010 1219 9.59 88.31 NI NA
+
+4/14/2010 1051 8.72 89.18 NI NA
+
+5/12/2010 0907 9.75 88.15 NI NA
+
+7/2/2010 1345 10.04 87.86 NI NA
+
+8/9/2010 1438 10.46 87.44 NI NA
+
+10/18/2010 1310 10.40 87.50 NI NA
+
+10/20/2010 1051 10.39 87.51 NI NA
+
+11/2/2010 1248 10.46 87.44 NI NA
+
+1/11/2011 1436 10.42 87.48 NI NA
+
+3/14/2011 1247 8.50 89.40 NI NA
+
+4/15/2011 1116 9.41 88.49 NI NA
+
+7/21/2011 1048 9.98 87.92 NI NA
+
+11/2/2011 1539 9.00 88.90 NI NA
+
+1/9/2012 1232 9.51 88.39 NI NA
+
+7/31/2012 1555 10.14 87.76 NI NA
+
+10/31/2012 1118 9.85 88.05 NI NA
+
+11/29/2012 1403 9.89 88.01 NI NA
+
+11/30/2012 839 9.90 88.00 NI NA
+
+4/19/2013 1140 9.57 88.33 NI NA
+
+6/18/2013 942 8.68 89.22 NI NA
+
+Page 10
+
+
+
+TABLE 1 - MONITORING WELL GAUGING RESULTS
+
+POST-EXCAVATION EVENTS
+
+104-106 East Main Street
+
+Milford, MA
+
+RTN 2-17173
+
+MW ID Date Time
+
+PVC 
+
+Casing 
+
+Elevation
+
+Depth to
+
+Water
+
+Water 
+
+Table 
+
+Elevation 
+
+(feet)
+
+LNAPL Thickness (feet)
+
+(measured with 
+
+Heron H.O1L)
+
+LNAPL Thickness (feet)
+
+(measured with bailer)
+
+GP205-MW* 1/10/1900 1601 97.87 --- --- NI NA
+
+1/15/2009 1057 8.91 88.96 NI NA
+
+4/16/2009 1003 8.86 89.01 NI NA
+
+5/12/2009 1250 8.70 89.17 NI NA
+
+6/9/2009 0957 8.93 88.94 NI NA
+
+7/14/2009 1008 8.69 89.18 NI NA
+
+9/4/2009 1405 10.08 87.79 NI NA
+
+10/9/2009 1635 10.19 87.68 NI NA
+
+12/8/2009 1118 9.77 88.10 NI NA
+
+1/28/2010 906 9.66 88.21 NI NA
+
+2/26/2010 1042 9.61 88.26 NI NA
+
+3/12/2010 1220 9.49 88.38 NI NA
+
+4/14/2010 1046 8.61 89.26 NI NA
+
+5/12/2010 0909 9.66 88.21 NI NA
+
+7/2/2010 1346 9.99 87.88 NI NA
+
+8/9/2010 1439 10.39 87.48 NI NA
+
+10/18/2010 1308 10.32 87.55 NI NA
+
+10/20/2010 1052 10.39 87.48 NI NA
+
+11/2/2010 1250 10.42 87.45 NI NA
+
+1/11/2011 1438 10.35 87.52 NI NA
+
+3/14/2011 1249 8.41 89.46 NI NA
+
+4/15/2011 1117 9.30 88.57 NI NA
+
+7/21/2011 1050 9.94 87.93 NI NA
+
+11/2/2011 1540 8.91 88.96 NI NA
+
+1/9/2012 1234 9.45 88.42 NI NA
+
+7/31/2012 1559 10.05 87.82 NI NA
+
+10/31/2012 1122 9.79 88.08 NI NA
+
+11/29/2012 1404 9.82 88.05 NI NA
+
+11/30/2012 841 9.81 88.06 NI NA
+
+4/19/2013 1145 9.38 88.49 NI NA
+
+6/18/2013 954 8.58 89.29 NI NA
+
+GP206-MW* 5/12/2009 1253 97.72 8.59 89.13 NI NA
+
+6/9/2009 1000 8.78 88.94 NI NA
+
+7/14/2009 1011 8.59 89.13 NI NA
+
+9/4/2009 1403 9.97 87.75 NI NA
+
+10/9/2009 1637 10.08 87.64 NI NA
+
+12/8/2009 1117 9.67 88.05 NI NA
+
+1/28/2010 0909 9.56 88.16 NI NA
+
+2/26/2010 1043 9.53 88.19 NI NA
+
+3/12/2010 1221 9.44 88.28 NI NA
+
+4/14/2010 1048 8.56 89.16 NI NA
+
+5/12/2010 0911 9.57 88.15 NI NA
+
+7/2/2010 1347 9.96 87.76 NI NA
+
+8/9/2010 1440 10.30 87.42 NI NA
+
+10/18/2010 1322 10.22 87.50 NI NA
+
+10/20/2010 1053 10.22 87.50 NI NA
+
+11/2/2010 1252 10.30 87.42 NI NA
+
+1/11/2011 1330 10.76 86.96 NI NA
+
+3/14/2011 1251 8.33 89.39 NI NA
+
+4/15/2011 1119 9.16 88.56 NI NA
+
+7/21/2011 1053 9.79 87.93 NI NA
+
+11/2/2011 1541 8.81 88.91 NI NA
+
+1/9/2012 1236 9.35 88.37 NI NA
+
+7/31/2012 1603 9.96 87.76 NI NA
+
+10/31/2012 1126 9.66 88.06 NI NA
+
+11/29/2012 1406 9.69 88.03 NI NA
+
+11/30/2012 843 9.73 87.99 NI NA
+
+4/19/2013 1148 9.30 88.42 NI NA
+
+6/18/2013 958 8.51 89.21 NI NA
+
+Page 11
+
+
+
+TABLE 1 - MONITORING WELL GAUGING RESULTS
+
+POST-EXCAVATION EVENTS
+
+104-106 East Main Street
+
+Milford, MA
+
+RTN 2-17173
+
+MW ID Date Time
+
+PVC 
+
+Casing 
+
+Elevation
+
+Depth to
+
+Water
+
+Water 
+
+Table 
+
+Elevation 
+
+(feet)
+
+LNAPL Thickness (feet)
+
+(measured with 
+
+Heron H.O1L)
+
+LNAPL Thickness (feet)
+
+(measured with bailer)
+
+GP207B-MW* 4/16/2009 1014 97.78 8.89 88.89 NI NA
+
+5/12/2009 1255 8.59 89.19 NI NA
+
+6/9/2009 1003 8.92 88.86 NI NA
+
+7/14/2009 Monitoring well not accessible due to surface obstruction.
+
+9/4/2009 1411 10.16 87.62 NI NA
+
+10/9/2009 Monitoring well not accessible due to surface obstruction.
+
+12/8/2009 1115 9.84 87.94 NI NA
+
+1/28/2010 0911 9.52 88.26 NI NA
+
+2/26/2010 1044 9.70 88.08 NI NA
+
+3/12/2010 1222 9.60 88.18 NI NA
+
+4/14/2010 1050 8.72 89.06 NI NA
+
+5/12/2010 0912 9.75 88.03 NI NA
+
+7/2/2010 1348 10.03 87.75 NI NA
+
+8/9/2010 1441 10.44 87.34 NI NA
+
+10/18/2010 1320 10.40 87.38 NI NA
+
+10/20/2010 1055 10.34 87.44 NI NA
+
+11/2/2010 1254 10.43 87.35 NI NA
+
+1/11/2011 1331 9.94 87.84 NI NA
+
+3/14/2011 1254 8.48 89.30 NI NA
+
+4/15/2011 1120 9.33 88.45 NI NA
+
+7/21/2011 1056 9.93 87.85 NI NA
+
+11/2/2011 1543 9.00 88.78 NI NA
+
+1/9/2012 1237 9.56 88.22 NI NA
+
+7/31/2012 1605 10.07 87.71 NI NA
+
+10/31/2012 1129 9.63 88.15 NI NA
+
+11/29/2012 1407 9.83 87.95 NI NA
+
+11/30/2012 845 9.86 87.92 NI NA
+
+4/19/2013 1151 9.43 88.35 NI NR
+
+6/18/2013 1002 8.56 89.22 NI NR
+
+VE-2 6/9/2009 1025 97.46 9.04 88.42 NI NA
+
+7/14/2009 0927 8.76 88.70 NI NA
+
+9/4/2009 1400 9.72 87.74 NI NA
+
+10/9/2009 1606 10.21 87.25 NI NA
+
+12/8/2009 1110 9.48 87.98 NI NA
+
+1/28/2010 0833 9.35 88.11 NI NA
+
+2/26/2010 1036 9.40 88.06 NI NA
+
+3/12/2010 1214 9.28 88.18 NI NA
+
+4/14/2010 1113 8.67 88.79 NI NA
+
+5/12/2010 0917 9.47 87.99 NI NA
+
+7/2/2010 1341 9.71 87.75 NI NA
+
+8/9/2010 1433 10.04 87.42 NI NA
+
+10/18/2010 1235 9.93 87.53 NI NA
+
+10/20/2010 1122 9.95 87.51 NI NA
+
+11/2/2010 1232 10.04 87.42 NI NA
+
+1/11/2011 1252 9.63 87.83 NI NA
+
+3/14/2011 1226 8.55 88.91 NI NA
+
+4/15/2011 1100 9.21 88.25 NI NA
+
+6/27/2011 1331 9.45 88.01 NI NA
+
+7/21/2011 959 9.64 87.82 NI NA
+
+11/2/2011 1517 8.80 88.66 NI NA
+
+1/9/2012 1213 9.26 88.20 NI NA
+
+7/31/2012 1453 9.69 87.77 NI NA
+
+10/31/2012 0950 9.46 88.00 NI NA
+
+11/29/2012 1233 9.51 87.95 NI NA
+
+11/30/2012 923 9.53 87.93 NI NA
+
+4/19/2013 939 9.14 88.32 NI NA
+
+6/18/2013 1204 8.37 89.09 NI NR
+
+GP302-MW 7/14/2009 0910 98.01 8.99 89.02 NI NA
+
+9/4/2009 1414 10.35 87.66 NI NA
+
+10/9/2009 1552 10.49 87.52 NI NA
+
+12/8/2009 1112 10.03 87.98 NI NA
+
+1/28/2010 0837 9.87 88.14 NI NA
+
+2/26/2010 1056 10.84 87.17 NI NA
+
+3/12/2010 1215 9.72 88.29 NI NA
+
+4/14/2010 1054 8.84 89.17 NI NA
+
+5/12/2010 0852 9.93 88.08 NI NA
+
+7/2/2010 1355 10.32 87.69 NI NA
+
+8/9/2010 1450 10.69 87.32 NI NA
+
+10/18/2010 1302 10.66 87.35 NI NA
+
+10/20/2010 1130 10.72 87.29 NI NA
+
+11/2/2010 1241 10.69 87.32 NI NA
+
+1/11/2011 1317 10.17 87.84 NI NA
+
+3/14/2011 1235 8.61 89.40 NI NA
+
+4/15/2011 1111 9.52 88.49 NI NA
+
+6/27/2011 1422 10.10 87.91 NI NA
+
+7/21/2011 1019 10.20 87.81 NI NA
+
+11/2/2011 1534 9.13 88.88 NI NA
+
+1/9/2012 1228 9.70 88.31 NI NA
+
+7/31/2012 1410 10.36 87.65 NI NA
+
+10/31/2012 1010 10.10 87.91 NI NA
+
+11/29/2012 1329 10.12 87.89 NI NA
+
+11/30/2012 912 10.13 87.88 NI NA
+
+4/19/2013 1206 9.66 88.35 NI NR
+
+6/18/2013 1225 8.80 89.21 NI NA
+
+Page 12
+
+
+
+TABLE 1 - MONITORING WELL GAUGING RESULTS
+
+POST-EXCAVATION EVENTS
+
+104-106 East Main Street
+
+Milford, MA
+
+RTN 2-17173
+
+MW ID Date Time
+
+PVC 
+
+Casing 
+
+Elevation
+
+Depth to
+
+Water
+
+Water 
+
+Table 
+
+Elevation 
+
+(feet)
+
+LNAPL Thickness (feet)
+
+(measured with 
+
+Heron H.O1L)
+
+LNAPL Thickness (feet)
+
+(measured with bailer)
+
+GP303-MW 7/14/2009 0914 97.22 8.26 88.96 NI NA
+
+9/4/2009 1423 9.72 87.50 NI NA
+
+10/9/2009 1558 9.76 87.46 NI NA
+
+12/8/2009 1154 9.44 87.78 NI NA
+
+1/28/2010 0840 9.31 87.91 NI NA
+
+3/12/2010 Monitoring well not located during gauging event.
+
+4/14/2010 1351 8.39 88.84 0.01 <0.01
+
+5/12/2010 0921 9.34 87.91 0.03 0.01
+
+7/2/2010 1417 9.66 87.56 NI NA
+
+8/9/2010 1418 --- --- NI NR
+
+10/18/2010    Monitoring well not located during gauging event.
+
+10/20/2010 925 10.04 87.18 0.17 <0.01
+
+11/2/2010 1257 10.00 87.22 0.01 <0.01
+
+1/11/2011 1405 9.46 87.76 <0.01 <0.01
+
+3/14/2011 1322 8.31 88.91 <0.01 <0.01
+
+4/15/2011 1134 9.03 88.19 <0.01 <0.01
+
+7/21/2011 1130 9.50 87.72 <0.01 <0.01
+
+11/2/2011 1549 8.59 88.63 0.03 <0.01
+
+1/9/2012 1303 9.09 88.13 0.01 <0.01
+
+7/31/2012 1435 9.64 87.58 0.07 <0.01
+
+8/1/2012 925 9.58 87.64 0.01 <0.01
+
+10/31/2012 Monitoring well has been destroyed during 2012 excavation
+
+11/29/2012 Monitoring well has been destroyed during 2012 excavation
+
+11/30/2012 Monitoring well has been destroyed during 2012 excavation
+
+4/19/2013 Monitoring well has been destroyed during 2012 excavation
+
+GP304-MW 7/14/2009 0907 98.42 9.42 89.00 0.03 0.01
+
+9/4/2009 1447 10.66 87.79 0.03 0.03
+
+10/9/2009 1551 10.92 87.54 0.04 NA
+
+12/8/2009 1158 9.34 89.11 0.03 <0.01
+
+1/28/2010 0813 9.18 89.24 <0.01 NR
+
+2/26/2010 1104 10.09 88.33 NI ND
+
+3/12/2010 1245 9.99 88.43 NI NA
+
+4/14/2010 1143 9.15 89.27 <0.01 NR
+
+5/12/2010 0858 10.22 88.20 NI NA
+
+7/2/2010 1357 10.61 87.81 0.02 <0.01
+
+8/9/2010 1452 10.95 87.47 NI NA
+
+10/18/2010 1302 10.66 87.76 NI NA
+
+11/2/2010 1302 10.69 87.73 NI NA
+
+1/11/2011 1323 10.45 87.97 NI NA
+
+3/14/2011 1238 8.98 89.44 NI NA
+
+4/15/2011 1112 9.85 88.57 NI NA
+
+6/27/2011 1434 10.24 88.18 NI NA
+
+7/21/2011 1020 10.50 87.92 NI NA
+
+11/2/2011 1530 9.42 89.00 NI NA
+
+1/9/2012 1246 9.98 88.44 NI NA
+
+7/31/2012  Monitoring well not located during gauging event.
+
+10/31/2012 Monitoring well is 1"diameter and bent to obstruction at ground surface
+
+11/29/2012 Monitoring well is 1"diameter and bent to obstruction at ground surface
+
+11/30/2012 Monitoring well is 1"diameter and bent to obstruction at ground surface
+
+4/19/2013 Monitoring well not located during gauging event.
+
+6/18/2013 1208 Monitoring well not located during gauging event.
+
+GP305-MW 7/14/2009 0919 97.32 8.49 88.83 NI NA
+
+9/4/2009 1426 9.69 87.63 NI NA
+
+10/9/2009 1554 10.97 86.35 NI NA
+
+12/8/2009 1145 9.42 87.90 NI NA
+
+1/28/2010 0842 9.40 87.92 NI NA
+
+2/26/2010 1102 9.32 88.00 NI NA
+
+3/12/2010 1243 9.18 88.14 NI NA
+
+4/14/2010 1125 8.45 88.87 NI NA
+
+5/12/2010 0849 9.36 87.96 NI NA
+
+7/2/2010 1403 9.90 87.42 NI NA
+
+8/9/2010 1454 10.31 87.01 NI NA
+
+10/18/2010 1230 9.92 87.40 NI NA
+
+10/20/2010 1127 9.90 87.42 NI NA
+
+11/2/2010 1300 9.97 87.35 NI NA
+
+1/11/2011 1231 10.12 87.20 NI NA
+
+3/14/2011 Monitoring well not located during gauging event.
+
+4/15/2011 1107 9.02 88.30 NI <0.01
+
+6/27/2011 1447 9.32 88.00 NI NA
+
+7/21/2011 1105 9.55 87.77 NI NA
+
+11/2/2011 1525 8.69 88.63 NI NA
+
+1/9/2012 1244 9.42 87.90 NI NA
+
+7/31/2012 1442 9.63 87.69 NI NA
+
+8/1/2012 1044 9.64 87.68 <0.01 NA
+
+10/31/2012 Monitoring well has been destroyed during 2012 excavation
+
+11/29/2012 Monitoring well has been destroyed during 2012 excavation
+
+11/30/2012 Monitoring well has been destroyed during 2012 excavation
+
+4/19/2013 959 9.06 88.26 NI NA
+
+6/18/2013 1212 8.24 89.08 NI NR
+
+Page 13
+
+
+
+TABLE 1 - MONITORING WELL GAUGING RESULTS
+
+POST-EXCAVATION EVENTS
+
+104-106 East Main Street
+
+Milford, MA
+
+RTN 2-17173
+
+MW ID Date Time
+
+PVC 
+
+Casing 
+
+Elevation
+
+Depth to
+
+Water
+
+Water 
+
+Table 
+
+Elevation 
+
+(feet)
+
+LNAPL Thickness (feet)
+
+(measured with 
+
+Heron H.O1L)
+
+LNAPL Thickness (feet)
+
+(measured with bailer)
+
+GP306-MW 7/14/2009 0923 97.22 8.54 88.68 NI NA
+
+9/4/2009 1429 10.03 87.19 NI NA
+
+10/9/2009 1603 10.06 87.16 NI NA
+
+12/8/2009 1143 9.44 87.78 NI NA
+
+1/28/2010 0849 9.38 87.84 NI NA
+
+2/26/2010 1052 9.34 87.88 NI NA
+
+3/12/2010 1240 9.23 87.99 NI NA
+
+4/14/2010 1120 8.58 88.64 NI NA
+
+5/12/2010 0920 9.41 87.81 NI NA
+
+7/2/2010 1405 9.89 87.33 NI NA
+
+8/9/2010 1456 10.33 86.89 NI NA
+
+10/18/2010 1135 10.28 86.94 NI NA
+
+10/20/2010 1133 9.90 87.32 NI NA
+
+11/2/2010 1228 9.90 87.32 NI NA
+
+1/11/2011 1258 9.55 87.67 NI NA
+
+3/14/2011 1230 8.43 88.79 NI NA
+
+4/15/2011 1105 9.10 88.12 NI NA
+
+6/27/2011 1454 9.33 87.89 NI NA
+
+7/21/2011 1008 9.55 87.67 NI NA
+
+11/2/2011 1519 8.73 8.73 <0.01 <0.01
+
+1/9/2012 1217 9.15 88.07 NI NA
+
+7/31/2012 1447 9.61 87.61 NI NA
+
+8/1/2012 1046 9.61 87.61 NI NA
+
+10/31/2012 1100 9.31 87.91 NI NA
+
+11/29/2012 1226 9.37 87.85 NI NA
+
+11/30/2012 918 9.40 87.82 NI NA
+
+4/19/2013 952 9.05 88.17 NI NA
+
+6/18/2013 1202
+
+GP307-MW 7/14/2009 1051 97.55 8.98 88.57 NI NA
+
+9/4/2009 Monitoring well not located during gauging event.
+
+10/9/2009 Monitoring well not located during gauging event.
+
+12/8/2009 1139 9.77 87.78 NI NA
+
+1/28/2010 0846 9.60 87.95 NI NA
+
+2/26/2010 1100 9.68 87.87 NI NA
+
+3/12/2010 1241 9.56 87.99 NI NA
+
+4/14/2010 1122 8.95 88.60 NI NA
+
+5/12/2010 0918 9.77 87.78 NI NA
+
+7/2/2010 1353 10.00 87.55 NI NA
+
+8/9/2010 1458 10.32 87.23 NI NA
+
+10/18/2010 1134 10.25 87.30 NI NA
+
+10/20/2010 1125 10.24 87.31 NI NA
+
+11/2/2010 1230 10.38 87.17 NI NA
+
+1/11/2011 1233 10.47 87.08 NI NA
+
+3/14/2011 1227 8.84 88.71 NI NA
+
+7/21/2011 1001 9.94 87.61 NI NA
+
+11/2/2011 1518 9.12 88.43 NI NA
+
+1/9/2012 1215 9.55 88.00 NI NA
+
+7/31/2012 1450 9.97 87.58 NI NA
+
+10/31/2012 0942 9.62 87.93 NI NA
+
+11/29/2012 1224 9.70 87.85 NI NA
+
+11/30/2012 920 9.69 87.86 NI NA
+
+4/19/2013 944 9.36 88.19 NI NA
+
+6/18/2013 1206 8.62 88.93 NI NA
+
+LEGEND
+
+NI: No separate phase petroleum identified
+
+NR: No separate phase petroleum recovered with bailer
+
+NM: Not measured 
+
+NA: Bailer not deployed
+
+* Denotes off-property monitoring well
+
+Note:
+
+1.  Water Table Elevations for monitoring wells exhibiting a measurable thickness of LNAPL have been calculated using a 
+
+ correction factor provided in the US EPA Ground Water Issue Report for Light Non-Aqueous Phase Liquids (EPA/540/S-95/500).
+
+Monitoring well not located during gauging event.
+
+Page 14
+
+
+
+TABLE 2 - PRODUCT RECOVERY VOLUMES 
+
+POST-EXCAVATION EVENTS
+
+104-106 East Main Street
+
+Milford, MA
+
+RTN 2-17173
+
+12/16/2008 RW-101 PRC-1 1310 9.5 4 4 0.63
+
+RW-102 PRC-2 1015 9.54 4 3 NR
+
+RW-103 PRC-3 1020 9.66 4 3 NR
+
+RW-101 PRC-1 1412 8.26 4 4 0.63
+
+RW-101 PRC-1 1458 8.25 4 4 0.63
+
+RW-101 PRC-1 1615 8.34 4 4 NR
+
+2/12/2009 RW-101 PRC-1 1524 9.50 4 4 <0.1
+
+RW-102 PRC-2 1526 9.54 4 3 <0.1
+
+RW-103 PRC-3 1527 9.66 4 3 <0.1
+
+4/16/2009 RW-101 PRC-1 0916 9.04 4 4 0.2
+
+RW-102 PRC-2 0925 9.11 4 3 <0.1
+
+RW-103 PRC-3 0934 9.23 4 3 NR
+
+5/12/2009 RW-101 PRC-1 1327 9.58 4 4 0.1
+
+RW-102 PRC-2 1337 8.78 4 3 NR
+
+RW-103 PRC-3 1342 9.08 4 3 NR
+
+6/9/2009 RW-101 PRC-1 1045 9.18 4 4 NR
+
+RW-102 PRC-2 1050 8.96 4 3 NR
+
+RW-103 PRC-3 1055 7.22 4 3 NR
+
+7/14/2009 RW-101 PRC-1 1106 8.88 4 4 NR
+
+RW-102 PRC-2 1114 8.71 4 3 NR
+
+RW-103 PRC-3 1120 8.98 4 3 NR
+
+7/15/2009 RW-101 PRC-1 1652 NA 4 4 NR
+
+RW-102 PRC-2 1704 NA 4 3 NR
+
+RW-103 PRC-3 1717 NA 4 3 NR
+
+9/4/2009 RW-101 PRC-1 1505 10.21 4 4 NR
+
+RW-102 PRC-2 1508 9.98 4 3 NR
+
+RW-103 PRC-3 1510 10.26 4 3 NR
+
+GP105-MW Bailer 1439 9.33 NA NA 0.0042
+
+GP109-MW Bailer 1436 9.94 NA NA 0.0010
+
+GP303-MW Bailer 1423 9.76 NA NA 0.0003
+
+10/9/2009 RW-101 PRC-1 1526 10.49 4 4 <0.1
+
+RW-102 PRC-2 1529 10.13 4 3 NR
+
+RW-103 PRC-3 1534 10.45 4 3 NR
+
+GP105-MW PRC-4 1520 NA 2 1 <0.1
+
+12/8/2009 RW-101 PRC-1 1245 9.85 4 4 0.2
+
+RW-102 PRC-2 1256 9.66 4 3 NR
+
+RW-103 PRC-3 1302 9.98 4 3 NR
+
+GP105-MW PRC-4 1210 9.92 2 1 0.1
+
+GP109-MW Bailer 1205 9.80 NA NA 0.079
+
+1/28/2010 RW-101 PRC-1 1034 9.74 4 4 0.2
+
+RW-102 PRC-2 1041 9.52 4 3 NR
+
+RW-103 PRC-3 1052 9.86 4 3 NR
+
+GP109-MW PRC-4 949 9.59 2 1 <0.1
+
+Product
+
+Recovery
+
+Canister ID
+
+Well ID
+
+Depth to 
+
+Water 
+
+(ft.)
+
+Time
+
+Keck  
+
+PRC 
+
+Diameter 
+
+(in.)
+
+Canister Size 
+
+(L)
+
+Volume of
+
+Product
+
+Recovered 
+
+(L)
+
+Date
+
+
+
+TABLE 2 - PRODUCT RECOVERY VOLUMES 
+
+POST-EXCAVATION EVENTS
+
+104-106 East Main Street
+
+Milford, MA
+
+RTN 2-17173
+
+Product
+
+Recovery
+
+Canister ID
+
+Well ID
+
+Depth to 
+
+Water 
+
+(ft.)
+
+Time
+
+Keck  
+
+PRC 
+
+Diameter 
+
+(in.)
+
+Canister Size 
+
+(L)
+
+Volume of
+
+Product
+
+Recovered 
+
+(L)
+
+Date
+
+2/26/2010 RW-101 PRC-1 1136 9.68 4 4 0.2
+
+RW-102 PRC-2 1144 9.57 4 3 NR
+
+RW-103 PRC-3 1150 9.90 4 3 NR
+
+GP105-MW PRC-4 1116 9.76 2 1 <0.1
+
+3/12/2010 RW-101 PRC-1 1309 9.56 4 4 0.2
+
+RW-102 PRC-2 1320 9.40 4 3 NR
+
+RW-103 PRC-3 1331 9.86 4 3 NR
+
+GP105-MW PRC-4 1250 9.60 2 1 0.1
+
+4/14/2010 RW-101 PRC-1 1215 8.68 4 4 0.75
+
+RW-102 PRC-2 1230 8.65 4 3 NR
+
+RW-103 PRC-3 1242 9.03 4 3 NR
+
+GP105-MW PRC-4 1245 8.75 2 1 0.003
+
+5/12/2010 RW-101 PRC-1 Canister not deployed.
+
+RW-102 PRC-2 1000 9.67 4 3 NR
+
+RW-103 PRC-3 1007 9.91 4 3 NR
+
+GP105-MW PRC-4 Canister not deployed.
+
+5/13/2010 RW-101 PRC-1 849 9.81 4 4 NR
+
+RW-101 PRC-5 1151 9.80 4 1 1
+
+RW-101  1156 9.80 4 1 0.7
+
+RW-101 PRC-5 1306 9.77 4 1 1
+
+RW-101 PRC-6 1309 9.77 4 1 1
+
+RW-101 PRC-5 1411 9.77 4 1 0.3
+
+RW-101 PRC-6 1408 9.77 4 1 0.3
+
+RW-102 PRC-2 1000 9.67 4 3 NR
+
+RW-103 PRC-3 1007 9.91 4 3 NR
+
+GP303-MW PRC-4 1232 NA 2 1 0.005
+
+GP303-MW PRC-4 1416 NA 2 1 NR
+
+7/2/2010 RW-101 PRC-5 1412 9.97 3 1 0.7
+
+RW-101 PRC-6 1412 9.97 2 1 0.9
+
+RW-101 PRC-4 1511 9.96 3 1 0.6
+
+RW-102 PRC-2 1419 10.06 3 3 NONE
+
+RW-103 PRC-3 1421 10.24 3 3 0.5
+
+8/9/2010 RW-101 PRC-4 1357 10.48 3 1 1
+
+RW-101 PRC-5 1401 10.48 3 1 1
+
+RW-101 PRC-4 1516 NI 3 1 0.2
+
+RW-101 PRC-5 1520 NI 3 1 0.1
+
+RW-101 PRC-4 1610 NI 3 1 0.1
+
+RW-101 PRC-5 1614 NI 3 1 0.1
+
+RW-102 PRC-2 1408 10.23 3 3 0
+
+RW-103 PRC-1 1414 10.38 4 3 0
+
+GP303-MW PRC-6 1419 10.38 2 1 0
+
+
+
+TABLE 2 - PRODUCT RECOVERY VOLUMES 
+
+POST-EXCAVATION EVENTS
+
+104-106 East Main Street
+
+Milford, MA
+
+RTN 2-17173
+
+Product
+
+Recovery
+
+Canister ID
+
+Well ID
+
+Depth to 
+
+Water 
+
+(ft.)
+
+Time
+
+Keck  
+
+PRC 
+
+Diameter 
+
+(in.)
+
+Canister Size 
+
+(L)
+
+Volume of
+
+Product
+
+Recovered 
+
+(L)
+
+Date
+
+10/18/2010 RW-101 PRC-5 1540 9.60 3 1 0.9
+
+RW-101 PRC-4 1540 9.60 3 1 0.2
+
+RW-101 PRC-5 1645 NI 3 1 0.1
+
+RW-101 PRC-4 1645 NI 3 1 0.1
+
+RW-102 PRC-2 1555 9.00 3 3 <0.1
+
+RW-103 PRC-1 1605 8.38 4 3 0.5
+
+10/20/2010 GP303-MW PRC-6 925 10.04 2 1 0.1
+
+GP303-MW PRC-6 1155 9.99 2 1 0
+
+RW-101 PRC-4 1030 9.26 3 1 0.5
+
+RW-101 PRC-5 1030 9.26 3 1 0.4
+
+RW-101 PRC-4 1220 9.29 3 1 0.8
+
+RW-101 PRC-5 1220 9.29 3 1 0.1
+
+RW-101 PRC-4 1510 9.29 3 1 0.6
+
+RW-101 PRC-5 1510 9.29 3 1 0
+
+11/2/2010 RW-101 PRC-5 1055 9.25 3 1 0.4
+
+RW-101 PRC-4 1055 9.25 3 1 0.2
+
+RW-102 PRC-2 1100 9.09 3 3 0
+
+RW-103 PRC-3 1105 8.42 3 3 <0.1
+
+GP303-MW PRC-6 1110 10.00 2 1 0.1
+
+1/11/2011 RW-101 PRC-5 1340 8.85 3 1 0.1
+
+RW-101 PRC-4 1345 8.26 3 1 0.9
+
+RW-102 PRC-2 1356 8.26 3 3 <0.1
+
+RW-103 PRC-3 1355 7.96 3 3 0.2
+
+GP111-MW PRC-6 1400 9.44 2 1 <0.1
+
+3/14/2011 RW-101 PRC-5 1340 7.34 3 1 0.5
+
+RW-101 PRC-4 1345 7.34 3 1 0.25
+
+RW-102 PRC-2 1356 7.32 3 3 0.2
+
+RW-103 PRC-3 1355 6.78 3 3 0
+
+GP111-MW PRC-6 1400 8.38 2 1 0.15
+
+4/15/2011 RW-101 PRC-5 1340 8.21 3 1 0.7
+
+RW-101 PRC-4 1345 8.21 3 1 1.9
+
+RW-102 PRC-2 1356 8.04 3 3 0
+
+RW-103 PRC-3 1355 7.43 3 3 0
+
+GP111-MW PRC-6 1400 9.03 2 1 0
+
+7/21/2011 RW-101 PRC-5 1250 8.80 3 1 0.7
+
+RW-101 PRC-4 1256 8.80 3 1 0.1
+
+RW-102 PRC-2 1301 8.71 3 3 0
+
+RW-103 PRC-3 1305 7.90 3 3 0
+
+GP111-MW PRC-6 1310 9.44 2 1 <0.1
+
+
+
+TABLE 2 - PRODUCT RECOVERY VOLUMES 
+
+POST-EXCAVATION EVENTS
+
+104-106 East Main Street
+
+Milford, MA
+
+RTN 2-17173
+
+Product
+
+Recovery
+
+Canister ID
+
+Well ID
+
+Depth to 
+
+Water 
+
+(ft.)
+
+Time
+
+Keck  
+
+PRC 
+
+Diameter 
+
+(in.)
+
+Canister Size 
+
+(L)
+
+Volume of
+
+Product
+
+Recovered 
+
+(L)
+
+Date
+
+11/2/2011 RW-101 PRC-4 1612 7.79 3 1 0.1
+
+RW-101 PRC-5 1616 7.79 3 1 <0.1
+
+RW-102 PRC-2 1622 7.63 3 3 <0.1
+
+RW-103 PRC-3 1630 7.06 3 3 <0.1
+
+GP111-MW PRC-6 1556 8.83 2 1 <0.1
+
+1/9/2012 RW-101 PRC-4 1305 8.32 3 1 0.8
+
+RW-101 PRC-5 1305 8.32 3 1 <0.1
+
+RW-102 PRC-2 1622 8.18 3 3 0
+
+RW-103 PRC-3 1630 7.59 3 3 0
+
+GP303-MW PRC-6 1556 9.08 2 1 <0.1
+
+7/31/2012 RW-101 PRC-4 1645 8.99 3 1 0.074
+
+RW-101 PRC-5* 1645 8.99 3 1 0
+
+RW-102 PRC-2 1700 8.69 3 3 NR
+
+RW-103 PRC-3 1715 8.93 3 3 <0.01
+
+GP303-MW PRC-6 1630 9.64 2 1 <0.01
+
+GP111-MW Bailer 1730 7.10 0 0 <0.01
+
+8/1/2012 GP105-MW PRC-6 1040 10.10 2 1 <0.01
+
+10/31/2012 GP105-MW PRC-6 1050 9.83 2 1 0
+
+11/29/2012 GP105-MW PRC-6 1330 9.85 2 1 0
+
+RW-102 PRC-2 1459 8.50 3 3 0
+
+11/30/2012 GP105-MW PRC-6 905 9.86 2 1 0
+
+RW-102 PRC-2 1030 8.63 3 3 0
+
+NA: Not Available
+
+NR: No Product Recovered
+
+*PRC-5 drain opened while removing canister and drained product back into the recovery well RW-101.
+
+25Approximate Total Petroleum Recovered (L)
+
+
+
+TABLE 3 - SOIL EXCAVATION ANALYTICAL RESULTS
+
+104-106 East Main Street
+
+Milford, MA
+
+RTN 2-17173
+
+Method 1 S-1 --- --- --- 30 500 500 100 NS NS 500 500 100 1,000 100 500 300 1,000 1,000 1,000 500 1,000 1,000 1,000 7 70 7 70 2 7 0.7 1,000 1,000 2,500 1,000
+
+Method 1 S-2 --- --- --- 200 1,000 1,000 500 NS NS 1,000 1,000 500 2,500 500 1,000 500 3,000 3,000 3,000 1,000 3,000 3,000 3,000 40 400 40 400 4 40 4 3,000 3,000 5,000 3,000
+
+Method 1 S-3 --- --- --- 900 3,000 2,500 500 NS NS 3,000 700 500 5,000 500 3,000 500 5,000 5,000 5,000 3,000 5,000 5,000 5,000 300 3,000 300 3,000 30 300 30 5,000 5,000 5,000 5,000
+
+UCL --- --- --- 9,000 10,000 10,000 5,000 NS NS 10,000 10,000 5,000 20,000 5,000 10,000 5,000 10,000 10,000 10,000 10,000 10,000 10,000 10,000 3,000 10,000 3,000 10,000 300 3,000 300 10,000 20,000 20,000 10,000
+
+     Excavation A
+
+TP 102 S1 12.5' 10/01/12 12.5 15.5 ND ND ND ND ND ND ND 0.412 3.22 7.06 9.24 ND ND ND ND ND ND ND ND ND ND ND ND ND ND ND ND ND 73.6 29.6 47.6
+
+SS-1 16' 10/01/12 16 22.4 ND ND 0.196 ND 0.296 0.135 0.431 1.67 4.2 18.8 30.7 ND 0.705 ND ND ND ND ND ND ND ND ND ND ND ND ND ND ND 92.1 39.5 59.8
+
+NE FACE 13.5' 10/03/12 13.5 367.5 ND ND 10 <0.95 18 4.65 22.65 21 99.2 302 432 6.01 37.7 <2.1 8.12 ND ND ND ND ND ND ND ND ND <2.1 ND <2.1 ND 3,470 1,080 1,900
+
+SE FACE 15' 10/03/12 15 1.5 ND ND ND ND ND ND ND ND ND ND ND ND ND ND ND ND ND ND ND ND ND ND ND ND ND ND ND ND ND ND ND
+
+BOT 16' 10/03/12 16 60.7 ND ND 0.198 ND 0.362 0.15 0.512 1.19 5.08 15.8 30.3 ND 2.24 ND ND ND ND ND ND ND ND ND ND ND ND ND ND ND 264 97.9 185
+
+N FACE 15' 10/03/12 15 153.8 ND ND ND ND ND ND ND 4.66 9.83 65.1 80.8 ND 2.79 0.57 0.445 ND ND ND ND ND ND ND ND ND ND ND ND ND 265 88.3 206
+
+NW FACE 15' 10/03/12 15 64.7 ND ND 0.215 ND ND 0.088 0.088 3.33 5.67 31.2 46.7 0.991 7.22 ND 0.812 ND ND ND ND ND ND ND ND ND ND ND ND ND 780 236 501
+
+SW FACE 15' 10/03/12 15 355.2 ND ND ND <0.567 1.66 ND 1.66 17.8 49.6 251 295 1.75 10.8 ND 2.2 ND 0.984 ND 0.432 0.375 ND ND ND ND ND ND ND ND 1,000 291 623
+
+     Excavation B
+
+CS1 13-14' 10/10/12 13-14' 118.6 ND ND 0.371 0.071 1.53 0.43 1.96 0.373 40.8 15.5 23.1 ND ND ND ND ND ND ND ND ND ND ND ND ND ND ND ND ND ND ND ND
+
+CS2 13-14' 10/10/12 13-14' 10.1 ND ND ND ND ND ND ND ND ND ND ND ND ND ND ND ND 0.858 ND 0.622 ND ND ND ND ND ND ND ND ND ND ND ND
+
+CS3 13' 10/10/12 13' 3.4 ND ND ND ND ND ND ND ND ND ND ND ND ND ND ND ND ND ND ND ND ND ND ND ND ND ND ND ND ND ND ND
+
+CS4 12' 10/10/12 12' 2.5 ND ND ND ND ND ND ND ND ND ND ND ND ND ND ND ND ND ND ND ND ND ND ND ND ND ND ND ND ND ND ND
+
+CS5 14' 10/10/12 14' 3.2 ND ND ND ND ND ND ND ND ND ND ND ND ND ND ND ND ND ND ND ND ND ND ND ND ND ND ND ND ND ND ND
+
+CS6 15' 10/10/12 15' 75.9 ND ND 0.636 ND 0.825 0.545 1.37 10.6 13.6 134 145 1.94 12.8 0.891 1.87 ND 0.774 ND ND ND ND ND ND ND ND ND ND ND 1,580 473 891
+
+CS7 15' 10/10/12 15' 377.6 ND ND 1.69 ND 2.69 1.14 3.83 11.1 27.2 107 85.3 2.05 11.2 <2.0 3.84 ND ND ND ND ND ND ND ND ND <2.0 ND <2.0 ND 1,620 475 361
+
+CS8 15' 10/10/12 15' 4 ND ND ND ND ND ND 0 ND ND 2.63 ND ND ND ND ND ND ND ND ND ND ND ND ND ND ND ND ND ND ND ND ND
+
+     Excavation C
+
+CS9 15' 10/11/12 15' 17.7 ND ND ND ND ND ND 0 ND ND ND ND ND ND ND ND ND ND ND ND ND ND ND ND ND ND ND ND ND ND ND ND
+
+CS10 13.5' 10/11/12 13.5' 33.3 ND ND ND ND ND ND 0 ND ND ND ND ND ND ND ND ND ND ND ND ND ND ND ND ND ND ND ND ND ND ND ND
+
+CS13 14' 10/11/12 14' 371.4 ND ND 0.59 ND 0.577 0.158 0.735 3.33 12 38.4 54.8 0.633 5.35 ND 1.76 ND 0.528 ND ND ND ND ND ND ND ND ND ND ND 731 263 366
+
+CS15 14' 10/11/12 14' 188.5 ND ND ND ND ND ND ND 0.176 ND 2.2 4.32 ND ND ND ND ND ND ND ND ND ND ND ND ND ND ND ND ND 26 20.1 18.2
+
+CS18 14' 10/11/12 14' 111.1 ND ND ND ND ND ND ND 1.08 2.04 18 21.1 ND 1.07 0.476 0.458 ND 1.41 0.409 1.48 1.36 1.06 1.26 0.841 1.08 1.27 0.756 ND 0.786 278 114 166
+
+LEGEND
+
+ND Not Detected Above Laboratory Detection Limits
+
+NS No Standard Published
+
+NT Not Tested
+
+NA Not Applicable
+
+Notes:
+
+     1. All concentrations and standards are reported in mg/kg.
+
+     2. Values preceeded with a < symbol indicate laboratory minimum detection limits which exceed M1 S1/GW1 standard
+
+     3. Bolded values indicate concentrations above M2 S-1 standards.
+
+  
+T
+
+o
+lu
+
+en
+e 
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+ 
+
+(m
+g
+/k
+
+g
+)
+
+S
+a
+m
+
+p
+le
+
+ I
+D
+
+S
+a
+m
+
+p
+li
+
+n
+g
+ D
+
+a
+te
+
+S
+a
+m
+
+p
+le
+
+ D
+ep
+
+th
+
+(f
+ee
+
+t)
+
+P
+ID
+
+ R
+ea
+
+d
+in
+
+g
+
+(p
+p
+
+m
+)
+
+  
+B
+
+en
+ze
+
+n
+e 
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+(m
+g
+/k
+
+g
+)
+
+A
+ce
+
+n
+a
+p
+
+h
+th
+
+y
+le
+
+n
+e
+
+(m
+g
+/k
+
+g
+)
+
+  
+E
+
+th
+y
+lb
+
+en
+ze
+
+n
+e 
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+(m
+g
+/k
+
+g
+)
+
+  
+M
+
+T
+B
+
+E
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+ 
+
+(m
+g
+/k
+
+g
+)
+
+m
++
+
+p
+-X
+
+y
+le
+
+n
+e 
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+(m
+g
+/k
+
+g
+)
+
+o
+-X
+
+y
+le
+
+n
+e 
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+ 
+
+(m
+g
+/k
+
+g
+)
+
+T
+o
+ta
+
+l 
+X
+
+y
+le
+
+n
+es
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+(m
+g
+/k
+
+g
+)
+
+  
+N
+
+a
+p
+
+h
+th
+
+a
+le
+
+n
+e 
+
+(b
+y
+ M
+
+A
+ V
+
+P
+H
+
+) 
+(m
+
+g
+/k
+
+g
+)
+
+  
+C
+
+5
+-C
+
+8
+ A
+
+li
+p
+
+h
+a
+ti
+
+cs
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+ 
+
+(m
+g
+/k
+
+g
+)
+
+  
+C
+
+9
+-C
+
+1
+2
+ A
+
+li
+p
+
+h
+a
+ti
+
+cs
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+(m
+g
+/k
+
+g
+)
+
+  
+C
+
+9
+-C
+
+1
+0
+ A
+
+ro
+m
+
+a
+ti
+
+cs
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+(m
+g
+/k
+
+g
+)
+
+N
+a
+p
+
+h
+th
+
+a
+le
+
+n
+e
+
+(b
+y
+ M
+
+A
+ E
+
+P
+H
+
+) 
+(m
+
+g
+/k
+
+g
+)
+
+2
+-m
+
+et
+h
+
+y
+ln
+
+a
+p
+
+h
+th
+
+a
+le
+
+n
+e
+
+(m
+g
+/k
+
+g
+)
+
+In
+d
+
+en
+o
+ (
+
+1
+,2
+
+,3
+-c
+
+d
+) 
+
+p
+y
+re
+
+n
+e 
+
+(m
+g
+/k
+
+g
+)
+
+A
+ce
+
+n
+a
+p
+
+h
+th
+
+en
+e
+
+(m
+g
+/k
+
+g
+)
+
+F
+lu
+
+o
+re
+
+n
+e
+
+(m
+g
+/k
+
+g
+)
+
+P
+h
+
+en
+a
+n
+
+th
+re
+
+n
+e
+
+(m
+g
+/k
+
+g
+)
+
+A
+n
+
+th
+ra
+
+ce
+n
+
+e
+
+(m
+g
+/k
+
+g
+)
+
+F
+lu
+
+o
+ra
+
+n
+th
+
+en
+e
+
+(m
+g
+/k
+
+g
+)
+
+P
+y
+re
+
+n
+e
+
+(m
+g
+/k
+
+g
+)
+
+B
+en
+
+zo
+(a
+
+)a
+n
+
+th
+ra
+
+ce
+n
+
+e
+
+(m
+g
+/k
+
+g
+)
+
+C
+h
+
+ry
+se
+
+n
+e
+
+(m
+g
+/k
+
+g
+)
+
+B
+en
+
+zo
+(b
+
+)f
+lu
+
+o
+ra
+
+n
+th
+
+en
+e
+
+(m
+g
+/k
+
+g
+)
+
+B
+en
+
+zo
+(k
+
+)f
+lu
+
+o
+ra
+
+n
+th
+
+en
+e
+
+(m
+g
+/k
+
+g
+)
+
+B
+en
+
+zo
+(a
+
+)p
+y
+re
+
+n
+e
+
+(m
+g
+/k
+
+g
+)
+
+D
+ib
+
+en
+zo
+
+(a
+,h
+
+)a
+n
+
+th
+ra
+
+ce
+n
+
+e
+
+(m
+g
+/k
+
+g
+)
+
+B
+en
+
+zo
+(g
+
+,h
+,i
+
+)p
+er
+
+ly
+en
+
+e
+
+(m
+g
+/k
+
+g
+)
+
+C
+9
+-C
+
+1
+8
+ A
+
+li
+p
+
+h
+a
+ti
+
+cs
+
+(m
+g
+/k
+
+g
+)
+
+C
+1
+
+9
+-C
+
+3
+6
+ A
+
+li
+p
+
+h
+a
+ti
+
+cs
+
+(m
+g
+/k
+
+g
+)
+
+C
+1
+
+1
+-C
+
+2
+2
+ A
+
+ro
+m
+
+a
+ti
+
+cs
+ 
+
+(m
+g
+/k
+
+g
+)
+
+
+
+%U
+
+%U
+
+%U
+
+%U
+
+#
+
+#
+#
+
+# Þ
+
+Þ
+Þ
+
+Þ
+
+#
+
+$Z
+
+$Z
+
+$Z
+
+$Z
+
+$Z
+$Z$Z
+
+$Z
+
+$Z
+
+$Z
+
+$Z
+
+$Z
+
+$Z
+
+$Z
+
+$Z
+
+$Z$Z
+
+$Z
+
+$Z
+
+$Z
+
+$Z
+
+$Z
+
+$Z
+
+$Z
+
+$Z
+
+$Z
+
+$Z$Z
+
+$Z
+
+$Z
+
+$Z
+
+$Z
+$Z
+
+$Z
+
+$Z
+
+$Z
+
+$Z
+
+$Z
+
+$Z
+
+$Z$Z
+
+$Z
+
+$Z
+
+$Z
+
+$Z
+
+$Z
+
+$Z
+
+2185000-02G
+
+2185000-06G
+
+2185000-03S
+
+      Site Coordinates
+   Datum:  UTM, NAD83
+     Zone:  19
+      Units:  Meters
+            N: 4669332.6
+            E: 292671.1
+
+Remediation & Environmental
+Management Services, Inc.
+35 Winthrop Street
+Winchester, MA 01890
+Phone:  (781) 721-4455 
+Fax:    (781) 721-4456
+
+June 2013                  Figure 1
+
+N
+
+104 - 106 East Main Street
+Milford, MA
+RTN 2-17173
+
+Milford
+
+1/4 Mile Radii
+
+Source: MassGIS,  June 2002; U.S.G.S Topographic 7.5 Minute Series.
+National Geodetic Vertical Datum (NGVD). Contour Interval is 3 Meters
+
+#
+
+#Y Certified Vernal Pools
+NHESP-Estimated Habitats for Rare Wildlife.
+("NHESP 1999-2001 Estimated Habitats of Rare
+Wildlife: Use with Wetlands Protection Act")
+
+%U DEP Tier Classified Oil or Hazardous Material Sites 
+$Z DEP Underground Storage Tank
+
+Solid Waste Facility
+
+106 East Main Street, Milford, MA
+
+Legend
+DEP Approved Zone IIs
+
+Interim Wellhead Protection Area 
+
+ACEC
+
+Non-potential Drinking Water Source Area
+High Yield (>300 gpm)
+
+Medium Yield (100-300 gpm)
+
+Low Yield (<50 gpm)
+Potential Drinking Water Source Area
+
+High Yield (>300 gpm)
+
+Medium Yield (100-300 gpm)
+
+Low Yield (<50 gpm)
+Protected Open Space
+Major Basin/Subbasin
+
+Public Water Supply Wells
+
+Community Groundwater Well
+
+Community Surface Water Well
+Proposed Well
+Non Community Well
+
+#Þ
+Y
+V
+
+#Þ
+
+400 0 400 800 Feet
+
+1:15000
+
+SITE LOCUS
+
+0.5 Mile Radii
+
+E:
+\M
+
+AS
+S-
+
+G
+IS
+
+-D
+AT
+
+A\
+Si
+
+te
+-lo
+
+cu
+s-
+
+m
+ap
+
+s\
+G
+
+IB
+BS
+
+\1
+06
+
+_E
+as
+
+t_
+M
+
+ai
+n_
+
+M
+ilf
+
+or
+d.
+
+ap
+r
+
+
+
+E:
+\C
+LI
+EN
+TS
+
+\P
+ro
+_T
+ec
+h
+\1
+
+06
+ E
+
+as
+t 
+
+Ma
+in
+ S
+
+tr
+ee
+t 
+
+Mi
+lf
+or
+d
+\J
+
+ul
+y 
+20
+
+08
+ D
+ie
+se
+l 
+Fu
+el
+ R
+el
+ea
+se
+
+\F
+ig
+ur
+es
+
+
+
+E:
+\C
+LI
+EN
+TS
+
+\P
+ro
+_T
+ec
+h
+\1
+
+06
+ E
+
+as
+t 
+
+Ma
+in
+ S
+
+tr
+ee
+t 
+
+Mi
+lf
+or
+d
+\J
+
+ul
+y 
+20
+
+08
+ D
+ie
+se
+l 
+Fu
+el
+ R
+el
+ea
+se
+
+\
+
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+APPENDIX I 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+APPENDIX II 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+12/07/2012
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+01/16/2013
+
+
+	Text1: 10/14/2013
+
+
