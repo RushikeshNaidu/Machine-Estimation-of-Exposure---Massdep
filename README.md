@@ -1,5 +1,5 @@
 # Machine-Estimation-of-Exposure---Massdep
-This repository contains the end-to-end process in building a classification algorithms to classify exposures from immediate response action reports
+This repository contains the end-to-end process in building a classification algorithm to classify exposures from immediate response action reports
 
 # Motivation
 Massachusetts Department of Environmental Protection (MassDEP) is an agency of the commonwealth of massachusetts which ensures the timely cleanup of land, water and air. Immediate Response Reports are mandatory risk reduction measure taken at sites which have been impacted by sudden chemical releases or conditions requiring rapid notification to the MassDEP.
