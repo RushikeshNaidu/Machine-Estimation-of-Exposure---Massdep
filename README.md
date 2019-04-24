@@ -70,7 +70,7 @@ The results were evaluated on the basis of precision and recall. We look at both
 
 If you are using the jupyter notebook, please install all the libraries as prompted. You can install any library using the anaconda prompt :
 
-''' 
+'''python
 pip install library 
 '''
 
