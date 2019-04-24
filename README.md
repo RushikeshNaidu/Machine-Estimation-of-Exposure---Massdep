@@ -65,3 +65,12 @@ Documenting only logistic regression and naive bayes as the two algorithms gave 
 ## 7. Results
 
 The results were evaluated on the basis of precision and recall. We look at both the metrics with a view of the type of implementation in future work.
+
+# 8. Running the codes 
+
+If you are using the jupyter notebook, please install all the libraries as prompted. You can install any library using the anaconda prompt :
+
+''' 
+pip install library 
+'''
+
