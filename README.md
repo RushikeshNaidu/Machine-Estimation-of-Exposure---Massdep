@@ -60,7 +60,7 @@ An approach to the construction of classifiers from imbalanced datasets is descr
 3. Random Forest
 4. XG Boost
 
-Documentign only logistic regression and naive bayes as the two algorithms gave the best results along with time efficiency.
+Documenting only logistic regression and naive bayes as the two algorithms gave the best results along with time efficiency.
 
 ## 7. Results
 
