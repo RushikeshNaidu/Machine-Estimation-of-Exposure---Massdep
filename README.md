@@ -68,9 +68,9 @@ The results were evaluated on the basis of precision and recall. We look at both
 
 # 8. Running the codes 
 
-If you are using the jupyter notebook, please install all the libraries as prompted. You can install any library using the anaconda prompt :
+If you are using the jupyter notebook, please install all the libraries as prompted. You can install any library using the anaconda prompt 
 
-'
-pip install library 
-'
+```
+pip install library
+```
 
